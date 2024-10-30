@@ -1,5 +1,5 @@
 ---
-title: CHÍNH SÁCH BẢO MẬT THÔNG TIN
+title: Chính Sách Bảo Mật Thông Tin
 date: 2024-09-12T21:28:10+07:00
 draft: false
 ---
@@ -8,13 +8,12 @@ draft: false
 
 ## 1. Mục Đích và Phạm Vi
    - Chính sách này nhằm mục đích **bảo vệ thông tin cá nhân** của khách hàng và người dùng.
-   - Áp dụng cho tất cả các **dịch vụ trực tuyến** và **hoạt động thu thập dữ liệu** của công ty.
+   - Áp dụng cho tất cả các **dịch vụ trực tuyến** và **hoạt động thu thập dữ liệu** của công ty chúng tôi.
 
 ## 2. Thu Thập Thông Tin
    ### 2.1. Thông Tin Cá Nhân Được Thu Thập
    - **Thông tin cơ bản**: Họ tên, địa chỉ, số điện thoại, email.
    - **Thông tin tài khoản**: Tên người dùng, mật khẩu.
-   - **Thông tin thanh toán**: Thẻ tín dụng, thông tin giao dịch.
    - **Thông tin hành vi**: Cookies, lịch sử duyệt web, địa chỉ IP.
 
    ### 2.2. Mục Đích Thu Thập
@@ -31,14 +30,13 @@ draft: false
    ### 4.1. Biện Pháp Bảo Mật
    - Sử dụng **mã hóa SSL** để bảo vệ thông tin thanh toán.
    - Hạn chế **truy cập thông tin** cá nhân chỉ cho các nhân viên cần thiết.
-   - Duy trì **hệ thống tường lửa và phần mềm diệt virus** để ngăn chặn các cuộc tấn công.
 
    ### 4.2. Cam Kết Bảo Mật
    - Công ty cam kết **không bán hoặc chia sẻ thông tin cá nhân** cho bên thứ ba vì mục đích thương mại.
    - **Cập nhật thường xuyên** chính sách bảo mật để đảm bảo phù hợp với các quy định pháp luật hiện hành.
 
 ## 5. Quyền Lợi Của Người Dùng
-   - **Truy cập và chỉnh sửa** thông tin cá nhân bất kỳ lúc nào.
+   - Khách hàng cso quyền **Truy cập và chỉnh sửa và Xoá** thông tin cá nhân bất kỳ lúc nào.
    - **Yêu cầu ngừng sử dụng** hoặc xóa thông tin cá nhân.
    - Từ chối **nhận email tiếp thị** bất kỳ lúc nào.
 
@@ -47,7 +45,7 @@ draft: false
    - Trong trường hợp **theo yêu cầu của pháp luật**, công ty có thể phải tiết lộ thông tin cho cơ quan chức năng.
 
 ## 7. Thời Gian Lưu Trữ Thông Tin
-   - Thông tin cá nhân được lưu trữ **trong thời gian cần thiết** để thực hiện mục đích thu thập.
+   - Thông tin cá nhân được lưu trữ **trong thời gian cần thiết** để thực hiện mục đích chăm sóc khách hàng và bảo hành, bảo trì.
    - Có thể **xóa hoặc ẩn danh hóa thông tin** khi không còn cần thiết.
 
 ## 8. Thay Đổi Chính Sách Bảo Mật

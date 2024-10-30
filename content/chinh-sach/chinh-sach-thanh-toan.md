@@ -8,9 +8,7 @@ draft: false
 ## 1. Các Phương Thức Thanh Toán
    - **Thanh toán bằng tiền mặt** khi nhận hàng (COD).
    - **Chuyển khoản ngân hàng** qua các tài khoản của công ty.
-   - **Thanh toán bằng thẻ tín dụng/thẻ ghi nợ** (Visa, MasterCard, JCB).
    - **Ví điện tử** (Momo, ZaloPay, ViettelPay).
-   - **Thanh toán trực tuyến** qua cổng thanh toán (PayPal, OnePay).
 
 ## 2. Quy Định Thanh Toán
    - Khách hàng cần thanh toán **đầy đủ số tiền** theo giá trị đơn hàng đã xác nhận.
@@ -26,37 +24,26 @@ draft: false
    - **Thông tin tài khoản ngân hàng** sẽ được gửi cho khách hàng sau khi đặt hàng thành công.
    - Thanh toán xong, khách hàng vui lòng **gửi xác nhận chuyển khoản** để đơn hàng được xử lý nhanh chóng.
 
-   ### 3.3. Thanh Toán Bằng Thẻ Tín Dụng/Thẻ Ghi Nợ
-   - Khách hàng chọn phương thức thanh toán bằng **thẻ tín dụng/thẻ ghi nợ** khi đặt hàng trên website.
-   - Nhập **thông tin thẻ** và xác nhận thanh toán qua cổng thanh toán bảo mật.
-
-   ### 3.4. Thanh Toán Qua Ví Điện Tử
+   ### 3.3. Thanh Toán Qua Ví Điện Tử
    - Chọn phương thức **ví điện tử** khi đặt hàng và **quét mã QR** hoặc **đăng nhập ví** để thanh toán.
    - Đảm bảo ví điện tử của khách hàng có đủ **số dư** để thực hiện giao dịch.
 
-   ### 3.5. Thanh Toán Trực Tuyến Qua Cổng Thanh Toán
-   - Chọn **cổng thanh toán** (ví dụ: PayPal) và nhập **thông tin tài khoản** để hoàn tất giao dịch.
-
 ## 4. Chính Sách Hoàn Tiền
    - **Hoàn tiền 100%** nếu đơn hàng bị hủy trước khi giao hàng.
-   - Trong trường hợp **trả lại hàng**, tiền sẽ được hoàn lại trong vòng **7-10 ngày làm việc**.
+   - Trong trường hợp **trả lại hàng**, tiền sẽ được hoàn lại trong vòng **1-2 ngày làm việc**.
    - Các chi phí phát sinh trong quá trình hoàn tiền (nếu có) sẽ **do khách hàng chịu**.
 
 ## 5. Bảo Mật Thông Tin Thanh Toán
    - **Mã hóa thông tin** thanh toán để đảm bảo an toàn.
-   - Không lưu trữ **thông tin thẻ tín dụng** của khách hàng trên hệ thống.
+   - Không lưu trữ **thông tin tài khoản, thông tin thanh toán** của khách hàng trên hệ thống.
    - Áp dụng các biện pháp **bảo mật thanh toán trực tuyến** theo chuẩn quốc tế.
 
-## 6. Các Trường Hợp Thanh Toán Đặc Biệt
-   - **Trả góp không lãi suất**: Áp dụng cho một số sản phẩm nhất định và qua các ngân hàng đối tác.
-   - **Chiết khấu thanh toán trước**: Giảm giá cho khách hàng thanh toán **toàn bộ giá trị đơn hàng** trước khi giao hàng.
-
-## 7. Trách Nhiệm Của Khách Hàng
+## 6. Trách Nhiệm Của Khách Hàng
    - **Kiểm tra kỹ thông tin thanh toán** trước khi thực hiện giao dịch.
    - **Giữ lại các chứng từ thanh toán** để đối chiếu khi cần thiết.
    - Thông báo ngay cho công ty nếu phát hiện **giao dịch bất thường**.
 
-## 8. Liên Hệ Hỗ Trợ Thanh Toán
+## 7. Liên Hệ Hỗ Trợ Thanh Toán
    - **Email**: support@khovansango.com
    - **Số điện thoại**: 0966 171 436
    - **Địa chỉ**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội

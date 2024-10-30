@@ -1,34 +1,58 @@
 ---
-title: Chinh Sach Bao Hanh
-date: 2024-09-12T21:28:09+07:00
-draft: false
+title: "Chính Sách Hợp Tác Cùng Đại Lý"
+date: 2024-10-30
+description: "Những nguyên tắc và chính sách quan trọng trong việc hợp tác với đại lý"
 ---
-# Chính Sách Bảo Hành Sản Phẩm
+Kính gửi quý khách hàng Đại Lý cùng các khách hàng cty tư vấn thiết kế.
+# Cam Kết Của Chúng Tôi Với Đại Lý
 
-## 1. Thời Gian Bảo Hành
-   - Sản phẩm được bảo hành trong **thời gian bảo hành** theo từng loại sản phẩm.
-   - Một số sản phẩm có **thời gian bảo hành khác nhau** (ví dụ: 10 năm, 15 năm...), được ghi rõ trên phiếu bảo hành.
+Chúng tôi luôn mong muốn xây dựng mối quan hệ bền vững, lâu dài với các đại lý thông qua:
 
-## 2. Điều Kiện Bảo Hành
-   - Sản phẩm được bảo hành nếu thỏa mãn các điều kiện sau:
-     - **Lỗi do nhà sản xuất** (ví dụ: hỏng hóc, lỗi kỹ thuật).
-     - Sản phẩm còn **nguyên tem bảo hành** và không có dấu hiệu sửa chữa từ bên thứ ba.
-     - Cung cấp đầy đủ **phiếu bảo hành** và **hóa đơn mua hàng**.
+- Sẵn sàng chia sẻ lợi nhuận và cơ hội kinh doanh
+- Luôn đồng hành và hỗ trợ đại lý trong mọi hoàn cảnh
+- Bảo vệ quyền lợi của đại lý trước những thay đổi của thị trường
+- Đảm bảo công bằng trong toàn hệ thống phân phối
+- Hỗ trợ mở rộng thị trường và kênh phân phối
 
-   - Các trường hợp **không được bảo hành** bao gồm:
-     - **Hư hại do người sử dụng** (rơi vỡ, thấm nước, côn trùng xâm nhập).
-     - **Sử dụng sai hướng dẫn** hoặc không đúng mục đích.
-     - Sản phẩm đã **hết thời gian bảo hành** hoặc **không có phiếu bảo hành**.
+## 1. Ưu Đãi Cho Đại Lý
 
-## 3. Quy Trình Bảo Hành
-   ### 3.1. Liên Hệ Trung Tâm Bảo Hành
-   - Khách hàng có thể liên hệ với **trung tâm bảo hành chính hãng** hoặc **đại lý phân phối**.
-   - Cung cấp **thông tin sản phẩm**, **lỗi cần bảo hành**, và **số seri sản phẩm**.
+### Chiết khấu hấp dẫn
+- Dựa trên doanh số cam kết theo quý
+- Tỷ lệ chiết khấu được thỏa thuận từ đầu
+- Được kết hợp với các chương trình khuyến mãi khác
 
-   ### 3.2. Kiểm Tra Tình Trạng Sản Phẩm
-   - Trung tâm bảo hành sẽ **kiểm tra tình trạng sản phẩm** để xác định lỗi.
-   - **Thông báo kết quả** kiểm tra và thời gian dự kiến bảo hành cho khách hàng.
+### Chính sách giá cả
+- Mức giá ưu đãi theo cấp độ đại lý
+- Được bảo vệ giá trong 30 ngày nếu có giảm giá
+- Thông báo trước 30 ngày nếu có tăng giá
 
-   ### 3.3. Tiến Hành Sửa Chữa hoặc Thay Thế
-   - Sản phẩm sẽ được **sửa chữa hoặc thay thế linh kiện** nếu đáp ứng điều kiện bảo hành.
-   - **Đổi sản phẩm mới** nếu không thể sửa chữa được trong thời gi
+## 2. Quyền Lợi Của Đại Lý
+
+### Hỗ trợ marketing
+- Được cung cấp tài liệu quảng cáo (catalogue, banner...)
+- Được quảng bá trên các kênh truyền thông
+- Tham gia mọi chương trình khuyến mãi
+- Cập nhật thông tin sản phẩm và chính sách mới nhất
+
+### Hỗ trợ kỹ thuật
+- Tư vấn kỹ thuật qua điện thoại
+- Hỗ trợ trực tiếp tại chỗ khi cần
+- Được đào tạo về sản phẩm
+
+## 3. Trách Nhiệm Của Đại Lý
+
+Để duy trì mối quan hệ hợp tác tốt đẹp, đại lý cần:
+
+- Tự quản lý và phát triển khu vực được phân công
+- Xây dựng mạng lưới bán hàng chuyên nghiệp
+- Chủ động lập kế hoạch kinh doanh
+- Hỗ trợ các chương trình khuyến mãi
+- Chỉ kinh doanh hàng chính hãng
+- Tuân thủ chính sách giá đề xuất
+
+## 4. Quy Trình Hợp Tác
+
+1. Ký kết hợp đồng nguyên tắc
+2. Được đưa vào danh sách đại lý chính thức
+3. Hưởng đầy đủ các quyền lợi và chính sách ưu đãi
+4. Định kỳ đánh giá và điều chỉnh chính sách phù hợp

@@ -7,29 +7,20 @@ draft: false
 
 ## 1. Phạm Vi Vận Chuyển
    - Giao hàng trong phạm vi **toàn quốc**.
-   - Vận chuyển quốc tế đến một số **quốc gia được hỗ trợ** (có thể áp dụng phụ phí).
 
 ## 2. Thời Gian Giao Hàng
-   ### 2.1. Giao Hàng Nội Thành
-   - Thời gian giao hàng từ **1-2 ngày làm việc**.
-   - Áp dụng cho các thành phố lớn (ví dụ: Hà Nội, TP. Hồ Chí Minh).
+   ### 2.1. Giao Hàng Nội Thành Hà Nội
+   - Thời gian giao hàng từ **chậm nhất 03 giờ hành chính**.
 
    ### 2.2. Giao Hàng Ngoại Thành và Các Tỉnh
-   - Thời gian giao hàng từ **3-5 ngày làm việc**.
-   - Thời gian có thể lâu hơn đối với **các khu vực xa** hoặc **hải đảo**.
-
-   ### 2.3. Vận Chuyển Quốc Tế
-   - Thời gian từ **7-14 ngày làm việc**, tùy vào **quốc gia và khu vực**.
+   - Thời gian giao hàng từ **1-3 ngày làm việc**.
+   - Thời gian có thể lâu hơn đối với **các khu vực xa** 
 
 ## 3. Phí Vận Chuyển
-   - **Miễn phí vận chuyển** cho đơn hàng có giá trị trên **1 triệu VND**.
-   - Phí vận chuyển tiêu chuẩn:
-     - **Nội thành**: 20,000 VND.
-     - **Ngoại thành và các tỉnh**: 40,000 - 60,000 VND, tùy vào khoảng cách.
-   - **Phụ phí** có thể áp dụng cho các sản phẩm **cồng kềnh hoặc nặng**.
+   - **Miễn phí vận chuyển** cho đơn hàng có khối lượng từ 30m trở lên khu vực nội thành Hà nội.
 
 ## 4. Đơn Vị Vận Chuyển
-   - Hợp tác với các **đơn vị vận chuyển uy tín** (ví dụ: Giao Hàng Nhanh, Viettel Post, DHL).
+   - Chúng tôi Hợp tác với các **đơn vị vận chuyển uy tín**
    - **Khách hàng có thể chọn** đơn vị vận chuyển khi đặt hàng (nếu có nhiều tùy chọn).
 
 ## 5. Theo Dõi Đơn Hàng
@@ -47,17 +38,9 @@ draft: false
 
    ### 7.2. Hàng Hóa Bị Hư Hỏng hoặc Thất Lạc
    - **Điều tra và xác nhận** tình trạng với đơn vị vận chuyển.
-   - **Đổi mới sản phẩm** hoặc **hoàn tiền** cho khách hàng nếu hàng bị hư hỏng hoặc mất mát.
+   - **Đổi mới sản phẩm** hoặc **hoàn tiền** cho khách hàng nếu hàng bị hư hỏng hoặc mất mát
 
-## 8. Thay Đổi Địa Chỉ Giao Hàng
-   - Khách hàng có thể yêu cầu thay đổi **địa chỉ giao hàng** trước khi đơn hàng được **chuyển giao cho đơn vị vận chuyển**.
-   - Sau khi hàng đã được gửi đi, **các thay đổi** có thể phát sinh thêm **phí vận chuyển**.
-
-## 9. Chính Sách Giao Hàng Đặc Biệt
-   - **Giao hàng trong ngày**: Áp dụng cho một số khu vực nội thành (cần đặt hàng trước 10h sáng).
-   - **Giao hàng vào ngày nghỉ hoặc lễ**: Có thể áp dụng phụ phí hoặc thời gian giao hàng sẽ **kéo dài hơn**.
-
-## 10. Liên Hệ Hỗ Trợ Vận Chuyển
+## 8. Liên Hệ Hỗ Trợ Vận Chuyển
    - **Email**: support@khovansango.com
    - **Số điện thoại**: 0966 171 436
    - **Địa chỉ**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội
