@@ -3,7 +3,7 @@ author: Mark Dumay
 title: Optimized
 date: 2023-08-04
 weight: 3
-thumbnail: 
+thumbnail: /img/feature/BB93.jpg
 colormode: true
 tilted: true
 ---

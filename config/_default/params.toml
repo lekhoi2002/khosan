@@ -60,7 +60,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["san-go-cong-nghiep", "features", "gallery"]
+    sections = ["features", "san-go-cong-nghiep", "san-go-xuong-ca", "gallery"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -134,7 +134,7 @@
 # toml-docs-end sharing
 
 # toml-docs-start sections
-# [sections]
+   [sections]
     [sections.features]
         title = "Bring your static site to a new level"
         layout = "list"
@@ -155,8 +155,22 @@
         footer = "none"
         orientation = "stacked"
         homepage = 6
-    [sections.gallery]
+    [sections.san-go-xuong-ca]
         title = "Sàn Gỗ Công Nghiệp"
+        layout = "card"
+        sort = "weight"
+        reverse = true
+        background = ""
+        color = "body"
+        style = "border-0 shadow card-zoom card-body-margin"
+        cols = 3
+        padding = "3"
+        header = "full"
+        footer = "none"
+        orientation = "stacked"
+        homepage = 6
+    [sections.gallery]
+        title = "Dự Án Đã Thi Công"
         layout = "card"
         sort = "date"
         reverse = true
@@ -224,7 +238,5 @@
 [opengraph]
     images = ["logo.png"]
     locale = "vn_VN"
-[assets]
-  js = ["js/danhmuc.js"]
 [links]
     hinode = "https://khovansango.com"

@@ -3,7 +3,7 @@ author: Mark Dumay
 title: Fast
 date: 2023-04-24
 weight: 2
-thumbnail: 
+thumbnail: /img/feature/BB84.jpg
 colormode: true
 tilted: true
 ---

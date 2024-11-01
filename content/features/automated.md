@@ -3,7 +3,7 @@ author: Mark Dumay
 title: Automated
 date: 2023-08-04
 weight: 4
-thumbnail: 
+thumbnail: /img/feature/BB69.jpg
 colormode: true
 ---
 

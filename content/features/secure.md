@@ -3,7 +3,7 @@ author: Mark Dumay
 title: Secure
 date: 2023-08-04
 weight: 5
-thumbnail: 
+thumbnail: /img/feature/BB93.jpg
 colormode: true
 tilted: true
 ---

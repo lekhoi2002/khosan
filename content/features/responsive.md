@@ -3,7 +3,7 @@ author: Mark Dumay
 title: Responsive
 date: 2023-08-04
 weight: 1
-thumbnail: 
+thumbnail: /img/feature/BB94.jpg
 colormode: true
 ---
 

@@ -3,7 +3,7 @@ author: Mark Dumay
 title: Multilingual
 date: 2023-04-24
 weight: 6
-thumbnail: 
+thumbnail: /img/feature/BB76.jpg
 colormode: true
 tilted: true
 ---
