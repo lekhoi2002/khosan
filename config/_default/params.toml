@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
+    description = "Kho Ván Sàn Gỗ Uy Tín Giá Rẻ Tại Hà Nội."
     enableDarkMode = true
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]
@@ -209,11 +209,11 @@
 
 [schema]
     type = "Organization"
-    name = "Kho Ván Sàn Gỗ Nhập Khẩu"
+    name = "Xưởng May Bọc Ghế Da Ô Tô Uy Tín Giá Rẻ Tại Hà Nội."
     locale = "vn-VN"
     # twitter = "https://twitter.com/"
     # linkedIn = ""
-    github = "https://github.com//hinode"
+    github = "https://github.com/"
     section = "blog"
     [schema.author]
         name = "Khôi Lê"
