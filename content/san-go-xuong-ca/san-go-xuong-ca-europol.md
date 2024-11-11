@@ -10,4 +10,5 @@ categories: []
 modules:
     - mgallery
 weight: 1
+noCover: true
 ---

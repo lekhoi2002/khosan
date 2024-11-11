@@ -9,6 +9,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-xuong-ca-bakar-will.jpg
 lastmod: 2024-10-13T05:50:32.477Z
 description: Sàn gỗ xương cá Bakar Will - Lựa chọn hoàn hảo cho không gian sang trọng. Bền đẹp, chống ẩm tốt, dễ lắp đặt. Giá cả hợp lý, bảo hành dài hạn.
+noCover: true
 ---
 ## Thông Số Sàn gỗ xương cá Bakar Will
 | Đặc tính                    | Chi tiết                |

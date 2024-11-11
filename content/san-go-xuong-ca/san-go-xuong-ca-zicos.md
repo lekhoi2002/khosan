@@ -3,6 +3,7 @@ author: null
 title: Sàn Gỗ Xương Cá ZICOS
 date: 2024-08-30T21:50:18+07:00
 draft: false
+noCover: true
 categories:
     - san-go
 thumbnail: /img/thumbnail/san-go-xuong-ca-zicos.jpg

@@ -9,8 +9,8 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:46:23.391Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-ebisu.jpg
-description: |2
-     Sàn gỗ xương cá Ebisu - Đẳng cấp Nhật Bản cho ngôi nhà Việt. Độ bền cao, chống trầy xước tuyệt vời. Tạo không gian sống tinh tế và sang trọng.
+description: Sàn gỗ xương cá Ebisu - Đẳng cấp Nhật Bản cho ngôi nhà Việt. Độ bền cao, chống trầy xước tuyệt vời. Tạo không gian sống tinh tế và sang trọng.
+noCover: true
 ---
 ## Thông Số Kỹ Thuật Sàn Xương Cá Ebisu
 

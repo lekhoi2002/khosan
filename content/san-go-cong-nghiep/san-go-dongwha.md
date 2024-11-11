@@ -6,6 +6,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-dongwha.jpg
 lastmod: 2024-10-13T05:18:14.761Z
 description: Sàn gỗ Dongwha - Công nghệ Hàn Quốc, bền đẹp theo thời gian. Chống cong vênh, chịu lực tốt. Lựa chọn hoàn hảo cho không gian sống hiện đại.
+noCover: true
 ---
 ## Thông số kỹ thuật Sàn Gỗ Dongwha
 | Thông số kỹ thuật                | Chi tiết                                                |

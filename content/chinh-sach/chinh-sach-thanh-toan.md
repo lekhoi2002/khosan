@@ -2,6 +2,7 @@
 title: Chính Sách Thanh Toán
 date: 2024-09-12T21:28:09+07:00
 draft: false
+noCover: true
 ---
 # Chính Sách Thanh Toán Sản Phẩm
 

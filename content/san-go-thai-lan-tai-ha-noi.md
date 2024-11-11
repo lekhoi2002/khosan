@@ -5,6 +5,7 @@ date: 2024-09-14T14:12:27.519Z
 lastmod: 2024-09-14T14:12:27.520Z
 thumbnail: ""
 draft: false
+noCover: true
 tags: []
 categories: []
 keywords:

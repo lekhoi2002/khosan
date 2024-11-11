@@ -6,6 +6,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-wilplus.jpg
 lastmod: 2024-10-13T05:17:12.037Z
 description: Sàn gỗ Wilplus - Nâng tầm không gian sống với chất lượng vượt trội. Chống nước tuyệt đối, dễ lau chùi. Đa dạng mẫu mã, phù hợp mọi phong cách.
+noCover: true
 ---
 ## Thông Số Sàn Gỗ WILPLUS
 | Thông tin sản phẩm          | Chi tiết                      |

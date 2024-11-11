@@ -2,6 +2,7 @@
 title: Chinh Sach Bao Hanh
 date: 2024-09-12T21:28:09+07:00
 draft: false
+noCover: true
 ---
 # Chính Sách Bảo Hành Sản Phẩm
 

@@ -3,6 +3,7 @@ author: null
 title: San Go Xương Cá Mega Plus
 date: 2024-08-30T21:50:15+07:00
 draft: false
+noCover: true
 categories:
     - san-go
 modules:

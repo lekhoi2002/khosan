@@ -10,6 +10,7 @@ modules:
 lastmod: 2024-10-13T05:47:29.156Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-berry-alloc.jpg
 description: Sàn gỗ xương cá Berry Alloc - Sự kết hợp hoàn hảo giữa thẩm mỹ và độ bền. Chống nước tuyệt đối, dễ vệ sinh. Lựa chọn hàng đầu cho không gian hiện đại
+noCover: true
 ---
 ## Cấu tạo sàn gỗ công nghiệp Berry Alloc
 

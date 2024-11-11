@@ -6,6 +6,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-kronopol.jpg
 lastmod: 2024-10-13T05:17:51.322Z
 description: Sàn gỗ Kronopol - Chất lượng Ba Lan, bền đẹp vượt thời gian. Chống mài mòn cao, dễ vệ sinh. Lựa chọn thông minh cho không gian sống hiện đại.
+noCover: true
 ---
 ## Thông Số Kỹ Thuật Sàn Gỗ Kronopol
 | DÒNG SẢN PHẨM  | CHIỀU DÀY | QUI CÁCH              | TÍNH NĂNG                       |

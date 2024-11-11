@@ -6,6 +6,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-my-floor.jpg
 lastmod: 2024-10-13T05:17:40.607Z
 description: Sàn gỗ My Floor - Cá nhân hóa không gian sống của bạn. Chất lượng cao, đa dạng mẫu mã. Dễ lắp đặt, bảo trì đơn giản.
+noCover: true
 ---
 ## Đặc điểm của sàn gỗ My Floor
 

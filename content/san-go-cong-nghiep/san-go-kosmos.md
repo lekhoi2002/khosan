@@ -7,6 +7,7 @@ thumbnail: /img/thumbnail/san-go-kosmos.jpg
 lastmod: 2024-10-13T05:17:54.217Z
 description: |
   Sàn gỗ Kosmos - Đưa vẻ đẹp vũ trụ vào ngôi nhà bạn. Công nghệ tiên tiến, chống ẩm tuyệt đối. Tạo không gian sống độc đáo, ấn tượng.
+  noCover: true
 ---
 ## Ưu điểm nổi trội của sàn gỗ Kosmos
 

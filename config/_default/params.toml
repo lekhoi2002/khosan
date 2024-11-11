@@ -60,7 +60,7 @@
 
 # toml-docs-start home
 [home]
-    sections = ["features", "san-go-cong-nghiep", "san-go-xuong-ca", "gallery"]
+    sections = ["san-go-cong-nghiep", "san-go-xuong-ca", "gallery"]
     fullCover = false
     centerHeadline = false
     style = ""
@@ -135,12 +135,6 @@
 
 # toml-docs-start sections
    [sections]
-    [sections.features]
-        title = "Bring your static site to a new level"
-        layout = "list"
-        sort = "weight"
-        reverse = false
-        style = "justify-content-center"
     [sections.san-go-cong-nghiep]
         title = "Sàn Gỗ Công Nghiệp"
         layout = "card"

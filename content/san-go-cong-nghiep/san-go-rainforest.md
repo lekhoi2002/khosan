@@ -6,6 +6,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-rainforest.jpg
 lastmod: 2024-10-13T05:17:24.833Z
 description: Sàn gỗ Rainforest - Mang hơi thở rừng nhiệt đới vào nhà. Chống ẩm tự nhiên, thân thiện môi trường. Tạo không gian sống xanh, bền vững.
+noCover: true
 ---
 ## Đặc Điểm Nổi Bật Của Sàn Gỗ Rainforest
 

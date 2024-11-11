@@ -3,6 +3,7 @@ author: null
 title: Sàn Gỗ Xương Cá Morser
 date: 2024-08-30T21:50:14+07:00
 draft: false
+noCover: true
 categories: []
 modules:
     - mgallery

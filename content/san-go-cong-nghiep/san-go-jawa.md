@@ -6,6 +6,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-jawa.jpg
 lastmod: 2024-10-13T05:17:59.657Z
 description: Sàn gỗ Jawa - Vẻ đẹp độc đáo từ Indonesia. Chống mối mọt tự nhiên, thân thiện môi trường. Tạo không gian sống ấm áp, gần gũi thiên nhiên.
+noCover: true
 ---
 ## Đặc điểm nổi bật của sàn gỗ JAWA
 

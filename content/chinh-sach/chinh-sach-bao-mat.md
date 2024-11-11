@@ -2,6 +2,7 @@
 title: Chính Sách Bảo Mật Thông Tin
 date: 2024-09-12T21:28:10+07:00
 draft: false
+noCover: true
 ---
 
 # Chính Sách Bảo Mật Thông Tin

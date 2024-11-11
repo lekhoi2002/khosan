@@ -10,6 +10,7 @@ modules:
 thumbnail: /img/thumbnail/san-go-xuong-ca-inovar.jpg
 lastmod: 2024-10-13T05:43:48.224Z
 description: Sàn gỗ xương cá Inovar - Đổi mới không gian sống với công nghệ tiên tiến. Chống ẩm ưu việt, đa dạng họa tiết. Lựa chọn thông minh cho ngôi nhà hiện đại.
+noCover: true
 ---
 
 ## Thông Số của sàn gỗ xương cá Inovar

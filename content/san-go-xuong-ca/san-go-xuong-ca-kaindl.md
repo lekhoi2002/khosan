@@ -3,6 +3,7 @@ author: null
 title: Sàn gỗ Xương cá Kaindl
 date: 2024-08-30T21:50:14+07:00
 draft: false
+noCover: true
 categories:
     - san-go
 modules:
