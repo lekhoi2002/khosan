@@ -5,7 +5,9 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:18:25.366Z
 thumbnail: /img/thumbnail/san-go-agt.jpeg
-description: Sàn gỗ AGT - Đẳng cấp Châu Âu, bền đẹp vượt thời gian. Chống ẩm, chống trầy xước tuyệt vời. Đa dạng mẫu mã, phù hợp mọi không gian sống hiện đại.
+meta:
+  description: Sàn gỗ AGT - Đẳng cấp Châu Âu, bền đẹp vượt thời gian. Chống ẩm, chống trầy xước tuyệt vời. Đa dạng mẫu mã, phù hợp mọi không gian sống hiện đại.
+  title: Tổng Kho Sàn Gỗ AGT
 noCover: true
 ---
 ## Thông Số Sàn Gỗ AGT

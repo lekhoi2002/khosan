@@ -5,7 +5,9 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:18:22.916Z
 thumbnail: /img/thumbnail/san-go-camsan.jpg
-description: Sàn gỗ Camsan - Chất lượng Thổ Nhĩ Kỳ, thiết kế tinh tế. Độ bền cao, chống mài mòn ưu việt. Tạo không gian sống ấm cúng, sang trọng cho gia đình.
+meta:
+  title: Tổng Kho Sàn Gỗ Camsan Cao Cấp Giá Rẻ Tại Hà Nội
+  description: Sàn gỗ Camsan - Chất lượng Thổ Nhĩ Kỳ, thiết kế tinh tế. Độ bền cao, chống mài mòn ưu việt. Tạo không gian sống ấm cúng, sang trọng cho gia đình.
 noCover: true
 ---
 ## Ưu Điểm sàn gỗ Camsan
