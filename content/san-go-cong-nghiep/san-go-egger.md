@@ -5,6 +5,8 @@ modules:
   - mgallery
 thumbnail: /img/thumbnail/san-go-egger.jpg
 lastmod: 2024-10-13T05:18:11.745Z
+meta:
+  title: Kho
 description: Sàn gỗ Egger - Chất lượng Đức, đẳng cấp quốc tế. Chống ẩm ưu việt, đa dạng họa tiết. Tạo không gian sống tinh tế, sang trọng cho mọi gia đình.
 noCover: true
 ---

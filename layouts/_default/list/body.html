@@ -18,7 +18,7 @@
         {{- $content := partial "utilities/ProcessContent" (dict "page" . "raw" .RawContent "loading" $loading) -}}
         {{- $content | safeHTML -}}
         {{ if and (and $sections (eq (len $sections) 1)) (not $content) }}
-            <p class="pt-4">{{- T "emptyList" }}.</p>
+            <p class="pt-3">{{- T "emptyList" }}.</p>
         {{ end }}
     </div>
     <div class="col col-{{ $breakpoint.current }}-3 d-none d-{{ $breakpoint.current }}-block">

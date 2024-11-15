@@ -37,6 +37,3 @@ Sàn Mega Floor không chỉ nổi bật với thiết kế đẹp mắt và ti
 
 Không ngừng nghiên cứu và cải tiến, Mega Floor luôn tiên phong trong việc mang đến cho khách hàng những sản phẩm sàn gỗ cao cấp, đáng tin cậy và đáp ứng mọi yêu cầu về thiết kế và chất lượng. Với Mega Floor, bạn có thể yên tâm về sự lựa chọn sàn gỗ tốt nhất cho không gian sống và làm việc của mình.
 
-## Mã màu sàn gỗ mega
-
-{{< mgallery list="mega/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
