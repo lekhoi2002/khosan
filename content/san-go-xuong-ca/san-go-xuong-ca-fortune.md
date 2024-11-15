@@ -9,6 +9,8 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:44:53.691Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-fortune.jpg
+meta:
+  title: Kho Ván Sàn Gỗ Xương Cá Fortune
 description: Sàn gỗ xương cá Fortune - Mang lại may mắn và thịnh vượng cho gia đình. Chất lượng cao, bền đẹp theo thời gian. Tạo không gian sống ấm cúng, sang trọng.
 noCover: true
 ---

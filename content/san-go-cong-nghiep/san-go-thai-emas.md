@@ -9,6 +9,8 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:17:19.198Z
 weight: 3
+meta:
+  title: Kho Ván Sàn gỗ Thái Emas
 description: Sàn gỗ Thai Emas - Chất lượng Thái Lan, giá trị vàng. Chống ẩm ưu việt, dễ lau chùi. Tạo không gian sống ấm áp, sang trọng.
 noCover: true
 ---
@@ -27,7 +29,3 @@ Sàn gỗ Thái Emas là một trong những thương hiệu hàng đầu tro
 - **Cốt gỗ HDF cứng chắc**: Sản phẩm sử dụng cốt gỗ HDF Thái Lan, mang lại độ bền và sự ổn định cho sàn gỗ, đồng thời tăng cường khả năng chịu lực và chống cong vênh.
 
 *Với những ưu điểm nổi bật trên, sàn gỗ Thái Emas là sự lựa chọn hoàn hảo cho không gian sống và làm việc, mang đến sự đẳng cấp và sự bền vững cho mọi công trình.*
-
-## Mã màu sàn gỗ thaiemas
-
-{{< mgallery list="thaiemas/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}

@@ -9,6 +9,8 @@ modules:
     - mgallery
 lastmod: 2024-10-18T15:44:51.640Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-baniva.jpg
+meta:
+  title: Kho Ván Sàn Gỗ Xương Cá BANIVA
 description: Sàn gỗ xương cá Baniva - Đẳng cấp và tinh tế cho ngôi nhà bạn. Chất lượng cao, đa dạng màu sắc, chống trầy xước. Tạo không gian ấm cúng và sang trọng
 noCover: true
 ---

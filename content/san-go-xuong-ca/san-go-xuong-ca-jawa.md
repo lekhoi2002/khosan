@@ -10,6 +10,8 @@ modules:
 thumbnail: /img/thumbnail/san-go-xuong-ca-jawa.jpg
 lastmod: 2024-10-13T05:48:41.191Z
 noCover: true
+meta:
+  title: Kho Ván Sàn Gỗ Xương Cá JAWA
 description: "Sàn gỗ xương cá Jawa - Vẻ đẹp độc đáo từ Indonesia cho ngôi nhà Việt. Chống mối mọt tự nhiên, thân thiện môi trường. Tạo không gian sống ấm áp, gần gũi. "
 ---
 ## Thông Số của Sàn Gỗ Xương Cá JAWA

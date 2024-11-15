@@ -5,6 +5,8 @@ modules:
     - mgallery
 thumbnail: /img/thumbnail/san-go-robina.jpg
 lastmod: 2024-10-13T05:17:21.890Z
+meta:
+  title: Kho Ván Sàn Gỗ Robina
 description: Sàn gỗ Robina - Sự kết hợp hoàn hảo giữa độ bền và thẩm mỹ. Chống trầy xước, chịu lực tốt. Nâng tầm đẳng cấp cho mọi công trình.
 noCover: true
 ---

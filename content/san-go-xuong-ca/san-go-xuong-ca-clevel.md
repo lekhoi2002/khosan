@@ -9,6 +9,8 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:46:43.001Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-clevel.jpg
+meta:
+  title: Kho Ván Sàn Gỗ Xương Cá CLEVEL 
 description: Sàn gỗ xương cá Clevel - Nâng tầm không gian sống với chất lượng vượt trội. Chống ẩm, chống cong vênh. Thiết kế tinh tế, phù hợp mọi kiến trúc.
 noCover: true
 ---

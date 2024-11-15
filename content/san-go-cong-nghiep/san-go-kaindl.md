@@ -5,10 +5,10 @@ modules:
   - mgallery
 thumbnail: /img/thumbnail/san-go-kaindl.jpg
 lastmod: 2024-10-13T05:17:57.064Z
+meta:
+  title: Kho Ván Sàn Gỗ Kaindl
 description: Sàn gỗ Kaindl - Chất lượng Áo, đẳng cấp thế giới. Độ bền cao, chống trầy xước tuyệt vời. Đa dạng màu sắc, phù hợp mọi phong cách nội thất.
 noCover: true
-meta:
-  title: Kho
 ---
 ## Đặc Điểm Sàn Gỗ Kaindl
 

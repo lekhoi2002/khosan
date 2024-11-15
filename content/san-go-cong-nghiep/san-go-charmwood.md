@@ -5,6 +5,8 @@ modules:
     - mgallery
 lastmod: 2024-10-13T05:18:17.373Z
 thumbnail: /img/thumbnail/san-go-charmwood.png
+meta:
+  title: Kho Ván Sàn Gỗ Charm wood
 description: Sàn gỗ Charmwood - Vẻ đẹp quyến rũ, chất lượng vượt trội. Chống thấm nước tốt, dễ lau chùi. Nâng tầm đẳng cấp cho mọi công trình.
 noCover: true
 ---

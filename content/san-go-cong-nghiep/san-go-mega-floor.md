@@ -8,6 +8,8 @@ categories:
 thumbnail: /img/thumbnail/san-go-mega-floor.jpg
 modules:
     - mgallery
+meta:
+  title: Kho Ván Sàn Gỗ Mega Floor
 description: Sàn gỗ Mega Floor - Giải pháp tối ưu cho diện tích lớn. Chịu lực tốt, chống trầy xước cao. Nâng tầm đẳng cấp cho mọi công trình quy mô.
 noCover: true
 lastmod: 2024-10-13T14:02:14.498Z

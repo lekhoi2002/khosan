@@ -67,7 +67,7 @@
     overlay = false
     overlayMode = "dark"
     horizontal = false
-    offset = "5.5rem"
+    offset = "5rem"
     search = true
     searchModal = false
     breadcrumb = true
@@ -130,7 +130,7 @@
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
         cols = 3
-        padding = "3"
+        padding = "2"
         header = "full"
         footer = "none"
         orientation = "stacked"

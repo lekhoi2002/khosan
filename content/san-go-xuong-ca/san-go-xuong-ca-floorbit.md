@@ -3,12 +3,12 @@ author: null
 title: Sàn Gỗ Xương Cá FLOORBIT
 date: 2024-08-30T21:50:14+07:00
 draft: false
-categories:
-    - san-go
 modules:
     - mgallery
 lastmod: 2024-10-13T05:45:06.584Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-floorbit.jpg
+meta:
+  title: Kho Ván Sàn Gỗ Xương Cá FLOORBIT
 description: Sàn gỗ xương cá Floorbit - Giải pháp hoàn hảo cho nhà ở hiện đại. Chống mài mòn, dễ lắp đặt. Đa dạng mẫu mã, phù hợp mọi phong cách.
 noCover: true
 ---
