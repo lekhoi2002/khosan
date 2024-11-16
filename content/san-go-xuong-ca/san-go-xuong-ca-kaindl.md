@@ -12,7 +12,7 @@ lastmod: 2024-10-13T05:42:55.595Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-kaindl.jpg
 meta:
   title: Kho Ván Sàn gỗ Xương cá Kaindl
-description: "Sàn gỗ xương cá Kaindl - Chất lượng Áo cho không gian sống đẳng cấp. Độ bền cao, chống trầy xước tuyệt vời. Đa dạng màu sắc, phù hợp mọi phong cách. "
+  description: "Sàn gỗ xương cá Kaindl - Chất lượng Áo cho không gian sống đẳng cấp. Độ bền cao, chống trầy xước tuyệt vời. Đa dạng màu sắc, phù hợp mọi phong cách. "
 ---
 ## Thông Số Sàn gỗ Xương cá Kaindl
 | **Thông tin**            | **Chi tiết**                                                                                   |

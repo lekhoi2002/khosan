@@ -7,7 +7,7 @@ thumbnail: /img/thumbnail/san-go-newchoice.jpg
 lastmod: 2024-10-13T05:17:29.093Z
 meta:
   title: Kho Ván Sàn Gỗ Newchoice
-description: Sàn gỗ NewChoice - Lựa chọn mới cho không gian hiện đại. Chất lượng cao, giá cả hợp lý. Đa dạng họa tiết, phù hợp mọi phong cách.
+  description: Sàn gỗ NewChoice - Lựa chọn mới cho không gian hiện đại. Chất lượng cao, giá cả hợp lý. Đa dạng họa tiết, phù hợp mọi phong cách.
 noCover: true
 ---
 

@@ -13,7 +13,7 @@ keywords:
     - sàn gỗ xương cá cadino
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá CADINO
-description: " Sàn gỗ xương cá Cadino - Sự lựa chọn thông minh cho nhà ở hiện đại. Chất lượng cao cấp, đa dạng mẫu mã. Dễ lắp đặt, bảo trì đơn giản"
+  description: " Sàn gỗ xương cá Cadino - Sự lựa chọn thông minh cho nhà ở hiện đại. Chất lượng cao cấp, đa dạng mẫu mã. Dễ lắp đặt, bảo trì đơn giản"
 noCover: true
 ---
 ## Thông Số Sàn Gỗ Xương Cá CADINO

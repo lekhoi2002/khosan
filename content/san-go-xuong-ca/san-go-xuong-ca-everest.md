@@ -2,7 +2,7 @@
 title: Sàn Gỗ Xương Cá EVEREST
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá EVEREST
-description: "Sàn gỗ xương cá Everest - Đỉnh cao của sự bền đẹp và sang trọng. Chống thấm nước tuyệt đối, dễ lau chùi. Nâng tầm không gian sống của bạn. "
+  description: "Sàn gỗ xương cá Everest - Đỉnh cao của sự bền đẹp và sang trọng. Chống thấm nước tuyệt đối, dễ lau chùi. Nâng tầm không gian sống của bạn. "
 date: 2024-09-14T14:20:17.040Z
 lastmod: 2024-10-13T05:45:35.852Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-everest.jpg

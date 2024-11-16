@@ -9,7 +9,7 @@ lastmod: 2024-10-13T05:49:05.028Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-borneo.jpg
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá Borneo
-description: Sàn gỗ xương cá Borneo - Vẻ đẹp tự nhiên, độ bền vượt trội. Chống mối mọt, thân thiện môi trường. Tạo không gian sống đẳng cấp và ấm áp.
+  description: Sàn gỗ xương cá Borneo - Vẻ đẹp tự nhiên, độ bền vượt trội. Chống mối mọt, thân thiện môi trường. Tạo không gian sống đẳng cấp và ấm áp.
 noCover: true
 ---
 ## Thông Số Sàn Gỗ Xương Cá Borneo

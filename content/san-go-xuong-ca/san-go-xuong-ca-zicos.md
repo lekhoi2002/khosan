@@ -12,7 +12,7 @@ modules:
 weight: 3
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá ZICOS Tại Hà Nội
-description: "Sàn gỗ xương cá Zicos - Lựa chọn thông minh cho ngôi nhà hiện đại. Chất lượng cao, giá cả hợp lý. Dễ lắp đặt, bảo trì đơn giản. Tạo không gian sống ấm áp. "
+  description: "Sàn gỗ xương cá Zicos - Lựa chọn thông minh cho ngôi nhà hiện đại. Chất lượng cao, giá cả hợp lý. Dễ lắp đặt, bảo trì đơn giản. Tạo không gian sống ấm áp. "
 ---
 ## Tổng quan về sàn gỗ zicos xương cá
 

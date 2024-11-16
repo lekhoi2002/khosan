@@ -13,7 +13,7 @@ lastmod: 2024-10-13T05:40:40.350Z
 weight: 4
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá Wilplus
-description: Sàn gỗ xương cá Wilplus - Nâng tầm không gian sống với chất lượng vượt trội. Chống nước tuyệt đối, dễ lau chùi. Đa dạng mẫu mã, phù hợp mọi phong cách.
+  description: Sàn gỗ xương cá Wilplus - Nâng tầm không gian sống với chất lượng vượt trội. Chống nước tuyệt đối, dễ lau chùi. Đa dạng mẫu mã, phù hợp mọi phong cách.
 ---
 ## Thông Số Sàn Gỗ Xương Cá Wilplus
 | **Thông tin**        | **Chi tiết**              |

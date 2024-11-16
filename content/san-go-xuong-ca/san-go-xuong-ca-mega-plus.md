@@ -11,7 +11,7 @@ lastmod: 2024-10-13T05:42:30.024Z
 weight: 2
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá Mega Plus
-description: Sàn gỗ xương cá Mega Plus - Giải pháp tối ưu cho không gian rộng lớn. Chịu lực tốt, chống mài mòn cao. Nâng tầm đẳng cấp cho mọi công trình.
+  description: Sàn gỗ xương cá Mega Plus - Giải pháp tối ưu cho không gian rộng lớn. Chịu lực tốt, chống mài mòn cao. Nâng tầm đẳng cấp cho mọi công trình.
 ---
 Sàn gỗ Mega plus xương cá thuộc phân khúc sang trọng và cao cấp. Bề mặt của sản phẩm được phủ lớp Ôxit nhôm trong suốt, đảm bảo khả năng chống bén lửa và chống trầy xước tuyệt vời trong quá trình sử dụng.
 

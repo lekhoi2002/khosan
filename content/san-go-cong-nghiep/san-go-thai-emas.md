@@ -11,7 +11,7 @@ lastmod: 2024-10-13T05:17:19.198Z
 weight: 3
 meta:
   title: Kho Ván Sàn gỗ Thái Emas
-description: Sàn gỗ Thai Emas - Chất lượng Thái Lan, giá trị vàng. Chống ẩm ưu việt, dễ lau chùi. Tạo không gian sống ấm áp, sang trọng.
+  description: Sàn gỗ Thai Emas - Chất lượng Thái Lan, giá trị vàng. Chống ẩm ưu việt, dễ lau chùi. Tạo không gian sống ấm áp, sang trọng.
 noCover: true
 ---
 Sàn gỗ Thái Emas là một trong những thương hiệu hàng đầu trong lĩnh vực sàn gỗ cao cấp. Với cam kết đem đến sự tinh tế và chất lượng, sàn gỗ Thái Emas đã sớm khẳng định vị thế của mình trên thị trường nội thất

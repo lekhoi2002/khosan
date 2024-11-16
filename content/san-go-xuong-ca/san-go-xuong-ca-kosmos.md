@@ -12,7 +12,7 @@ lastmod: 2024-10-13T05:42:36.849Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-kosmos.jpg
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá Kosmos
-description: "Sàn gỗ xương cá Kosmos - Mang vũ trụ về ngôi nhà bạn. Công nghệ tiên tiến, chống ẩm tuyệt đối. Tạo không gian sống hiện đại, độc đáo. "
+  description: "Sàn gỗ xương cá Kosmos - Mang vũ trụ về ngôi nhà bạn. Công nghệ tiên tiến, chống ẩm tuyệt đối. Tạo không gian sống hiện đại, độc đáo. "
 ---
 ## Thông Số Sàn gỗ Kosmos xương cá
 | **Thông tin**        | **Chi tiết**                      |

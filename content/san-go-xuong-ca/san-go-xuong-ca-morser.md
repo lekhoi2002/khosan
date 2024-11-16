@@ -11,7 +11,7 @@ lastmod: 2024-10-13T05:40:46.010Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-morser.jpg
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá Morser
-description: Sàn gỗ xương cá Morser - Sự kết hợp hoàn hảo giữa cổ điển và hiện đại. Chống trơn trượt, an toàn cho gia đình. Tạo không gian sống ấm cúng, sang trọng.
+  description: Sàn gỗ xương cá Morser - Sự kết hợp hoàn hảo giữa cổ điển và hiện đại. Chống trơn trượt, an toàn cho gia đình. Tạo không gian sống ấm cúng, sang trọng.
 ---
 ## Thông Số Sàn Gỗ Xương Cá Morser
 | **Thông số**                          | **Chi tiết**                  |

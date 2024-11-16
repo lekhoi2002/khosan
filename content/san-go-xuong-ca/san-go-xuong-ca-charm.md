@@ -11,7 +11,7 @@ lastmod: 2024-10-13T05:46:58.194Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-charm.jpg
 meta:
   title: Kho Ván Sàn Gỗ Xương Cá CHARM
-description: Sàn gỗ xương cá Charm - Tôn lên vẻ đẹp quyến rũ cho ngôi nhà. Chống trơn trượt, an toàn cho gia đình. Đa dạng họa tiết, phù hợp nhiều phong cách.
+  description: Sàn gỗ xương cá Charm - Tôn lên vẻ đẹp quyến rũ cho ngôi nhà. Chống trơn trượt, an toàn cho gia đình. Đa dạng họa tiết, phù hợp nhiều phong cách.
 noCover: true
 ---
 ## ⭐ Điểm Nổi Bật Sàn Gỗ Charm Wood
