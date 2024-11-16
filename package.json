@@ -1,13 +1,8 @@
 {
   "name": "@gethinode/hinode",
   "version": "0.27.8",
-  "description": "Hinode is a clean documentation and blog theme for Hugo, an open-source static site generator",
+  "description": "clean documentation and blog theme for Hugo, an open-source static site generator",
   "keywords": [
-    "hugo",
-    "theme",
-    "bootstrap",
-    "responsive",
-    "front-end",
     "blog",
     "documentation"
   ],

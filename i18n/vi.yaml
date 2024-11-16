@@ -4,7 +4,7 @@
 - id: lastModified
   translation: "Cập nhật {{ . }}"
 - id: read
-  translation: "Thời gian đọc"
+  translation: "Đọc"
 - id: minutesShort
   translation: "phút"
 - id: words
