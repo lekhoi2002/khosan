@@ -49,3 +49,16 @@ Sàn Everest có các đường vân gỗ tự nhiên cùng các mẫu vân đa 
 Việc lựa chọn sàn công nghiệp Everest không chỉ giúp nâng cao giá trị thẩm mỹ cho ngôi nhà của bạn, mà còn tạo nên một không gian sống thoải mái, dễ chịu và đẳng cấp. Sự đa dạng về màu sắc và thiết kế giúp bạn dễ dàng kết hợp sàn với các nội thất khác, tạo nên một tổng thể hài hòa và độc đáo.
 
 Sàn công nghiệp Everest mang đến sự kết hợp hoàn hảo giữa độ bền, khả năng chống nước và tính thẩm mỹ vượt trội. Đây là lựa chọn thông minh cho những ai muốn nâng cấp không gian sống với một sản phẩm bền đẹp, dễ bảo trì và thân thiện với môi trường. Hãy chọn sàn công nghiệp Everest để tạo nên không gian sống đẳng cấp, an toàn và ấn tượng cho ngôi nhà của bạn.
+#### Cam Kết:
+
+1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
+2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
+3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
+4. Bảo hành sản phẩm trong vòng 10 năm đầu 
+5. Bảo trì sản phẩm trọn đời
+
+#### Kho Ván Sàn Gỗ
+- **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
+- **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
+- **Hotline/Zalo**: 0966171436
+

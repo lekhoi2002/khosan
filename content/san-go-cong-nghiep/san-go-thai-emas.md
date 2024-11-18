@@ -29,3 +29,15 @@ Sàn gỗ Thái Emas là một trong những thương hiệu hàng đầu tro
 - **Cốt gỗ HDF cứng chắc**: Sản phẩm sử dụng cốt gỗ HDF Thái Lan, mang lại độ bền và sự ổn định cho sàn gỗ, đồng thời tăng cường khả năng chịu lực và chống cong vênh.
 
 *Với những ưu điểm nổi bật trên, sàn gỗ Thái Emas là sự lựa chọn hoàn hảo cho không gian sống và làm việc, mang đến sự đẳng cấp và sự bền vững cho mọi công trình.*
+#### Cam Kết:
+
+1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
+2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
+3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
+4. Bảo hành sản phẩm trong vòng 10 năm đầu 
+5. Bảo trì sản phẩm trọn đời
+
+#### Kho Ván Sàn Gỗ
+- **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
+- **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
+- **Hotline/Zalo**: 0966171436

@@ -38,4 +38,16 @@ Sàn gỗ Mega Floor là một thương hiệu sàn gỗ cao cấp nổi tiếng
 Sàn Mega Floor không chỉ nổi bật với thiết kế đẹp mắt và tinh tế, mà còn có khả năng chịu nước tuyệt vời và kháng trầy xước. Được chế tạo từ các vật liệu chất lượng, sàn gỗ Mega Floor mang đến cho không gian sống của bạn sự bền bỉ và độ bền cao. Không chỉ có vậy, sàn gỗ Mega Floor còn được thiết kế với nhiều tùy chọn màu sắc và hoa văn, giúp bạn dễ dàng tạo ra không gian sống độc đáo và đúng gu thẩm mỹ của mình.
 
 Không ngừng nghiên cứu và cải tiến, Mega Floor luôn tiên phong trong việc mang đến cho khách hàng những sản phẩm sàn gỗ cao cấp, đáng tin cậy và đáp ứng mọi yêu cầu về thiết kế và chất lượng. Với Mega Floor, bạn có thể yên tâm về sự lựa chọn sàn gỗ tốt nhất cho không gian sống và làm việc của mình.
+#### Cam Kết:
+
+1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
+2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
+3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
+4. Bảo hành sản phẩm trong vòng 10 năm đầu 
+5. Bảo trì sản phẩm trọn đời
+
+#### Kho Ván Sàn Gỗ
+- **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
+- **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
+- **Hotline/Zalo**: 0966171436
 

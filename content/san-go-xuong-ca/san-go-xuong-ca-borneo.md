@@ -41,3 +41,15 @@ Lớp cốt lõi là lớp chính của sàn gỗ xương cá Borneo, giúp tạ
 ### Lớp đế lót
 
 Lớp đế lót là lớp dưới cùng của sàn gỗ, thường được làm từ giấy hoặc nhựa. Chức năng chính của lớp đế lót là tăng tính chống thấm cho sàn gỗ, ngăn ngừa hơi ẩm từ nền nhà xâm nhập vào bên trong sàn. Ngoài ra, lớp đế lót còn giúp tăng độ bền cho gỗ công nghiệp, đảm bảo sàn luôn ổn định và không bị biến dạng do ảnh hưởng của môi trường.
+#### Cam Kết:
+
+1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
+2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
+3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
+4. Bảo hành sản phẩm trong vòng 10 năm đầu 
+5. Bảo trì sản phẩm trọn đời
+
+#### Kho Ván Sàn Gỗ
+- **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
+- **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
+- **Hotline/Zalo**: 0966171436

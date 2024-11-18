@@ -7,7 +7,7 @@ thumbnail: /img/thumbnail/san-go-navas.jpg
 modules:
     - mgallery
 lastmod: 2024-10-13T05:17:37.094Z
-weight: 2
+weight: 1
 meta:
   title: Kho Ván Sàn Gỗ Navas Cốt Xanh Chịu Nước
   description: Sàn gỗ Navas - Vẻ đẹp tự nhiên, chất lượng vượt trội. Chống thấm nước tốt, thân thiện môi trường. Tạo không gian sống ấm cúng, gần gũi.
@@ -51,3 +51,15 @@ Với Sàn gỗ Navas, bạn không chỉ sở hữu một sàn gỗ đẳng c
 ## Mã màu sàn gỗ navas
 
 {{< mgallery list="navas/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+#### Cam Kết:
+
+1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
+2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
+3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
+4. Bảo hành sản phẩm trong vòng 10 năm đầu 
+5. Bảo trì sản phẩm trọn đời
+
+#### Kho Ván Sàn Gỗ
+- **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
+- **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
+- **Hotline/Zalo**: 0966171436
