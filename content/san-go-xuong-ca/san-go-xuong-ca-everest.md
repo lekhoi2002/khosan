@@ -9,8 +9,6 @@ thumbnail: /img/thumbnail/san-go-xuong-ca-everest.jpg
 draft: false
 tags: []
 categories: []
-modules:
-    - mgallery
 noCover: true
 ---
 ## Giới Thiệu Chung Về Sàn Gỗ Everest

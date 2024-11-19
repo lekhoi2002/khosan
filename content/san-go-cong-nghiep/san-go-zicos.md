@@ -6,8 +6,6 @@ draft: false
 categories:
     - san-go
 thumbnail: /img/thumbnail/san-go-zicos.jpg
-modules:
-    - mgallery
 lastmod: 2024-10-18T16:08:05.484Z
 weight: 6
 meta:
@@ -78,7 +76,7 @@ Dù bạn chọn dòng 8mm hay 12mm, sàn gỗ Ziccos đều mang đến chất 
 
 ## Mã màu sàn gỗ Zicos
 
-{{< mgallery list="zicos/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/zicos" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

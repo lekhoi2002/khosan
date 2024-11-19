@@ -3,10 +3,6 @@ author: null
 title: Sàn Gỗ Xương Cá JAWA
 date: 2024-08-30T21:50:14+07:00
 draft: false
-categories:
-    - san-go
-modules:
-    - mgallery
 thumbnail: /img/thumbnail/san-go-xuong-ca-jawa.jpg
 lastmod: 2024-10-13T05:48:41.191Z
 noCover: true
@@ -44,7 +40,7 @@ Sàn gỗ xương cá Jawa không chỉ đảm bảo tính thẩm mỹ mà còn 
 
 ## Mã màu sàn gỗ jawa
 
-{{< mgallery list="jawa/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "xuong-ca/jawa" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

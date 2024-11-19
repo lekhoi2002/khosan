@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ AGT
-date: 2024-10-03T15:28:12+07:00
-modules:
-    - mgallery
+date: 2024-10-03T15:28:12+07:00 
 lastmod: 2024-10-13T05:18:25.366Z
 thumbnail: /img/thumbnail/san-go-agt.jpeg
 meta:
@@ -34,7 +32,7 @@ Sàn gỗ AGT mang đến nhiều ưu điểm nổi bật, đáp ứng đầy đ
 
 ## Mã màu sàn gỗ AGT
 
-{{< mgallery list="AGT/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/AGT" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

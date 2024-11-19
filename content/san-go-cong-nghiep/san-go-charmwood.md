@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Charm wood
-date: 2024-10-03T15:28:09+07:00
-modules:
-    - mgallery
+date: 2024-10-03T15:28:09+07:00  
 lastmod: 2024-10-13T05:18:17.373Z
 thumbnail: /img/thumbnail/san-go-charmwood.png
 meta:
@@ -48,7 +46,7 @@ Sàn gỗ Charm Wood mang đến nhiều ưu điểm vượt trội, đáp ứng
 
 ## Mã màu sàn gỗ charm-wood
 
-{{< mgallery list="charm-wood/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/charm-wood" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

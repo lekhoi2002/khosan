@@ -5,8 +5,6 @@ draft: false
 categories:
     - san-go
 thumbnail: /img/thumbnail/san-go-thai-emas.jpeg
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:17:19.198Z
 weight: 3
 meta:
@@ -18,7 +16,7 @@ Sàn gỗ Thái Emas là một trong những thương hiệu hàng đầu tro
 
 ## Bảng Mã Màu Sàn Gỗ Thái Emas
 
-{{< mgallery list="emas/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/emas" >}}
 
 ## Ưu điểm Sàn gỗ Thái Emas
 

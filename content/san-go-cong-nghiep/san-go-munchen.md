@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Munchen
-date: 2024-10-03T15:27:57+07:00
-modules:
-    - mgallery
+date: 2024-10-03T15:27:57+07:00 
 thumbnail: /img/thumbnail/san-go-munchen.jpeg
 lastmod: 2024-10-13T05:17:43.481Z
 meta:

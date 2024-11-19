@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Kaindl
 date: 2024-10-03T15:28:11+07:00
-modules:
-  - mgallery
 thumbnail: /img/thumbnail/san-go-kaindl.jpg
 lastmod: 2024-10-13T05:17:57.064Z
 meta:
@@ -39,7 +37,7 @@ noCover: true
 
 ## Mã màu sàn gỗ kaindl
 
-{{< mgallery list="kaindl/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/kaindl" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

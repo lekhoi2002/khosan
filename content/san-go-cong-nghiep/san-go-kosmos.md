@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Kosmos
 date: 2024-10-03T15:28:00+07:00
-modules:
-  - mgallery
 thumbnail: /img/thumbnail/san-go-kosmos.jpg
 lastmod: 2024-10-13T05:17:54.217Z
 meta:
@@ -89,7 +87,7 @@ meta:
 
 ## Mã màu sàn gỗ kosmos
 
-{{< mgallery list="kosmos/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/kosmos" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

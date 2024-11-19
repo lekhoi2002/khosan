@@ -4,9 +4,6 @@ title: Sàn Gỗ Xương Cá Morser
 date: 2024-08-30T21:50:14+07:00
 draft: false
 noCover: true
-categories: []
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:40:46.010Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-morser.jpg
 meta:

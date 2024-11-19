@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Camsan
-date: 2024-10-03T15:28:12+07:00
-modules:
-    - mgallery
+date: 2024-10-03T15:28:12+07:00 
 lastmod: 2024-10-13T05:18:22.916Z
 thumbnail: /img/thumbnail/san-go-camsan.jpg
 meta:
@@ -39,7 +37,7 @@ Sàn gỗ Camsan là lựa chọn lý tưởng cho những ai muốn có không 
 
 ## Mã màu sàn gỗ camsan-10mm
 
-{{< mgallery list="camsan-10mm/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/camsan-10mm" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

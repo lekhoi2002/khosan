@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Robina
 date: 2024-10-03T15:28:02+07:00
-modules:
-    - mgallery
 thumbnail: /img/thumbnail/san-go-robina.jpg
 lastmod: 2024-10-13T05:17:21.890Z
 meta:
@@ -43,7 +41,7 @@ Sàn gỗ Robina không chỉ mang lại giá trị thẩm mỹ mà còn thân t
 
 ## Mã màu sàn gỗ Robina
 
-{{< mgallery list="Robina/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/Robina" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

@@ -3,10 +3,6 @@ author: null
 title: Sàn Gỗ Xương Cá Fortune
 date: 2024-08-30T21:50:14+07:00
 draft: false
-categories:
-    - san-go
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:44:53.691Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-fortune.jpg
 meta:
@@ -63,7 +59,7 @@ Với tiêu chuẩn chất lượng Châu Âu, sàn gỗ Fortune được khách
 
 ## Mã màu sàn gỗ fotune
 
-{{< mgallery list="fotune/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "xuong-ca/fotune" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

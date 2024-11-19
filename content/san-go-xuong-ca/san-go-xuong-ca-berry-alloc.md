@@ -5,8 +5,6 @@ date: 2024-08-30T21:50:14+07:00
 draft: false
 categories:
   - san-go
-modules:
-  - mgallery
 lastmod: 2024-10-13T05:47:29.156Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-berry-alloc.jpg
 meta:
@@ -61,7 +59,7 @@ noCover: true
 
 ## Mã màu sàn gỗ berry-alloc
 
-{{< mgallery list="berry-alloc/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "xuong-ca/berry-alloc" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

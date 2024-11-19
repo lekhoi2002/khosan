@@ -5,8 +5,6 @@ date: 2024-08-30T21:50:14+07:00
 draft: false
 categories:
     - san-go
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:46:43.001Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-clevel.jpg
 meta:

@@ -5,9 +5,7 @@ date: 2024-08-30T21:50:17+07:00
 draft: false
 categories:
     - san-go
-thumbnail: /img/thumbnail/san-go-mega-floor.jpg
-modules:
-    - mgallery
+thumbnail: /img/thumbnail/san-go-mega-floor.jpg  
 meta:
   title: Kho Ván Sàn Gỗ Mega Floor
   description: Sàn gỗ Mega Floor - Giải pháp tối ưu cho diện tích lớn. Chịu lực tốt, chống trầy xước cao. Nâng tầm đẳng cấp cho mọi công trình quy mô.
@@ -33,7 +31,7 @@ Sàn gỗ Mega Floor là một thương hiệu sàn gỗ cao cấp nổi tiếng
 
 ## Bảng mãu màu Sàn Gỗ Mega Floor
 
-{{< mgallery list="mega/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/mega" >}}
 
 Sàn Mega Floor không chỉ nổi bật với thiết kế đẹp mắt và tinh tế, mà còn có khả năng chịu nước tuyệt vời và kháng trầy xước. Được chế tạo từ các vật liệu chất lượng, sàn gỗ Mega Floor mang đến cho không gian sống của bạn sự bền bỉ và độ bền cao. Không chỉ có vậy, sàn gỗ Mega Floor còn được thiết kế với nhiều tùy chọn màu sắc và hoa văn, giúp bạn dễ dàng tạo ra không gian sống độc đáo và đúng gu thẩm mỹ của mình.
 

@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ My Floor
 date: 2024-10-03T15:28:08+07:00
-modules:
-  - mgallery
 thumbnail: /img/thumbnail/san-go-my-floor.jpg
 lastmod: 2024-10-13T05:17:40.607Z
 meta:
@@ -58,7 +56,7 @@ noCover: true
 
   ## Mã màu sàn gỗ My-Floor
 
-{{< mgallery list="My-Floor/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/My-Floor" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

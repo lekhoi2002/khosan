@@ -6,8 +6,6 @@ draft: false
 categories:
     - san-go
 thumbnail: /img/thumbnail/san-go-tiger-wood.jpg
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:17:16.072Z
 weight: 5
 meta:
@@ -42,7 +40,7 @@ Sàn gỗ Tiger Wood được sản xuất dựa trên công nghệ tiên tiến
 
 ## Mã Màu sàn gỗ tiger wood
 
-{{< mgallery list="tiger-wood/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/tiger-wood" >}}
 
 #### Cam Kết:
 

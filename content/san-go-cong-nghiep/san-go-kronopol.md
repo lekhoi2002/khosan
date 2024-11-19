@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Kronopol
-date: 2024-10-03T15:28:10+07:00
-modules:
-    - mgallery
+date: 2024-10-03T15:28:10+07:00  
 thumbnail: /img/thumbnail/san-go-kronopol.jpg
 lastmod: 2024-10-13T05:17:51.322Z
 meta:
@@ -59,7 +57,7 @@ noCover: true
 
 ## Mã màu sàn gỗ kronopol
 
-{{< mgallery list="kronopol/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/kronopol" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

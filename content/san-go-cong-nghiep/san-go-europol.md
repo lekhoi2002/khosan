@@ -3,8 +3,6 @@ author: null
 title: Sàn Gỗ Europol
 date: 2024-08-30T21:50:14+07:00
 draft: false
-modules:
-    - mgallery
 thumbnail: /img/thumbnail/san-go-europol.jpg
 lastmod: 2024-10-13T05:18:09.213Z
 weight: 1

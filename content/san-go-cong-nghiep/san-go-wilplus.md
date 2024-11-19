@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Wilplus
 date: 2024-10-03T15:28:00+07:00
-modules:
-    - mgallery
 thumbnail: /img/thumbnail/san-go-wilplus.jpg
 lastmod: 2024-10-13T05:17:12.037Z
 meta:
@@ -70,7 +68,7 @@ Dòng DIAMOND FISH BONE kết hợp sự mạnh mẽ của độ dày 12mm với
 
 ## Mã màu sàn gỗ wilplus
 
-{{< mgallery list="wilplus/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/wilplus" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

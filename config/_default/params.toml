@@ -251,10 +251,6 @@
     integration = "optional"
     state = "async"
     url = "https://player.vimeo.com/api/player.js"
-[modules.mgallery]
-    local = true
-    integration = "optional"
-    state = "async"
 
 [modules.vimeo.csp]
     frame-src = ["player.vimeo.com"]

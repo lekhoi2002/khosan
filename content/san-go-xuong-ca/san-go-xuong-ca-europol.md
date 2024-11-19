@@ -9,8 +9,6 @@ thumbnail: /img/thumbnail/san-go-xuong-ca-europol.jpg
 draft: false
 tags: []
 categories: []
-modules:
-    - mgallery
 weight: 1
 noCover: true
 ---

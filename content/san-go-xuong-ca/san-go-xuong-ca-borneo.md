@@ -3,8 +3,6 @@ author: null
 title: Sàn Gỗ Xương Cá Borneo
 date: 2024-08-30T21:50:14+07:00
 draft: false
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:49:05.028Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-borneo.jpg
 meta:

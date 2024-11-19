@@ -3,9 +3,7 @@ author: null
 title: Sàn Gỗ Navas Cốt Xanh
 date: 2024-08-30T21:50:15+07:00
 draft: false
-thumbnail: /img/thumbnail/san-go-navas.jpg
-modules:
-    - mgallery
+thumbnail: /img/thumbnail/san-go-navas.jpg 
 lastmod: 2024-10-13T05:17:37.094Z
 weight: 1
 meta:
@@ -50,7 +48,7 @@ Với Sàn gỗ Navas, bạn không chỉ sở hữu một sàn gỗ đẳng c
 
 ## Mã màu sàn gỗ navas
 
-{{< mgallery list="navas/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/navas" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

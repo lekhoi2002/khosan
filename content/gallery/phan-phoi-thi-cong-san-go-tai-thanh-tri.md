@@ -2,8 +2,6 @@
 title: Phân Phối Thi Công Sàn Gỗ Tại Thanh Trì
 date: 2024-09-05T21:35:12+07:00
 draft: false
-modules:
-    - mgallery
 thumbnail: /img/thumbnail/san-go-tai-thanh-tri.jpg
 ---
 
@@ -11,4 +9,4 @@ Kho sàn gỗ – Chuyên phân phối – thi công sàn gỗ công nghiệp ch
 
 ## Hình Ảnh Thi Công Sàn Gỗ Tại Thanh Trì
 Hình ảnh thực tiễn thực tế một số công trình tại quận Thanh Trì
-{{< mgallery list="thanh-tri/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="3x2" zoom="true" >}}
+{{< gallery "gallery/thanh-tri" >}}

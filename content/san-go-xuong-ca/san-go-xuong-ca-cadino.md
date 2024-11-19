@@ -5,8 +5,6 @@ date: 2024-08-30T21:50:14+07:00
 draft: false
 categories:
     - san-go
-modules:
-    - mgallery
 lastmod: 2024-10-13T05:47:12.888Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-cadino.jpg
 keywords:

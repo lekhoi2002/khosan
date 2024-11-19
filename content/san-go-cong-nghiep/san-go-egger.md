@@ -1,8 +1,6 @@
 ---
 title: Sàn Gỗ Egger
 date: 2024-10-03T15:28:09+07:00
-modules:
-  - mgallery
 thumbnail: /img/thumbnail/san-go-egger.jpg
 lastmod: 2024-10-13T05:18:11.745Z
 meta:
@@ -50,7 +48,7 @@ Sàn gỗ Egger không chỉ mang đến vẻ đẹp sang trọng mà còn là s
 |  Sàn gỗ Egger dày 12mm              | 1292 x 193 x 12mm   | 550.000  |
 ## Mã màu sàn gỗ egger
 
-{{< mgallery list="egger/*" unique="true" ovlpos="right-bottom" ovlperc=10 ovlx=15 ovly=15 cols=2 type="grid" gap="m" radius="true" thumb="4x3" zoom="true" >}}
+{{< gallery "cong-nghiep/egger" >}}
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
