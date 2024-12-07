@@ -125,7 +125,6 @@
         title = "Sàn Gỗ Công Nghiệp"
         layout = "card"
         sort = "weight"
-        reverse = true
         background = ""
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
@@ -139,7 +138,6 @@
         title = "Sàn Gỗ Công Nghiệp"
         layout = "card"
         sort = "weight"
-        reverse = true
         background = ""
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
@@ -153,7 +151,6 @@
         title = "Dự Án Đã Thi Công"
         layout = "card"
         sort = "date"
-        reverse = true
         background = ""
         color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
@@ -202,10 +199,10 @@
     github = "https://github.com/"
     section = "blog"
     [schema.author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
+        name = "Khoi Le"
+         twitter = "https://twitter.com/"
         linkedin = "https://www.linkedin.com/in/"
-        github = "https://github.com/markdumay"
+        github = "https://github.com/"
     [schema.logo]
         url = "img/logo512x512.png"
         width = 512
