@@ -7,6 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Wilplus
   description: Sàn gỗ Wilplus - Nâng tầm không gian sống với chất lượng vượt trội. Chống nước tuyệt đối, dễ lau chùi. Đa dạng mẫu mã, phù hợp mọi phong cách.
 noCover: true
+weight: 24
 ---
 ## Thông Số Sàn Gỗ WILPLUS
 | Thông tin sản phẩm          | Chi tiết                      |

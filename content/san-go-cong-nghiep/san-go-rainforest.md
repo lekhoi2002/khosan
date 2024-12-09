@@ -7,6 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Rainforest
   description: Sàn gỗ Rainforest - Mang hơi thở rừng nhiệt đới vào nhà. Chống ẩm tự nhiên, thân thiện môi trường. Tạo không gian sống xanh, bền vững.
 noCover: true
+weight: 22
 ---
 ## Đặc Điểm Nổi Bật Của Sàn Gỗ Rainforest
 

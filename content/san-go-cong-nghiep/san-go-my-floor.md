@@ -7,6 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ My Floor
   description: Sàn gỗ My Floor - Cá nhân hóa không gian sống của bạn. Chất lượng cao, đa dạng mẫu mã. Dễ lắp đặt, bảo trì đơn giản.
 noCover: true
+weight: 20
 ---
 ## Đặc điểm của sàn gỗ My Floor
 

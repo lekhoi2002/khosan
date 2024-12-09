@@ -5,7 +5,7 @@ date: 2024-08-30T21:50:15+07:00
 draft: false
 thumbnail: /img/thumbnail/san-go-navas.jpg 
 lastmod: 2024-10-13T05:17:37.094Z
-weight: 1
+weight: 2
 meta:
   title: Kho Ván Sàn Gỗ Navas Cốt Xanh Chịu Nước
   description: Sàn gỗ Navas - Vẻ đẹp tự nhiên, chất lượng vượt trội. Chống thấm nước tốt, thân thiện môi trường. Tạo không gian sống ấm cúng, gần gũi.

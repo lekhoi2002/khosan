@@ -7,6 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Robina
   description: Sàn gỗ Robina - Sự kết hợp hoàn hảo giữa độ bền và thẩm mỹ. Chống trầy xước, chịu lực tốt. Nâng tầm đẳng cấp cho mọi công trình.
 noCover: true
+weight: 23
 ---
 ## Đặc Điểm Nổi Bật của Sàn Gỗ Robina
 

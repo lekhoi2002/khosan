@@ -7,7 +7,7 @@ categories:
     - san-go
 thumbnail: /img/thumbnail/san-go-tiger-wood.jpg
 lastmod: 2024-10-13T05:17:16.072Z
-weight: 5
+weight: 3
 meta:
   title: Kho Ván Sàn Gỗ Tiger Wood
   description: Sàn gỗ Tiger Wood - Vẻ đẹp mạnh mẽ như hổ. Độ cứng cao, chống mài mòn tuyệt vời. Tạo điểm nhấn độc đáo cho không gian sống.

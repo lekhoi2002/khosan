@@ -7,6 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Charm wood
   description: Sàn gỗ Charmwood - Vẻ đẹp quyến rũ, chất lượng vượt trội. Chống thấm nước tốt, dễ lau chùi. Nâng tầm đẳng cấp cho mọi công trình.
 noCover: true
+weight: 11
 ---
 ## Thông Số Kỹ Thuật Sàn Gỗ Charm wood
 

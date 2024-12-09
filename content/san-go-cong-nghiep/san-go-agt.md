@@ -7,6 +7,7 @@ meta:
   description: Sàn gỗ AGT - Đẳng cấp Châu Âu, bền đẹp vượt thời gian. Chống ẩm, chống trầy xước tuyệt vời. Đa dạng mẫu mã, phù hợp mọi không gian sống hiện đại.
   title: Tổng Kho Sàn Gỗ AGT
 noCover: true
+weight: 9
 ---
 ## Thông Số Sàn Gỗ AGT
 | **Thông tin sản phẩm**     | **Chi tiết**                |

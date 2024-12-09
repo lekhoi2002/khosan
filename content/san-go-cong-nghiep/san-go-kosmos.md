@@ -7,7 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Kosmos
   description: Sàn gỗ Kosmos - Đưa vẻ đẹp vũ trụ vào ngôi nhà bạn. Công nghệ tiên tiến, chống ẩm tuyệt đối. Tạo không gian sống độc đáo, ấn tượng.
   noCover: true
-
+weight: 17
 ---
 ## Ưu điểm nổi trội của sàn gỗ Kosmos
 
