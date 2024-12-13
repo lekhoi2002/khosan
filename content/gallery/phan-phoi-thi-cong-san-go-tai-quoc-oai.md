@@ -8,11 +8,7 @@ date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2024-12-12T04:19:47.677Z
 thumbnail:  /img/thumbnail/san-go-tai-quoc-oai.jpg
-keywords:
-  - sàn gỗ nhập khẩu
-  - sàn gỗ Quốc Oai
-  - thi công sàn gỗ
-  - dịch vụ thi công sàn gỗ tận nhà
+
 ---
 
 # Phân Phối Và Thi Công Sàn Gỗ Nhập Khẩu Tại Quốc Oai
