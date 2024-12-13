@@ -82,28 +82,15 @@ Bề mặt của sàn nhựa giả gỗ có lớp chống trơn trượt, đảm
 | VFloor          | 9 * 228 * 1800     | Hèm khóa Luxury, có đế cao su | 780.000  |
 | Kosmos          | 4 * 185 * 1224     | Hèm khóa     | 240.000             |
 | Kosmos          | 6 * 185 * 1224     | Hèm khóa     | 350.000             |
-| Bosst           | 4 * 147 * 910      | Hèm khóa     | 240.000             |
-| Bosst           | 4 * 135 * 600      | Hèm khóa xương cá | 290.000         |
-| Bosst           | 6 * 153 * 910      | Hèm khóa     | 320.000             |
 | Ecost           | 6 * 180 * 1220     | Hèm khóa     | 480.000             |
 | EcoClick        | 4 * 153 * 1220     | Hèm khóa     | 295.000             |
 | Joka            | 8 * 153 * 1220     | Hèm khóa     | 395.000             |
-| Galaxy          | 4 * 152 * 1220     | Hèm khóa     | 230.000             |
-| Galaxy          | 6 * 152 * 1220     | Hèm khóa     | 290.000             |
-| IBT Floor       | 4 * 152 * 1220     | Hèm khóa     | 220.000             |
-| IBT Floor       | 6 * 152 * 1220     | Hèm khóa     | 280.000             |
 | Magic Floor     | 4 * 146 * 1220     | Hèm khóa     | 230.000             |
 | Magic Floor     | 6 * 185 * 1220     | Hèm khóa     | 280.000             |
-| Dongwha         | 4 * 146 * 1220     | Hèm khóa     | 230.000             |
-| Dongwha         | 6 * 185 * 1220     | Hèm khóa     | 280.000             |
 | Wintex          | 2 * 130 * 910      | Có keo sẵn | 79.000               |
 | Msfloor         | 2 * 130 * 900      | Có keo sẵn | 79.000               |
 | Msfloor         | 4 * 152 * 1220     | Hèm khóa     | 230.000             |
 | Msfloor         | 6 * 152 * 1220     | Hèm khóa     | 280.000             |
-| Rosa            | 2 * 130 * 900      | Có keo sẵn | 80.000               |
-| Rosa            | 4 * 152 * 1220     | Hèm khóa     | 215.000             |
-| Rosa            | 6 * 152 * 1220     | Hèm khóa     | 290.000             |
-| Inovar          | 4 * 152 * 1220     | Hèm khóa     | 240.000             |
 | Smartwood       | 4 * 152 * 1220     | Hèm khóa     | 250.000             |
 | Smartwood       | 6 * 152 * 1220     | Hèm khóa     | 290.000             |
 
