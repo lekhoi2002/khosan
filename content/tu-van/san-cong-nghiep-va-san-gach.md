@@ -7,7 +7,7 @@ meta:
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-go-cong-nghiep-vs-san-gach.jpg
+thumbnail: 
 keywords:
   - sàn gỗ công nghiệp vs sàn gạch
   - so sánh sàn gỗ công nghiệp và sàn gạch

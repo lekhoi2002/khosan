@@ -7,7 +7,7 @@ meta:
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-go-vs-san-nhua.jpg
+thumbnail: 
 keywords:
   - sàn gỗ công nghiệp vs sàn nhựa
   - so sánh sàn gỗ công nghiệp và sàn nhựa

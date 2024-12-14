@@ -12,8 +12,6 @@ keywords:
   - phụ kiện sàn gỗ
 ---
 
-# **Phụ Kiện Sàn Gỗ – Tất Cả Những Gì Bạn Cần Biết**
-
 ## 📘 **1. Giới Thiệu Về Phụ Kiện Sàn Gỗ**  
 
 ### 🪵 **Phụ kiện sàn gỗ là gì?**  

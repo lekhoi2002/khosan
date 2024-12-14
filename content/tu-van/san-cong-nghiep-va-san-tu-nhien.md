@@ -7,7 +7,7 @@ meta:
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-go-cong-nghiep-vs-san-go-tu-nhien.jpg
+thumbnail: 
 keywords:
   - so sánh sàn gỗ công nghiệp và sàn gỗ tự nhiên
   - so sánh sàn công nghiệp và sàn tự nhiên
