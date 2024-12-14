@@ -19,37 +19,37 @@
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Gỗ Đức"
-  pageRef = "san-go-duc-nhap-khau-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-duc-nhap-khau"
   weight = 41
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Malaysia"
-  pageRef = "kho-san-go-malaysia-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/kho-san-go-malaysia"
   weight = 42
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Thái Lan"
-  pageRef = "san-go-thai-lan-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-thai-lan"
   weight = 43
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Việt Nam"
-  pageRef = "san-go-viet-nam-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-viet-nam"
   weight =44
   
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Gỗ Chịu Nước"
-  pageRef = "san-go-chiu-nuoc-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-chiu-nuoc"
   weight =45
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Gỗ Giá Rẻ"
-  pageRef = "san-go-gia-re-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-gia-re"
   weight =46
 
 [[main]]
@@ -126,19 +126,19 @@
 [[footer]]
   parent = "Menu"
   name = "Sàn Đức"
-  pageRef = "san-go-duc-nhap-khau-tai-ha-noi"
+  pageRef = "san-go-duc-nhap-khau"
   weight = 14
 
 [[footer]]
   parent = "Menu"
   name = "Sàn Chịu Nước"
-  pageRef = "san-go-chiu-nuoc-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-chiu-nuoc"
   weight = 15
  
 [[footer]]
   parent = "Menu"
   name = "Sàn Giá Rẻ"
-  pageRef = "san-go-gia-re-tai-ha-noi"
+  pageRef = "san-go-cong-nghiep/san-go-gia-re"
   weight = 16
 
 [[footer]]
@@ -158,7 +158,7 @@
 [[footer]]
   parent = "Links"
   name = "Nhà Đẹp"
-  pageRef = "/"
+  pageRef = "/nha-dep/"
   
 [[footer]]
   parent = "Links"
