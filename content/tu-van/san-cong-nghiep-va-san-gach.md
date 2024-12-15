@@ -6,8 +6,8 @@ meta:
   description: So sánh chi tiết sàn gỗ công nghiệp và sàn gạch về độ bền, thẩm mỹ, giá cả và khả năng chống nước. Tìm hiểu đâu là lựa chọn phù hợp nhất cho ngôi nhà của bạn.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: 
+lastmod: 2024-12-15T05:11:53.482Z
+thumbnail: /img/tu-van/san-cong-nghiep-va-san-gach.jpg
 keywords:
   - sàn gỗ công nghiệp vs sàn gạch
   - so sánh sàn gỗ công nghiệp và sàn gạch

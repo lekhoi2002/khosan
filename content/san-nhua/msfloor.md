@@ -6,8 +6,8 @@ meta:
   description: Cập nhật bảng giá sàn nhựa Msfloor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Msfloor hèm khóa, có keo sẵn và ưu điểm nổi bật.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-msfloor.jpg
+lastmod: 2024-12-15T07:21:07.733Z
+thumbnail: /img/san-nhua/thumbnail/msfloor.jpg
 keywords:
   - sàn nhựa Msfloor
   - sàn nhựa hèm khóa Msfloor

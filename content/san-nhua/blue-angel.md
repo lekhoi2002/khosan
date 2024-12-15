@@ -6,8 +6,8 @@ meta:
   description: Tìm hiểu về sàn nhựa Blue Angel với thiết kế vân gỗ tự nhiên, chống nước, chống trầy xước. Cập nhật bảng giá sàn Blue Angel 4mm và 6mm mới nhất 2024.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-blue-angel.jpg
+lastmod: 2024-12-15T07:18:35.756Z
+thumbnail: /img/san-nhua/thumbnail/blue-angel.jpg
 keywords:
   - sàn nhựa Blue Angel
   - sàn nhựa hèm khóa Blue Angel

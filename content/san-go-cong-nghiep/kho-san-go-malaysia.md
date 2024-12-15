@@ -1,16 +1,21 @@
 ---
+author: Khoi Le
 title: Sàn Gỗ Malaysia
 meta:
   title: 6+ Thương Hiệu Sàn Gỗ Malaysia Tốt Nhất Hiện Nay
-description: ""
+  description: Tìm hiểu về 6+ thương hiệu sàn gỗ Malaysia nổi bật nhất hiện nay. Đánh giá chất lượng, độ bền, khả năng chống nước và lý do vì sao sàn gỗ Malaysia được ưa chuộng.
 date: 2024-09-14T14:12:09.752Z
-lastmod: 2024-09-14T14:12:09.752Z
-thumbnail: ""
+lastmod: 2024-12-15T04:01:54.521Z
+thumbnail: /img/thumbnail/san-go-malaysia.jpg
 draft: false
 noCover: true
-tags: []
-categories: []
----
+keywords:
+  - sàn gỗ malaysia
+  - sàn gỗ malaysia chịu nước
+  - sàn gỗ malaysia giá rẻ
+  - sàn gỗ malaysia cao cấp
+--- 
+
 
 ## Ưu và nhược điểm của sàn gỗ Malaysia
 

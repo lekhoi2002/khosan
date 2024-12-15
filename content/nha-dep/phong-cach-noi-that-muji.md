@@ -6,8 +6,8 @@ meta:
   description: Tìm hiểu phong cách nội thất Muji – phong cách thiết kế tối giản từ Nhật Bản. Khám phá cách thiết kế nội thất Muji nhẹ nhàng, gọn gàng và thanh lịch.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: null
+lastmod: 2024-12-15T06:40:18.797Z
+thumbnail: /img/nha-dep/phong-cach-noi-that-muji.webp
 keywords:
   - phong cách muji nhật bản
   - phong cách nội thất muji

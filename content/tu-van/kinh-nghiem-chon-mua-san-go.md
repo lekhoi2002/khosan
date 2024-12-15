@@ -6,8 +6,8 @@ meta:
     description: Hướng dẫn chi tiết cách chọn mua sàn gỗ đẹp, bền, giá rẻ. Tìm hiểu phân loại sàn gỗ, kinh nghiệm kiểm tra chất lượng, chọn sàn gỗ theo nhu cầu sử dụng.
 date: 2024-12-14T15:04:33.947Z
 draft: false
-lastmod: 2024-12-14T15:04:34.707Z
-thumbnail: /img/thumbnail/kinh-nghiem-chon-mua-san-go.jpg
+lastmod: 2024-12-15T05:41:48.402Z
+thumbnail: /img/tu-van/kinh-nghiem-chon-mua-san-go.webp
 keywords:
     - kinh nghiệm chọn mua sàn gỗ
     - cách chọn sàn gỗ

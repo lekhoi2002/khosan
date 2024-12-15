@@ -6,8 +6,8 @@ meta:
   description: Cập nhật bảng giá sàn nhựa Magic Floor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Magic Floor hèm khóa và ưu điểm nổi bật.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-magic-floor.jpg
+lastmod: 2024-12-15T07:20:00.650Z
+thumbnail: /img/san-nhua/thumbnail/magic-floor.jpg
 keywords:
   - sàn nhựa Magic Floor
   - sàn nhựa hèm khóa Magic Floor

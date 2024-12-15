@@ -4,12 +4,14 @@ meta:
   title: +5 Loại Sàn Gỗ Việt Nam Phổ Biến và Tốt Nhất Hiện Nay
 description: ""
 date: 2024-09-14T14:12:45.767Z
-lastmod: 2024-10-17T13:39:35.526Z
-thumbnail: ""
+lastmod: 2024-12-15T04:32:02.355Z
+thumbnail: /img/thumbnail/san-go-viet-nam.jpg
 draft: false
 noCover: true
 tags: []
 categories: []
+keywords:
+  - sàn gỗ việt nam
 ---
 # Sàn Gỗ Việt Nam: Sự Lựa Chọn Hàng Đầu Cho Mọi Ngôi Nhà
 

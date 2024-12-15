@@ -6,35 +6,14 @@ meta:
   description: Khám phá phong cách nội thất Organic – xu hướng thiết kế tự nhiên, thân thiện với môi trường. Tìm hiểu cách thiết kế nội thất Organic đẹp, đơn giản và gần gũi thiên nhiên.
 date: 2024-12-14T04:45:02.291Z
 draft: false
-lastmod: 2024-12-14T04:19:47.677Z
-thumbnail: /img/thumbnail/phong-cach-noi-that-organic.jpg
+lastmod: 2024-12-15T06:42:44.256Z
+thumbnail: /img/nha-dep/phong-cach-noi-that-tu-nhien-organic.webp
 keywords:
   - phong cách nội thất organic
   - thiết kế nội thất organic
   - phong cách thiết kế tự nhiên
 ---
 **Bài viết: Phong Cách Nội Thất Tự Nhiên Organic – Xu Hướng Sống Xanh Hiện Đại**  
-
----  
-**Frontmatter**  
-```yaml
-author: Khoi Le
-title: Phong Cách Nội Thất Tự Nhiên Organic
-meta:
-  title: Phong Cách Nội Thất Organic – Xu Hướng Sống Xanh Hiện Đại
-  description: Khám phá phong cách nội thất Organic – xu hướng thiết kế tự nhiên, thân thiện với môi trường. Tìm hiểu cách thiết kế nội thất Organic đẹp, đơn giản và gần gũi thiên nhiên.
-date: 2024-12-14T04:45:02.291Z
-draft: false
-lastmod: 2024-12-14T04:19:47.677Z
-thumbnail: /img/thumbnail/phong-cach-noi-that-organic.jpg
-keywords:
-  - phong cách nội thất organic
-  - thiết kế nội thất organic
-  - phong cách thiết kế tự nhiên
----
-```
-
----
 
 ## 🌿 **Phong Cách Nội Thất Tự Nhiên Organic – Xu Hướng Sống Xanh Hiện Đại**  
 

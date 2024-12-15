@@ -6,8 +6,8 @@ meta:
   description: Cập nhật bảng giá sàn nhựa Wintex mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Wintex có keo sẵn và ưu điểm nổi bật.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-wintex.jpg
+lastmod: 2024-12-15T07:22:45.750Z
+thumbnail: /img/san-nhua/thumbnail/wintex.jpg
 keywords:
   - sàn nhựa Wintex
   - sàn nhựa có keo sẵn Wintex

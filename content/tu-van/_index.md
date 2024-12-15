@@ -1,5 +1,5 @@
 ---
 author: Khôi Lê
-title: Kiến Thức
+title: Cẩm nang
 nested: true
 ---

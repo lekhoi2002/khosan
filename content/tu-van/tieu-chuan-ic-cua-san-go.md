@@ -1,8 +1,22 @@
 ---
-author: 
-title: Tiêu Chuẩn IC Của Sàn Gỗ
+author: Khoi Le
+title: Tiêu Chuẩn IC Của Sàn Gỗ – Tìm Hiểu Ý Nghĩa Và Ứng Dụng
+meta:
+    title: Tiêu Chuẩn IC Của Sàn Gỗ – Tìm Hiểu Ý Nghĩa Và Ứng Dụng Thực Tế
+    description: Tìm hiểu tiêu chuẩn IC của sàn gỗ là gì, ý nghĩa của nó và cách lựa chọn sàn gỗ đạt chuẩn IC để đảm bảo độ bền và chất lượng vượt trội.
 date: 2024-08-30T21:52:51+07:00
+draft: false
+lastmod: 2024-12-15T10:15:47.677Z
+thumbnail: /img/tu-van/ic.webp
+keywords:
+    - tiêu chuẩn IC của sàn gỗ
+    - tiêu chuẩn IC là gì
+    - sàn gỗ đạt tiêu chuẩn IC
+    - IC sàn gỗ
+    - tiêu chuẩn sàn gỗ công nghiệp
+noCover: true
 ---
+
 | Loại AC/Class   | Độ chống mài mòn                          | Ứng dụng                                                  |
 |-----------------|-------------------------------------------|-----------------------------------------------------------|
 | AC1/Class.21    | Thấp                                      | Hiện nay thường không được sử dụng                        |

@@ -6,8 +6,8 @@ meta:
   description: Khám phá phong cách nội thất Maveric – sự kết hợp hoàn hảo giữa tự do, phóng khoáng và hiện đại. Tìm hiểu cách thiết kế không gian sống theo xu hướng 2024.
 date: 2024-12-14T07:00:56.170Z
 draft: false
-lastmod: 2024-12-14T07:00:59.305Z
-thumbnail: /img/thumbnail/phong-cach-noi-that-maveric.jpg
+lastmod: 2024-12-15T06:40:33.956Z
+thumbnail: /img/nha-dep/thum-phong-cach-noi-that-maverick.webp
 keywords:
   - phong cách nội thất Maveric
   - nội thất Maveric

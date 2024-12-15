@@ -6,8 +6,8 @@ meta:
   description: "Khám phá phong cách thiết kế nội thất Gothic: Vẻ đẹp huyền bí, cổ điển, với các đặc trưng như vòm nhọn, cửa sổ kính màu và nội thất tối màu."
 date: 2024-12-14T08:53:08.893Z
 draft: false
-lastmod: 2024-12-14T08:53:11.373Z
-thumbnail: null
+lastmod: 2024-12-15T06:43:01.423Z
+thumbnail: /img/nha-dep/phong-cach-thiet-ke-gothic.webp
 keywords:
   - phong cách thiết kế Gothic
   - phong cách Gothic

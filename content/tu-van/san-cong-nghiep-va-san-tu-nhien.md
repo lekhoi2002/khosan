@@ -6,8 +6,8 @@ meta:
   description: So sánh sàn gỗ công nghiệp và sàn gỗ tự nhiên về cấu tạo, giá cả, độ bền và tính thẩm mỹ. Tìm hiểu đâu là lựa chọn phù hợp cho không gian của bạn.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: 
+lastmod: 2024-12-15T05:11:39.737Z
+thumbnail: /img/tu-van/san-cong-nghiep-va-san-tu-nhien.jpg
 keywords:
   - so sánh sàn gỗ công nghiệp và sàn gỗ tự nhiên
   - so sánh sàn công nghiệp và sàn tự nhiên

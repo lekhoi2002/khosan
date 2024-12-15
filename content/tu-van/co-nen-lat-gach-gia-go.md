@@ -6,8 +6,8 @@ meta:
   description: Có nên lát gạch giả gỗ không? Tìm hiểu ưu nhược điểm, giá thành, và những giải pháp thay thế tối ưu cho gạch giả gỗ trong bài viết này.
 date: 2024-12-15T04:45:02.291Z
 draft: false
-lastmod: 2024-12-15T04:45:02.291Z
-thumbnail: /img/thumbnail/co-nen-lat-gach-gia-go.jpg
+lastmod: 2024-12-15T05:31:06.517Z
+thumbnail: /img/tu-van/san-gach-gia-go.webp
 keywords:
   - có nên lát gạch giả gỗ
   - gạch giả gỗ có tốt không

@@ -6,8 +6,8 @@ meta:
   description: So sánh sàn gỗ công nghiệp và sàn nhựa chi tiết về cấu tạo, độ bền, giá thành và ứng dụng. Tìm hiểu loại sàn nào phù hợp nhất cho không gian của bạn.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: 
+lastmod: 2024-12-15T05:20:43.311Z
+thumbnail: /img/tu-van/san-cong-nghiep-va-san-nhua.jpg
 keywords:
   - sàn gỗ công nghiệp vs sàn nhựa
   - so sánh sàn gỗ công nghiệp và sàn nhựa

@@ -6,8 +6,8 @@ meta:
   description: Tìm hiểu chi tiết về sàn nhựa giả gỗ – xu hướng nội thất hiện đại. Khám phá ưu điểm, các loại sàn phổ biến và báo giá mới nhất.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-gia-go.jpg
+lastmod: 2024-12-15T07:17:54.987Z
+thumbnail: /img/san-nhua/thumbnail/san-nhua-tai-ha-noi.jpg
 keywords:
   - sàn nhựa giả gỗ
   - sàn nhựa hèm khóa

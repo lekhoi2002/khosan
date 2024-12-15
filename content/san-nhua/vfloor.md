@@ -6,8 +6,8 @@ meta:
   description: Cập nhật bảng giá sàn nhựa VFloor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn VFloor hèm khóa Luxury, Stone, Herringbone cùng với các ưu điểm nổi bật.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-vfloor.jpg
+lastmod: 2024-12-15T07:22:32.912Z
+thumbnail: /img/san-nhua/thumbnail/vfloor.jpg
 keywords:
   - sàn nhựa VFloor
   - sàn nhựa hèm khóa VFloor

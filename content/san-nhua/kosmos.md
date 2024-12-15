@@ -6,8 +6,8 @@ meta:
   description: Cập nhật bảng giá sàn nhựa Kosmos mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Kosmos hèm khóa và ưu điểm nổi bật.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-kosmos.jpg
+lastmod: 2024-12-15T07:19:42.690Z
+thumbnail: /img/san-nhua/thumbnail/kosmos.jpg
 keywords:
   - sàn nhựa Kosmos
   - sàn nhựa hèm khóa Kosmos

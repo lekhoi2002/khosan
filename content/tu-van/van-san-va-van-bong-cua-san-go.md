@@ -3,17 +3,16 @@ author: Khoi Le
 title: "Vân Sần Và Vân Bóng Của Sàn Gỗ: Nên Chọn Loại Nào Cho Ngôi Nhà Của Bạn?"
 meta:
   title: "Vân Sần Và Vân Bóng Của Sàn Gỗ: So Sánh Chi Tiết & Gợi Ý Lựa Chọn Phù Hợp"
-  description: "Nên chọn sàn gỗ vân sần hay vân bóng? Bài viết so sánh chi tiết về ưu nhược điểm, tính thẩm mỹ và độ bền của sàn gỗ vân sần và vân bóng. Cùng tìm hiểu để chọn loại phù hợp nhất cho ngôi nhà của bạn."
+  description: Nên chọn sàn gỗ vân sần hay vân bóng? Bài viết so sánh chi tiết về ưu nhược điểm, tính thẩm mỹ và độ bền của sàn gỗ vân sần và vân bóng. Cùng tìm hiểu để chọn loại phù hợp nhất cho ngôi nhà của bạn.
 date: 2024-12-15T04:45:02.291Z
 draft: false
-lastmod: 2024-12-15T04:45:02.291Z
-thumbnail: "/images/van-san-va-van-bong-cua-san-go.jpg"
+lastmod: 2024-12-15T05:27:56.168Z
+thumbnail: /img/tu-van/van-san-va-van-bong-cua-san-go.webp
 keywords:
   - sàn gỗ vân sần
   - sàn gỗ vân bóng
   - so sánh sàn gỗ
-  - sàn gỗ công nghiệp
-  - sàn gỗ chống trơn trượt
+  - sàn gỗ vân sần và sàn gỗ vân bóng
 ---
 
 # **Vân Sần Và Vân Bóng Của Sàn Gỗ: Nên Chọn Loại Nào Cho Ngôi Nhà Của Bạn?**  

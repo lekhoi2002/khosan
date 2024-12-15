@@ -6,8 +6,8 @@ meta:
   description: Tìm hiểu phong cách thiết kế nội thất trừu tượng- Sự kết hợp nghệ thuật và hiện đại, khám phá các đặc điểm và ứng dụng trong không gian sống.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: 
+lastmod: 2024-12-15T06:42:30.901Z
+thumbnail: /img/nha-dep/phong-cach-noi-that-truu-tuong.webp
 keywords:
   - phong cách trừu tượng
   - thiết kế nội thất trừu tượng

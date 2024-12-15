@@ -6,8 +6,8 @@ meta:
     description: Tìm hiểu về các loại hèm khóa sàn gỗ phổ biến như Uniclic, V-Groove, Synchloc... Cấu tạo, ưu nhược điểm của từng loại và cách khắc phục lỗi thường gặp.
 date: 2024-12-14T03:32:27.001Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: null
+lastmod: 2024-12-15T04:58:46.232Z
+thumbnail: /img/tu-van/hem-khoa.jpg
 keywords:
     - hèm khóa sàn gỗ
     - các loại hèm khóa sàn gỗ

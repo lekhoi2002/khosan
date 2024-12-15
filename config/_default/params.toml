@@ -135,7 +135,7 @@
         orientation = "stacked"
         homepage = 6
     [sections.san-go-xuong-ca]
-        title = "Sàn Gỗ Công Nghiệp"
+        title = "Sàn Gỗ Xương Cá"
         layout = "card"
         sort = "weight"
         background = ""
@@ -160,6 +160,20 @@
         footer = "none"
         orientation = "stacked"
         homepage = 6
+[sections.tu-van]
+    title = "Tư Vấn"
+    layout = "card"
+    sort = "date"
+    background = ""
+    color = "body-tertiary"
+    style = "border-0 shadow card-zoom card-body-margin"
+    cols = 3
+    padding = "3"
+    header = "full"
+    footer = "none"
+    orientation = "stacked"
+    homepage = 6
+
 # toml-docs-end sections
 
 [favicon]

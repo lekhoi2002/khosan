@@ -1,16 +1,21 @@
 ---
+author: Khoi Le
 title: Sàn Gỗ Giá Rẻ
 meta:
   title: 10+ Thương Hiệu Sàn Gỗ Giá Rẻ Nhưng Chất Lượng Cao Hiện Nay
-description: ""
+  description: Khám phá top 10+ thương hiệu sàn gỗ giá rẻ nhưng chất lượng cao. Đánh giá chi tiết, bảng giá và các mẫu sàn gỗ giá rẻ tốt nhất năm 2024.
 date: 2024-09-14T14:11:15.974Z
-lastmod: 2024-09-14T14:11:15.974Z
-thumbnail: ""
+lastmod: 2024-12-15T04:35:49.492Z
+thumbnail: /img/thumbnail/san-go-gia-re.jpg
 draft: false
 noCover: true
-tags: []
-categories: []
+  - sàn gỗ giá rẻ
+  - sàn gỗ giá rẻ chất lượng
+  - sàn gỗ công nghiệp giá rẻ
+  - sàn gỗ giá rẻ tại Hà Nội
+  - sàn gỗ giá rẻ tại TPHCM
 ---
+
 # Sàn Gỗ Giá Rẻ: Lựa Chọn Tiết Kiệm Cho Mọi Ngôi Nhà
 
 ## Giới Thiệu

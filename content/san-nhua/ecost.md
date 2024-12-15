@@ -6,8 +6,8 @@ meta:
   description: Cập nhật bảng giá sàn nhựa Ecost mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Ecost hèm khóa và ưu điểm nổi bật.
 date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /img/thumbnail/san-nhua-ecost.jpg
+lastmod: 2024-12-15T07:19:15.693Z
+thumbnail: /img/san-nhua/thumbnail/ecost.jpg
 keywords:
   - sàn nhựa Ecost
   - sàn nhựa hèm khóa Ecost
