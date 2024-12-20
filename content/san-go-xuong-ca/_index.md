@@ -1,14 +1,25 @@
 ---
 author: Khôi Lê
 title: Sàn Gỗ Xương Cá
+meta:
+  title: "Kho Sàn Gỗ Xương Cá - Đa Dạng Mẫu Mã, Giá Rẻ Tại Hà Nội"
+  description: "Khám phá kho sàn gỗ xương cá công nghiệp cao cấp với mẫu mã đa dạng, giá rẻ, bền đẹp. Hướng dẫn chi tiết về ưu nhược điểm, phân loại, báo giá và cách chọn sàn gỗ xương cá phù hợp cho ngôi nhà của bạn."
 nested: true
+date: 2024-11-19T15:37:36.416Z
+lastmod: 2024-12-20T07:35:34.309Z
+sort: weight
+keywords:
+  - sàn gỗ công nghiệp xương cá
+  - sàn gỗ xương cá
+  - sàn gỗ xương cá giá rẻ
 ---
 
 ## Sàn gỗ xương cá là gì?
 
-Sàn gỗ xương cá là kiểu lát sàn sử dụng các thanh gỗ ngắn, được sắp xếp vuông góc 90 độ tạo thành hình dạng giống xương cá. Phương pháp lát sàn này đã tồn tại từ lâu trong các công trình sử dụng gỗ tự nhiên, nhưng gần đây mới được áp dụng cho sàn gỗ công nghiệp.
+[Sàn gỗ xương cá](https://khovansango.com/san-go-xuong-ca/) là kiểu lát sàn sử dụng các thanh gỗ ngắn, được sắp xếp vuông góc 90 độ tạo thành hình dạng giống xương cá. Phương pháp lát sàn này đã tồn tại từ lâu trong các công trình sử dụng gỗ tự nhiên, nhưng gần đây mới được áp dụng cho sàn gỗ công nghiệp.
 
 Kiểu lát sàn xương cá thích hợp cho những không gian rộng rãi. Đặc biệt, nó rất phù hợp với các căn hộ mang phong cách tân cổ điển, vì nó kết hợp hài hòa giữa vẻ đẹp truyền thống của gỗ và thiết kế nội thất hiện đại.
+
 ## Cấu tạo sàn gỗ xương cá
 
 - **Lớp đáy Laminate**  

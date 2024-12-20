@@ -195,9 +195,8 @@
     darkModeShade = "20%"
     darkModeTint = "40%"
 # toml-docs-start font
-    themeFont = "forma-djr-micro"
+    themeFont = "sans-serif, Apple Color Emoji, Segoe UI Emoji, Segoe UI Symbol, Noto Color Emoji"
     themeFontPath = "/fonts" # local path
-    themeFontPreload = "/fonts/FormaDJRCyrillicMicro-Regular.woff2"
     fontSizeBase = "1.1rem" # assumes the browser default, typically '16px'
 # toml-docs-end font
 # toml-docs-start build

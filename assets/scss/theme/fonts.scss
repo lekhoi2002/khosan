@@ -1,7 +1,39 @@
 @font-face {
-     font-display: swap;
-     font-family: forma-djr-micro;
-     font-weight: 400;
-     src:  url(../fonts/FormaDJRCyrillicMicro-Regular.woff2) format('woff2'),
-           url(../fonts/FormaDJRCyrillicMicro-Regular.woff) format("woff");
-   }
+      font-family: 'Forma DJR Cyrillic Micro';
+      src: url('../fonts/FormaDJRCyrillicMicro-Regular.eot');
+      src: local('Forma DJR Cyrillic Micro'), local('FormaDJRCyrillicMicro-Regular'),
+          url('../fonts/FormaDJRCyrillicMicro-Regular.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/FormaDJRCyrillicMicro-Regular.woff2') format('woff2'),
+          url('../fonts/FormaDJRCyrillicMicro-Regular.woff') format('woff'),
+          url('../fonts/FormaDJRCyrillicMicro-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+  }
+  
+  @font-face {
+      font-family: 'Forma DJR Cyrillic Micro';
+      src: url('../fonts/FormaDJRCyrillicMicro-Medium.eot');
+      src: local('Forma DJR Cyrillic Micro Medium'), local('FormaDJRCyrillicMicro-Medium'),
+          url('../fonts/FormaDJRCyrillicMicro-Medium.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/FormaDJRCyrillicMicro-Medium.woff2') format('woff2'),
+          url('../fonts/FormaDJRCyrillicMicro-Medium.woff') format('woff'),
+          url('../fonts/FormaDJRCyrillicMicro-Medium.ttf') format('truetype');
+      font-weight: 500;
+      font-style: normal;
+      font-display: swap;
+  }
+  
+  @font-face {
+      font-family: 'Forma DJR Cyrilic Variable';
+      src: url('../fonts/FormaDJRCyrilicVariable-Regular.eot');
+      src: local('Forma DJR Cyrilic Variable'), local('FormaDJRCyrilicVariable-Regular'),
+          url('../fonts/FormaDJRCyrilicVariable-Regular.eot?#iefix') format('embedded-opentype'),
+          url('../fonts/FormaDJRCyrilicVariable-Regular.woff2') format('woff2'),
+          url('../fonts/FormaDJRCyrilicVariable-Regular.woff') format('woff'),
+          url('../fonts/FormaDJRCyrilicVariable-Regular.ttf') format('truetype');
+      font-weight: normal;
+      font-style: normal;
+      font-display: swap;
+  }
+  

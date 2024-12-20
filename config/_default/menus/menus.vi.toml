@@ -126,7 +126,7 @@
 [[footer]]
   parent = "Menu"
   name = "Sàn Đức"
-  pageRef = "san-go-duc-nhap-khau"
+  pageRef = "san-go-cong-nghiep/san-go-duc-nhap-khau"
   weight = 14
 
 [[footer]]
