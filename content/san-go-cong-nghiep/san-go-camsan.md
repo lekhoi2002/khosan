@@ -7,7 +7,7 @@ meta:
   title: Tổng Kho Sàn Gỗ Camsan Cao Cấp Giá Rẻ Tại Hà Nội
   description: Sàn gỗ Camsan - Chất lượng Thổ Nhĩ Kỳ, thiết kế tinh tế. Độ bền cao, chống mài mòn ưu việt. Tạo không gian sống ấm cúng, sang trọng cho gia đình.
 noCover: true
-weight: 10
+weight: 19
 ---
 ## Ưu Điểm sàn gỗ Camsan
 

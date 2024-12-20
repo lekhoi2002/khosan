@@ -9,6 +9,7 @@ lastmod: 2024-12-15T04:04:11.737Z
 thumbnail: /img/thumbnail/san-go-duc.jpg
 draft: false
 noCover: true
+weight: 3
 --- 
 
 ## Ưu điểm của sàn gỗ công nghiệp sản xuất tại Đức

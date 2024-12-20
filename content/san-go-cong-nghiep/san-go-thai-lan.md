@@ -15,6 +15,7 @@ keywords:
   - sàn gỗ Thái Lan giá rẻ
   - sàn gỗ Thái Lan chất lượng cao
   - sàn gỗ Thái Lan tốt nhất
+weight: 5
 ---
 
 # Sàn gỗ Thái Lan: Sự lựa chọn hoàn hảo cho không gian sống hiện đại

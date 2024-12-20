@@ -12,6 +12,7 @@ meta:
   title: Kho Ván Sàn Gỗ Tiger Wood
   description: Sàn gỗ Tiger Wood - Vẻ đẹp mạnh mẽ như hổ. Độ cứng cao, chống mài mòn tuyệt vời. Tạo điểm nhấn độc đáo cho không gian sống.
 noCover: true
+weight: 7
 ---
 ## Thông Số Kỹ Thuật Sàn Gỗ Tiger Wood
 | Đặc điểm     | Thông số                                     |

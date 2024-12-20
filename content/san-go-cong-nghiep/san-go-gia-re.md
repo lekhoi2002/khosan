@@ -14,6 +14,7 @@ noCover: true
   - sàn gỗ công nghiệp giá rẻ
   - sàn gỗ giá rẻ tại Hà Nội
   - sàn gỗ giá rẻ tại TPHCM
+weight: 1
 ---
 
 # Sàn Gỗ Giá Rẻ: Lựa Chọn Tiết Kiệm Cho Mọi Ngôi Nhà

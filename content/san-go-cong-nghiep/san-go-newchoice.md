@@ -7,7 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Newchoice
   description: Sàn gỗ NewChoice - Lựa chọn mới cho không gian hiện đại. Chất lượng cao, giá cả hợp lý. Đa dạng họa tiết, phù hợp mọi phong cách.
 noCover: true
-weight: 21
+weight: 30
 ---
 
 | Thuộc tính                       | Thông số                     |

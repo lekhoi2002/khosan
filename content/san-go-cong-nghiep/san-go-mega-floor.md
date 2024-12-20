@@ -11,7 +11,7 @@ meta:
   description: Sàn gỗ Mega Floor - Giải pháp tối ưu cho diện tích lớn. Chịu lực tốt, chống trầy xước cao. Nâng tầm đẳng cấp cho mọi công trình quy mô.
 noCover: true
 lastmod: 2024-10-13T14:02:14.498Z
-weight: 4
+weight: 9
 ---
 Sàn gỗ Mega Floor là một thương hiệu sàn gỗ cao cấp nổi tiếng. Sản phẩm này được sản xuất trên các dây chuyền công nghệ tiên tiến và hiện đại, đảm bảo chất lượng vượt trội. Với danh tiếng đã được khẳng định tại Việt Nam về khả năng chống nước và chống trầy xước, Mega Floor đã trở thành sự lựa chọn hàng đầu cho phân khúc sàn gỗ công nghiệp cao cấp
 

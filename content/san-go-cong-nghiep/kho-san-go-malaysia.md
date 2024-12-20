@@ -14,6 +14,7 @@ keywords:
   - sàn gỗ malaysia chịu nước
   - sàn gỗ malaysia giá rẻ
   - sàn gỗ malaysia cao cấp
+weight: 2
 --- 
 
 

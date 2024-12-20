@@ -8,10 +8,9 @@ lastmod: 2024-12-15T04:32:02.355Z
 thumbnail: /img/thumbnail/san-go-viet-nam.jpg
 draft: false
 noCover: true
-tags: []
-categories: []
 keywords:
   - sàn gỗ việt nam
+weight: 4
 ---
 # Sàn Gỗ Việt Nam: Sự Lựa Chọn Hàng Đầu Cho Mọi Ngôi Nhà
 

@@ -7,7 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ JaWa
   description: Sàn gỗ Jawa - Vẻ đẹp độc đáo từ Indonesia. Chống mối mọt tự nhiên, thân thiện môi trường. Tạo không gian sống ấm áp, gần gũi thiên nhiên.
 noCover: true
-weight: 15
+weight: 24
 ---
 ## Đặc điểm nổi bật của sàn gỗ JAWA
 

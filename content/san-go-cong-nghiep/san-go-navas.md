@@ -10,6 +10,7 @@ meta:
   title: Kho Ván Sàn Gỗ Navas Cốt Xanh Chịu Nước
   description: Sàn gỗ Navas - Vẻ đẹp tự nhiên, chất lượng vượt trội. Chống thấm nước tốt, thân thiện môi trường. Tạo không gian sống ấm cúng, gần gũi.
 noCover: true
+weight: 6
 ---
 Với Sàn gỗ Navas, bạn không chỉ sở hữu một sàn gỗ đẳng cấp mà còn tận hưởng không gian sống hoàn hảo và đáng yêu. Hãy khám phá ngay và trải nghiệm sự tuyệt vời của sản phẩm này
 

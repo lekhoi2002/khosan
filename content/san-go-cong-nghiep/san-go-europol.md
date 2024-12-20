@@ -10,6 +10,7 @@ meta:
   title: Kho Ván Sàn Gỗ Europol
   description: Sàn gỗ Europol - Tiêu chuẩn Châu Âu, độ bền vượt trội. Chống cháy, chống trầy xước tuyệt đối. Nâng tầm không gian sống với đẳng cấp quốc tế.
 noCover: true
+weight: 8
 ---
 ## Thông Số Kỹ Thuật Sàn Gỗ Europol
 - Bề mặt: Vân Sần

@@ -13,6 +13,7 @@ keywords:
 - sàn gỗ công nghiệp chịu nước
 - ván sàn công nghiệp
 - thi công sàn gỗ
+sort: "weight"
 ---
 
 Sàn gỗ công nghiệp đang ngày càng được ưa chuộng trong thiết kế nội thất hiện đại. Vậy sàn gỗ công nghiệp là gì? Loại sàn này có những ưu nhược điểm gì? Hãy cùng Kho Sàn Gỗ Nhập Khẩu tìm hiểu chi tiết trong bài viết dưới đây.

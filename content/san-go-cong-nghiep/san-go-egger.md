@@ -7,7 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Egger
   description: Sàn gỗ Egger - Chất lượng Đức, đẳng cấp quốc tế. Chống ẩm ưu việt, đa dạng họa tiết. Tạo không gian sống tinh tế, sang trọng cho mọi gia đình.
 noCover: true
-weight: 13
+weight: 22
 ---
 ## Ưu điểm của sàn gỗ Egger nhập khẩu từ Đức
 

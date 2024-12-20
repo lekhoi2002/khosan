@@ -7,7 +7,7 @@ meta:
   title: Kho Ván Sàn Gỗ Munchen
   description: Sàn gỗ Munchen - Đẳng cấp Đức cho ngôi nhà Việt. Chống ẩm ưu việt, bền đẹp lâu dài. Tạo không gian sống sang trọng, tinh tế.
 noCover: true
-weight: 19
+weight: 28
 ---
 
 ## Thông SỐ Kỹ Thuật Sàn Gỗ Munchen
