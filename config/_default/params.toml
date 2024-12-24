@@ -195,9 +195,9 @@
     darkModeShade = "20%"
     darkModeTint = "40%"
 # toml-docs-start font
-    themeFont = "forma-djr-micro"
+    themeFont = "Forma DJR Micro"
     themeFontPath = "/fonts" # local path
-    themeFontPreload = "/fonts/FormaDJRCyrillicMicro-Regular.woff2"
+    themeFontPreload = "/fonts/FormaDJRMicro-Regular.woff"
     fontSizeBase = "1.1rem" 
 # toml-docs-end font
 # toml-docs-start build
