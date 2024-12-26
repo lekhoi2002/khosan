@@ -198,7 +198,7 @@
     themeFont = "Forma DJR Micro"
     themeFontPath = "/fonts" # local path
     themeFontPreload = "/fonts/FormaDJRMicro-Regular.woff"
-    fontSizeBase = "1.1rem" 
+    fontSizeBase = "1.0625rem" 
 # toml-docs-end font
 # toml-docs-start build
     purge = false
