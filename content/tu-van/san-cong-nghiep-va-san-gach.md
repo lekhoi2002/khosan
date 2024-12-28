@@ -14,8 +14,6 @@ keywords:
   - sàn gỗ hay sàn gạch tốt hơn
 ---
 
-# **Sàn Gỗ Công Nghiệp vs Sàn Gạch – Đâu Là Sự Lựa Chọn Tốt Hơn?**
-
 ---
 
 ## 📘 **1. Giới Thiệu Về Sàn Gỗ Công Nghiệp và Sàn Gạch**  

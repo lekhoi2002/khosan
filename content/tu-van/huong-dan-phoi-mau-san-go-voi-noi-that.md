@@ -14,7 +14,6 @@ keywords:
   - Cách chọn màu sàn gỗ công nghiệp
 noCover: true
 ---
-# **Hướng Dẫn Phối Màu Sàn Gỗ Công Nghiệp Với Nội Thất**
 
 ## **1. Giới Thiệu**  
 

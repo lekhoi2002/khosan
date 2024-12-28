@@ -17,9 +17,6 @@ keywords:
 noCover: true
 ---
 
-
-# 📦 **So Sanh chi tiết: Nên chọn Sàn gỗ MDF hay MFC cho nội thất của bạn?**
-
 ## 📘 **Giới thiệu**
 Khi lựa chọn vật liệu cho nội thất, việc cân nhắc giữa **gỗ MDF và MFC** là điều quan trọng. Mỗi loại gỗ đều có những ưu, nhược điểm riêng và phù hợp với các nhu cầu sử dụng khác nhau. Vậy **gỗ MDF và MFC loại nào tốt hơn**? Hãy cùng tìm hiểu và so sánh chi tiết trong bài viết dưới đây.
 
