@@ -4,7 +4,7 @@
     description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
     enableDarkMode = false
     enableLanguageSelectionStorage = false
-    modes = ["light"]
+    modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = true
     footerBelowFold = false
