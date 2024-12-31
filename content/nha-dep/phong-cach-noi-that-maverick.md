@@ -13,7 +13,6 @@ keywords:
   - nội thất Maveric
   - thiết kế Maveric
   - không gian Maveric
-  - nội thất hiện đại
   - xu hướng nội thất 2024
 ---
 
