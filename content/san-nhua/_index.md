@@ -127,3 +127,7 @@ Sàn nhựa giả gỗ là giải pháp tuyệt vời để nâng cấp không g
 Hãy liên hệ với **Kho Sàn Nhập Khẩu** để nhận tư vấn và báo giá sàn nhựa giả gỗ tốt nhất!  
 
 > 📞 **Hotline/Zalo: 0966 171 436** – **Nhận ưu đãi đặc biệt ngay hôm nay!**  
+
+## Nội dung liên quan
+[**Sàn gỗ công nghiệp**](https://khovansango.com/san-go-cong-nghiep/)
+
