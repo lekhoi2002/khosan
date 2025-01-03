@@ -76,8 +76,8 @@ Sàn gỗ công nghiệp được phân loại dựa trên nhiều tiêu chí kh
 
 **3. Phân loại theo thương hiệu:**
 
-* **Sàn gỗ Malaysia:** Nổi tiếng với khả năng chống ẩm, chống mối mọt tốt.
 * **Sàn gỗ Đức:**  Được đánh giá cao về chất lượng, độ bền và tính thẩm mỹ.
+* **Sàn gỗ Malaysia:** Nổi tiếng với khả năng chống ẩm, chống mối mọt tốt.
 * **Sàn gỗ Thái Lan:** Mẫu mã đa dạng, giá thành hợp lý.
 * **Sàn gỗ Việt Nam:**  Chất lượng ngày càng được cải thiện, giá cả cạnh tranh.
 
@@ -107,11 +107,11 @@ Giá sàn gỗ công nghiệp phụ thuộc vào nhiều yếu tố như thươn
 | Malaysia | 8mm | Trung bình | Từ 179.000 |
 | Malaysia | 12mm | Tốt | Từ 280.000 |
 | Đức | 8mm | Cao cấp | Từ 420.000 |
-| Đức | 12mm | Cao cấp | Từ 700.000 |
+| Đức | 12mm | Cao cấp | Từ 600.000 |
 | Việt Nam | 8mm | Trung bình | Từ 210.000 |
 | Việt Nam | 12mm | Tốt | Từ 280.000 |
 
-**Lưu ý:** Bảng giá trên chỉ mang tính chất tham khảo, giá thực tế có thể thay đổi tùy thời điểm. Liên hệ ngay với Kho Sàn Gỗ Nhập Khẩu để nhận báo giá chi tiết [đã xoá URL không hợp lệ] và ưu đãi hấp dẫn nhất.
+**Lưu ý:** Bảng giá trên chỉ mang tính chất tham khảo, giá thực tế có thể thay đổi tùy thời điểm. Liên hệ ngay với Kho Sàn Gỗ Nhập Khẩu để nhận báo giá chi tiết và ưu đãi hấp dẫn nhất.
 
 ## Ưu Điểm Khi Mua Sàn Gỗ Công Nghiệp Tại Kho Sàn Gỗ Nhập Khẩu
 
@@ -168,6 +168,6 @@ Sàn gỗ công nghiệp có khả năng chống trầy xước tốt, tuy nhiê
 
 **Liên hệ ngay để được tư vấn miễn phí và nhận ưu đãi hấp dẫn!**
 
-**Xem thêm các mẫu sàn gỗ công nghiệp [đã xoá URL không hợp lệ] mới nhất!**
+**Xem thêm các mẫu sàn gỗ công nghiệp mới nhất!**
 
-**Đăng ký nhận báo giá [đã xoá URL không hợp lệ] và ưu đãi hấp dẫn!**
+**Đăng ký nhận báo giá và ưu đãi hấp dẫn!**

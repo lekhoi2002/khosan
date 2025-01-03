@@ -1,18 +1,20 @@
----  
-title: Sàn Gỗ Bị Phồng- Nguyên Nhân và Giải Pháp Khắc Phục Hiệu Quả  
-date: 2024-12-29T10:04:47+07:00  
-meta:  
- title: Sàn Gỗ Bị Phồng- Nguyên Nhân và Giải Pháp Khắc Phục Hiệu Quả  
- description: Tìm hiểu nguyên nhân sàn gỗ bị phồng và các giải pháp khắc phục hiệu quả để bảo vệ không gian sống của bạn.  
-keywords:  
-- sàn gỗ bị phồng  
-- sàn gỗ phồng nước  
-- sàn gỗ bị phồng lên  
-- nguyên nhân sàn gỗ bị phồng  
-- cách khắc phục sàn gỗ phồng  
-- sửa sàn gỗ phồng  
-noCover: true  
----  
+---
+title: Sàn Gỗ Bị Phồng- Nguyên Nhân và Giải Pháp Khắc Phục Hiệu Quả
+date: 2024-12-29T10:04:47+07:00
+meta:
+    title: Sàn Gỗ Bị Phồng- Nguyên Nhân và Giải Pháp Khắc Phục Hiệu Quả
+    description: Tìm hiểu nguyên nhân sàn gỗ bị phồng và các giải pháp khắc phục hiệu quả để bảo vệ không gian sống của bạn.
+keywords:
+    - sàn gỗ bị phồng
+    - sàn gỗ phồng nước
+    - sàn gỗ bị phồng lên
+    - nguyên nhân sàn gỗ bị phồng
+    - cách khắc phục sàn gỗ phồng
+    - sửa sàn gỗ phồng
+lastmod: 2025-01-03T03:11:51.930Z
+thumbnail: /img/tu-van/san-go-bi-phong-rop.webp
+---
+  
 
 # Sàn Gỗ Bị Phồng: Nguyên Nhân và Giải Pháp Khắc Phục Hiệu Quả
 

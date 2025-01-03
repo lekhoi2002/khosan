@@ -6,7 +6,7 @@ meta:
   description: Tìm hiểu các kích thước sàn gỗ phổ biến, từ sàn gỗ công nghiệp đến tự nhiên, để lựa chọn phù hợp với không gian và phong cách của bạn.
 date: 2024-12-28T06:15:57.148Z
 draft: false
-thumbnail: null
+thumbnail: /img/tu-van/huong-dan-chon-kich-thuoc-san-go.webp
 keywords:
   - Kích thước của sàn gỗ
   - Kích thước sàn gỗ công nghiệp
@@ -14,6 +14,7 @@ keywords:
   - Kích thước sàn gỗ xương cá
   - Kích thước sàn gỗ trong nhà
   - Kích thước sàn gỗ ngoài trời
+lastmod: 2025-01-03T03:06:29.703Z
 ---
 
 # Hướng Dẫn Chọn Kích Thước Sàn Gỗ Phù Hợp
