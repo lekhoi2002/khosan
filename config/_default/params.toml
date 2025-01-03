@@ -1,7 +1,7 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
+    description = "Kho Ván Sàn Gỗ Nhập Khẩu Uy Tín Tại Hà Nội"
     enableDarkMode = false
     enableLanguageSelectionStorage = false
     modes = ["light", "dark"]

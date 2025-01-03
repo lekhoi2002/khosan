@@ -3,17 +3,18 @@ author: Khôi Lê
 title: Sàn Gỗ Công Nghiệp
 meta:
    title: Kho Sàn Gỗ Công Nghiệp Cao Cấp Uy Tín Giá Rẻ Tại Hà Nội
-   description: "Kho Sàn Gỗ Nhập Khẩu cung cấp sàn gỗ công nghiệp cao cấp, chính hãng, giá rẻ tại Hà Nội. Tìm hiểu ưu nhược điểm, phân loại, báo giá và kinh nghiệm chọn sàn gỗ phù hợp"
+   description: Kho Sàn Gỗ Nhập Khẩu cung cấp sàn gỗ công nghiệp cao cấp, chính hãng, giá rẻ tại Hà Nội. Tìm hiểu ưu nhược điểm, phân loại, báo giá và kinh nghiệm chọn sàn gỗ phù hợp
 nested: true
-date: 2024-11-19T15:37:36.416Z
-lastmod: 2024-12-19T15:37:37.032Z
+date: 2025-11-19T15:37:36.416Z
+lastmod: 2025-01-03T09:06:00.936Z
 keywords:
-- sàn gỗ công nghiệp
-- sàn gỗ công nghiệp giá rẻ
-- sàn gỗ công nghiệp chịu nước
-- ván sàn công nghiệp
-- thi công sàn gỗ
-sort: "weight"
+   - sàn gỗ công nghiệp
+   - sàn gỗ công nghiệp giá rẻ
+   - sàn gỗ công nghiệp chịu nước
+   - ván sàn công nghiệp
+   - thi công sàn gỗ
+sort: weight
+thumbnail: /img/cong-nghiep/san-go-cong-nghiep.webp
 ---
 
 Bạn đang tìm kiếm một loại vật liệu lát sàn đẹp, bền và giá cả hợp lý? [Sàn gỗ công nghiệp](san-go-cong-nghiep/) chính là giải pháp hoàn hảo cho ngôi nhà của bạn. Vậy sàn gỗ công nghiệp là gì? Loại sàn này có những ưu nhược điểm gì? Hãy cùng Kho Sàn Gỗ Nhập Khẩu tìm hiểu chi tiết trong bài viết dưới đây.
@@ -59,7 +60,7 @@ Sàn gỗ công nghiệp là loại vật liệu lát sàn được sản xuất
 | Cách âm | Khá tốt | Tốt |
 | Độ ổn định | Cao | Trung bình |
 | Độ bóng | Cao | Có thể điều chỉnh |
-
+![sàn gỗ công nghiệp có màu sắc đa dạng hơn sàn tự nhiên](/img/cong-nghiep/san-go-cong-nghiep-mau-sac-da-dang.webp)
 ## Phân Loại Sàn Gỗ Công Nghiệp
 
 Sàn gỗ công nghiệp được phân loại dựa trên nhiều tiêu chí khác nhau:
@@ -98,7 +99,7 @@ Sàn gỗ công nghiệp được phân loại dựa trên nhiều tiêu chí kh
 * **Phòng bếp:** Sàn gỗ chịu nước cao cấp, bề mặt chống trơn trượt.
 
 
-## Báo Giá Sàn Gỗ Công Nghiệp 2024
+## Báo Giá Sàn Gỗ Công Nghiệp 2025
 
 Giá sàn gỗ công nghiệp phụ thuộc vào nhiều yếu tố như thương hiệu, độ dày, khả năng chịu nước... Dưới đây là bảng giá sàn gỗ công nghiệp tham khảo tại Kho Sàn Gỗ Nhập Khẩu:
 
