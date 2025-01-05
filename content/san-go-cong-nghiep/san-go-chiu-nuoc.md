@@ -42,8 +42,6 @@ Nhờ khả năng này, sàn gỗ chịu nước rất phù hợp cho những kh
 
 ## Cấu Tạo Của Sàn Gỗ Chịu Nước
 
-![Cấu tạo sàn gỗ chịu nước](/img/thumbnail/cau-tao-san-go-chiu-nuoc.jpg)
-
 ### 1. Lớp Phủ Bề Mặt (Overlay)
 Lớp phủ bề mặt làm từ oxit nhôm (Al2O3) và sợi thủy tinh, giúp sàn gỗ chống xước, chống mài mòn và chống thấm nước tuyệt đối. Một số dòng sản phẩm còn có khả năng kháng khuẩn và chống cháy. Lớp phủ bề mặt có chỉ số AC (Abrasion Class) từ AC4 trở lên, đảm bảo độ bền và chống trầy xước tốt.
 

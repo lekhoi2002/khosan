@@ -4,10 +4,8 @@ title: Phụ Kiện Sàn Gỗ – Tất Cả Những Gì Bạn Cần Biết
 meta:
   title: Phụ Kiện Sàn Gỗ – Danh Sách Đầy Đủ Và Hướng Dẫn Lựa Chọn
   description: Tìm hiểu đầy đủ về các loại phụ kiện sàn gỗ cần thiết như phào chân tường, nẹp kết nối, xốp lót sàn và keo dán sàn. Hướng dẫn chi tiết cách lựa chọn và báo giá mới nhất 2024.
-date: 2024-12-12T04:45:02.291Z
 draft: false
-lastmod: 2024-12-12T04:19:47.677Z
-thumbnail: /images/phu-kien-san-go.jpg
+thumbnail: /img/phu-kien/phu-kien-san-go.webp
 keywords:
   - phụ kiện sàn gỗ
 ---

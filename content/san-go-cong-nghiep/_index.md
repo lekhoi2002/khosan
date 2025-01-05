@@ -1,19 +1,14 @@
 ---
-author: Khôi Lê
 title: Sàn Gỗ Công Nghiệp
 meta:
-   title: Kho Sàn Gỗ Công Nghiệp Cao Cấp Uy Tín Giá Rẻ Tại Hà Nội
-   description: Kho Sàn Gỗ Nhập Khẩu cung cấp sàn gỗ công nghiệp cao cấp, chính hãng, giá rẻ tại Hà Nội. Tìm hiểu ưu nhược điểm, phân loại, báo giá và kinh nghiệm chọn sàn gỗ phù hợp
+ title: Kho Sàn Gỗ Công Nghiệp Cao Cấp Uy Tín Giá Rẻ Tại Hà Nội
+ description: Kho Sàn Gỗ Nhập Khẩu cung cấp sàn gỗ công nghiệp cao cấp, chính hãng, giá rẻ tại Hà Nội. Tìm hiểu ưu nhược điểm, phân loại, báo giá và kinh nghiệm chọn sàn gỗ phù hợp
 nested: true
-date: 2025-11-19T15:37:36.416Z
-lastmod: 2025-01-03T09:06:00.936Z
 keywords:
    - sàn gỗ công nghiệp
    - sàn gỗ công nghiệp giá rẻ
    - sàn gỗ công nghiệp chịu nước
    - ván sàn công nghiệp
-   - thi công sàn gỗ
-sort: weight
 thumbnail: /img/cong-nghiep/san-go-cong-nghiep.webp
 ---
 
@@ -60,6 +55,7 @@ Sàn gỗ công nghiệp là loại vật liệu lát sàn được sản xuất
 | Cách âm | Khá tốt | Tốt |
 | Độ ổn định | Cao | Trung bình |
 | Độ bóng | Cao | Có thể điều chỉnh |
+
 ![sàn gỗ công nghiệp có màu sắc đa dạng hơn sàn tự nhiên](/img/cong-nghiep/san-go-cong-nghiep-mau-sac-da-dang.webp)
 ## Phân Loại Sàn Gỗ Công Nghiệp
 

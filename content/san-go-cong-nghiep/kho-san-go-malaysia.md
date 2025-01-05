@@ -2,13 +2,11 @@
 author: Khoi Le
 title: Sàn Gỗ Malaysia
 meta:
-  title: Sàn Gỗ Malaysia- Ưu Nhược Điểm & Top Thương Hiệu Nổi Bật 2025
-  description: Tìm hiểu về sàn gỗ Malaysia- ưu nhược điểm, các thương hiệu nổi bật, bảng giá chi tiết và ứng dụng trong thiết kế nội thất.
-date: 2025-09-14T14:12:09.752Z
-lastmod: 2025-01-01T14:57:27.441Z
+ title: Sàn Gỗ Malaysia- Ưu Nhược Điểm & Top Thương Hiệu Nổi Bật 2025
+ description: Tìm hiểu về sàn gỗ Malaysia- ưu nhược điểm, các thương hiệu nổi bật, bảng giá chi tiết và ứng dụng trong thiết kế nội thất.
 thumbnail: /img/thumbnail/san-go-malaysia.jpg
-draft: false
 noCover: true
+draft: false
 keywords:
   - sàn gỗ malaysia
   - sàn gỗ malaysia chịu nước
