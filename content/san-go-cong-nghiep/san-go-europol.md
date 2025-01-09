@@ -4,8 +4,6 @@ title: Sàn Gỗ Europol
 date: 2024-08-30T21:50:14+07:00
 draft: false
 thumbnail: /img/thumbnail/san-go-europol.jpg
-lastmod: 2024-10-13T05:18:09.213Z
-weight: 1
 meta:
   title: Kho Ván Sàn Gỗ Europol
   description: Sàn gỗ Europol - Tiêu chuẩn Châu Âu, độ bền vượt trội. Chống cháy, chống trầy xước tuyệt đối. Nâng tầm không gian sống với đẳng cấp quốc tế.
@@ -34,3 +32,9 @@ weight: 8
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
 
+## Nội dung liên quan:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}

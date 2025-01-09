@@ -1,6 +1,8 @@
 ---
-author: null
 title: Sàn Gỗ Tiger Wood
+meta:
+ title: Kho Ván Sàn Gỗ Tiger Wood
+ description: Sàn gỗ Tiger Wood - Vẻ đẹp mạnh mẽ như hổ. Độ cứng cao, chống mài mòn tuyệt vời. Tạo điểm nhấn độc đáo cho không gian sống.
 date: 2024-08-30T21:50:18+07:00
 draft: false
 categories:
@@ -8,9 +10,6 @@ categories:
 thumbnail: /img/thumbnail/san-go-tiger-wood.jpg
 lastmod: 2024-10-13T05:17:16.072Z
 weight: 3
-meta:
-  title: Kho Ván Sàn Gỗ Tiger Wood
-  description: Sàn gỗ Tiger Wood - Vẻ đẹp mạnh mẽ như hổ. Độ cứng cao, chống mài mòn tuyệt vời. Tạo điểm nhấn độc đáo cho không gian sống.
 noCover: true
 weight: 7
 ---
@@ -55,3 +54,10 @@ Sàn gỗ Tiger Wood được sản xuất dựa trên công nghệ tiên tiến
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
+
+## Nội dung liên quan:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}

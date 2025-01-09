@@ -1,6 +1,9 @@
 ---
 author: null
 title: Sàn Gỗ Zicos
+meta:
+  title: Kho Ván Sàn Gỗ Zicos
+  description: Sàn gỗ Zicos - Lựa chọn thông minh cho ngôi nhà hiện đại. Chất lượng cao, giá cả hợp lý. Dễ lắp đặt, bảo trì đơn giản. Tạo không gian sống ấm áp.
 date: 2024-08-30T21:50:18+07:00
 draft: false
 categories:
@@ -8,11 +11,7 @@ categories:
 thumbnail: /img/thumbnail/san-go-zicos.jpg
 lastmod: 2024-10-18T16:08:05.484Z
 weight: 4
-meta:
-  title: Kho Ván Sàn Gỗ Zicos
-  description: Sàn gỗ Zicos - Lựa chọn thông minh cho ngôi nhà hiện đại. Chất lượng cao, giá cả hợp lý. Dễ lắp đặt, bảo trì đơn giản. Tạo không gian sống ấm áp.
 noCover: true
-weight: 34
 ---
 ## Tổng quan về sàn gỗ zicos xương cá
 
@@ -91,4 +90,9 @@ Dù bạn chọn dòng 8mm hay 12mm, sàn gỗ Ziccos đều mang đến chất 
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
 
+## Nội dung liên quan:
 
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}

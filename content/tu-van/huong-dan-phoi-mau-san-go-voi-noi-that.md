@@ -2,8 +2,8 @@
 author: Khoi Le
 title: Hướng Dẫn Phối Màu Sàn Gỗ Công Nghiệp Với Nội Thất
 meta:
-    title: Hướng Dẫn Phối Màu Sàn Gỗ Công Nghiệp Với Nội Thất Đẹp Và Hài Hòa
-    description: Tìm hiểu cách phối màu sàn gỗ công nghiệp với nội thất để tạo nên không gian hài hòa, sang trọng. Hướng dẫn chi tiết theo từng phong cách thiết kế.
+ title: Hướng Dẫn Phối Màu Sàn Gỗ Công Nghiệp Với Nội Thất Đẹp Và Hài Hòa
+ description: Tìm hiểu cách phối màu sàn gỗ công nghiệp với nội thất để tạo nên không gian hài hòa, sang trọng. Hướng dẫn chi tiết theo từng phong cách thiết kế.
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2025-01-03T03:14:24.372Z

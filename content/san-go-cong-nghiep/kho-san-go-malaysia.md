@@ -162,3 +162,9 @@ Sàn gỗ Malaysia được ứng dụng rộng rãi trong thiết kế nội th
 
 Sàn gỗ Malaysia là sự lựa chọn hoàn hảo cho những ai đang tìm kiếm vật liệu lát sàn chất lượng cao, độ bền tốt và mẫu mã đa dạng. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về sàn gỗ Malaysia. Nếu bạn có bất kỳ câu hỏi nào, hãy để lại bình luận bên dưới hoặc liên hệ với chúng tôi để được tư vấn chi tiết.
 
+### Nội dung liên quan:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}

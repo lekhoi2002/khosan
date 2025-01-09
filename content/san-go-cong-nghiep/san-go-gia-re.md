@@ -126,3 +126,9 @@ Sàn gỗ giá rẻ là giải pháp tuyệt vời cho những ai muốn tiết 
 
 [sàn gỗ công nghiệp](san-go-cong-nghiep/)
 
+## Nội dung liên quan:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}

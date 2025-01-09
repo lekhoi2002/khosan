@@ -228,3 +228,9 @@ Sàn gỗ chịu nước là sự lựa chọn hoàn hảo cho những không gi
 
 Để lựa chọn được loại sàn gỗ chịu nước phù hợp, bạn nên cân nhắc kỹ lưỡng về nhu cầu sử dụng, ngân sách, cũng như uy tín của thương hiệu và nhà cung cấp. Hãy tham khảo ý kiến của các chuyên gia và tìm hiểu kỹ thông tin sản phẩm trước khi đưa ra quyết định. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích để chọn được loại sàn gỗ chịu nước ưng ý nhất cho ngôi nhà của mình.
 ---
+## Nội dung liên quan:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}

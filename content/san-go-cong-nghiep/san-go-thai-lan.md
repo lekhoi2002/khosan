@@ -100,3 +100,9 @@ Sàn gỗ Thái Lan sở hữu cấu tạo 5 lớp độc đáo, đảm bảo ch
 
 Sàn gỗ Thái Lan là lựa chọn lý tưởng cho mọi không gian sống nhờ chất lượng vượt trội, giá cả hợp lý và thiết kế đa dạng. Với các dòng sản phẩm nổi bật như Thaiemas, Thaixin, Thaistar và Thailux, bạn chắc chắn sẽ tìm được mẫu sàn phù hợp nhất với nhu cầu của mình. Hãy để sàn gỗ Thái Lan biến ngôi nhà của bạn thành không gian sống đẳng cấp và đầy cảm hứng!
 
+## Nội dung liên quan:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto" />}}
+{{< /card-group >}}
