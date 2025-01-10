@@ -40,6 +40,7 @@ Sàn gỗ Rainforest đi kèm bảo hành chính hãng lên đến 15 năm, mang
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
+<<<<<<< HEAD
 ## Nội Dung Hữu Ích:
 {{< card-group cols="2" gutter="3" >}}
     {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
@@ -55,3 +56,19 @@ Sàn gỗ Rainforest đi kèm bảo hành chính hãng lên đến 15 năm, mang
    [Sàn gỗ Thái Lan chính hãng](/san-go-cong-nghiep/san-go-thai-lan/)  
    [Sàn gỗ Made in Vietnam](/san-go-cong-nghiep/san-go-viet-nam/)
 
+=======
+
+## Nội Dung Hữu Ích:
+
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+
+    {{< card path="/san-go-cong-nghiep/san-go-gia-re/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/san-go-cong-nghiep/san-go-chiu-nuoc/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/san-go-cong-nghiep/san-go-duc-nhap-khau/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/san-go-cong-nghiep/kho-san-go-malaysia/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/san-go-cong-nghiep/san-go-viet-nam/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/san-go-cong-nghiep/san-go-thai-lan/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+{{< /card-group >}}
+>>>>>>> 728888b8e007d47c52ef92354da195a82d11c73f

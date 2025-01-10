@@ -290,6 +290,7 @@
       "text-start",
       "text-uppercase",
       "thumbnail-img",
+      "title-custom",
       "toast",
       "toast-body",
       "toast-container",
@@ -943,7 +944,11 @@
       "cách-chọn-sàn-gỗ-xương-cá-phù-hợp",
       "cách-nhận-biết-sàn-gỗ-chịu-nước-tốt",
       "có-nên-sử-dụng-sàn-gỗ-tự-nhiên-bản-siêu-to-không",
+<<<<<<< HEAD
       "có-thể-bạn-quan-tâm",
+=======
+      "có-thể-bạn-quan-tâm-",
+>>>>>>> 728888b8e007d47c52ef92354da195a82d11c73f
       "công-nghệ-lắp-đặt",
       "công-nghệ-waterblock",
       "cảnh-báo-khi-mua-sản-phẩm-giá-rẻ",
