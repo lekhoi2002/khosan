@@ -35,6 +35,8 @@ noCover: true
 ## Mã màu sàn gỗ charm
 
 {{< gallery "xuong-ca/charm" >}}
+
+[Sàn gỗ lát xương cá](/san-go-xuong-ca/)
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

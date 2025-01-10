@@ -93,6 +93,8 @@ Sàn gỗ Egger xương cá là sản phẩm chất lượng Châu Âu, được
 ## Mã màu sàn gỗ egger-pro
 
 {{< gallery "xuong-ca/egger-pro" >}}
+
+[Sàn gỗ lắp kiểu xương cá](/san-go-xuong-ca/)
 #### Cam Kết:
 
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ

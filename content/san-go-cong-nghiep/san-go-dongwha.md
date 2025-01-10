@@ -7,6 +7,7 @@ meta:
   title: 
   description: Sàn gỗ Dongwha - Công nghệ Hàn Quốc, bền đẹp theo thời gian. Chống cong vênh, chịu lực tốt. Lựa chọn hoàn hảo cho không gian sống hiện đại.
 noCover: true
+weight: 21
 ---
 ## Thông số kỹ thuật Sàn Gỗ Dongwha
 | Thông số kỹ thuật                | Chi tiết                                                |
@@ -17,48 +18,47 @@ noCover: true
 | Xuất xứ                          | Made in Korea                                           |
 | Bảo hành                         | 25 năm                                                  |
 | Đặc tính                         | Bản to, hèm phẳng, siêu chịu nước, chịu lực, mài mòn bề mặt, chống mối mọt |
-
 ## Ưu điểm sàn gỗ xương cá Dongwha
-
 Sàn gỗ xương cá Dongwha là một sự lựa chọn tuyệt vời cho những ai đang tìm kiếm một giải pháp sàn nhà vừa đẹp vừa bền. Hãy cùng khám phá những ưu điểm nổi bật của sản phẩm này.
-
 ### 1. Đa dạng về màu sắc vân gỗ
-
 Sàn gỗ Dongwha gây ấn tượng mạnh với phong cách vân gỗ nhẹ nhàng, tinh tế. Với tông màu trung tính, bạn sẽ dễ dàng kết hợp với nhiều phong cách nội thất khác nhau. Đặc biệt, bề mặt vân gỗ sần EIR không chỉ chống trơn trượt hiệu quả mà còn mang lại cảm giác chân thực như gỗ tự nhiên. Kiểu vân gỗ Majestic Oak (sồi) sang trọng chắc chắn sẽ làm hài lòng ngay cả những khách hàng khó tính nhất.
-
 ### 2. Lắp đặt dễ dàng
-
 Một trong những ưu điểm vượt trội của sàn gỗ Dongwha là khả năng lắp đặt đơn giản. Nhờ sử dụng hèm khoá Uniclick thông minh, việc lắp đặt trở nên nhanh chóng và thuận tiện. Bạn sẽ không cần phải sử dụng keo hay bất kỳ chất kết dính nào khác, giúp tiết kiệm thời gian và chi phí đáng kể.
-
 ### 3. Độ bền cao và an toàn sức khoẻ
-
 Sàn gỗ Dongwha không chỉ đẹp mà còn rất bền vững. Với cốt gỗ HDF chống nước có mật độ cao trên 880 kg/m3, sản phẩm này có khả năng chịu lực tốt và bền bỉ theo thời gian. Đặc biệt, cốt gỗ đặc biệt (NAF) đạt tiêu chuẩn Supper E0 đảm bảo an toàn tuyệt đối cho sức khỏe người sử dụng.
-
 Công nghệ phủ bề mặt Nano bạc không chỉ kháng khuẩn hiệu quả mà còn chống xước, chống nấm mốc và dễ dàng vệ sinh. Với chế độ bảo hành chính hãng lên đến 20 năm, bạn có thể hoàn toàn yên tâm về chất lượng sản phẩm.
-
 ### 4. Kích thước bản gỗ lớn
-
 Sàn gỗ xương cá Dongwha nổi bật với kích thước bản gỗ lớn: 800 x 123 x 12 mm (DxRxDày). Điều này không chỉ tạo nên một không gian rộng rãi, thoáng đãng mà còn mang lại vẻ đẹp hiện đại cho ngôi nhà của bạn. Kích thước này đặc biệt phù hợp với những không gian có diện tích trên 50 m2, giúp tối ưu hóa tính thẩm mỹ và công năng sử dụng.
-
 Với những ưu điểm vượt trội như trên, sàn gỗ xương cá Dongwha chắc chắn sẽ là một lựa chọn tuyệt vời cho không gian sống của bạn, mang lại sự sang trọng, bền đẹp và an toàn cho gia đình.
 ## Bảng Giá sàn gỗ xương cá Dongwha
 | Sản phẩm         | Quy cách           | Giá          |
 |------------------|--------------------|--------------|
 | Sàn gỗ Dongwha   | 8x190x1200mm       | 260.000đ/m²  |
 | Sàn gỗ Dongwha   | 12x120x1200mm      | 345.000đ/m²  |
-
 ## Mã màu sàn gỗ dongwha
-
 {{< gallery "cong-nghiep/dongwha" >}}
 #### Cam Kết:
-
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
 2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
 3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
 4. Bảo hành sản phẩm trong vòng 10 năm đầu 
 5. Bảo trì sản phẩm trọn đời
-
 #### Kho Ván Sàn Gỗ
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
+## Nội Dung Hữu Ích:
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+{{< /card-group >}}
+
+### Có Thể Bạn Quan Tâm
+
+   [Sàn gỗ giá rẻ](/san-go-cong-nghiep/san-go-gia-re/)  
+   [Sàn gỗ không thấm nước](/san-go-cong-nghiep/san-go-chiu-nuoc/)  
+   [Sàn gỗ công nghiệp Malaysia](/san-go-cong-nghiep/kho-san-go-malaysia/)  
+   [Sàn gỗ công nghiệp Đức](/san-go-cong-nghiep/san-go-duc-nhap-khau/)  
+   [Sàn gỗ Made in Thailand](/san-go-cong-nghiep/san-go-thai-lan/)  
+   [Sàn gỗ Made in Vietnam](/san-go-cong-nghiep/san-go-viet-nam/)
+   

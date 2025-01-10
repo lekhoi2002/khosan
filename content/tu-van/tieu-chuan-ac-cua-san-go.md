@@ -1,8 +1,10 @@
 ---
-author: 
-title: Các Tiêu Chuẩn AC (Chống Mài Mòn) Của Sàn Gỗ 
+author: null
+title: Các Tiêu Chuẩn AC (Chống Mài Mòn) Của Sàn Gỗ
 date: 2024-08-30T21:52:52+07:00
 draft: false
+lastmod: 2024-12-12T04:19:47.677Z
+thumbnail: /img/tu-van/AC-rating.webp
 ---
 
 ## Định Nghĩa Tiêu Chuẩn AC

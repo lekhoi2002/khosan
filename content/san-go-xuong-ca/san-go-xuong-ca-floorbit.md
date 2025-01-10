@@ -37,6 +37,7 @@ Bề mặt của sàn gỗ xương cá Floorbit được thiết kế với côn
 ### Kết luận
 
 Sàn gỗ xương cá Floorbit không chỉ nổi bật với thiết kế sang trọng mà còn sở hữu nhiều tính năng vượt trội như khả năng chống nước, độ bền cao và thân thiện với môi trường. Với các đặc tính ưu việt này, sàn gỗ xương cá Floorbit chắc chắn sẽ là sự lựa chọn hoàn hảo cho ngôi nhà của bạn.
+[Sàn gỗ lắp kiểu xương cá](/san-go-xuong-ca/)
 
 ## Mã màu sàn gỗ floorbit
 

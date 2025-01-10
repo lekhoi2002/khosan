@@ -56,6 +56,7 @@ Sàn gỗ xương cá Fortune thích hợp với mọi không gian kiến trúc 
 
 Với tiêu chuẩn chất lượng Châu Âu, sàn gỗ Fortune được khách hàng toàn cầu tin dùng, mang lại sự an tâm và sự bền vững cho mọi không gian sống.
 
+[Sàn gỗ lắp kiểu xương cá](/san-go-xuong-ca/)
 
 ## Mã màu sàn gỗ fotune
 

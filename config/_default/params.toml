@@ -1,10 +1,10 @@
 # toml-docs-start main
 [main]
     separator = "-"
-    description = "Kho Ván Sàn Gỗ Nhập Khẩu uy tín và lớn nhất khu vực miền bắc."
+    description = "Kho Ván Sàn Gỗ Nhập Khẩu Uy Tín Tại Hà Nội"
     enableDarkMode = false
     enableLanguageSelectionStorage = false
-    modes = ["light"]
+    modes = ["light", "dark"]
     canonifyAssetsURLs = false
     endorse = true
     footerBelowFold = false
@@ -125,7 +125,6 @@
         title = "Sàn Gỗ Công Nghiệp"
         layout = "card"
         sort = "weight"
-        reverse = true
         background = ""
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
@@ -136,10 +135,9 @@
         orientation = "stacked"
         homepage = 6
     [sections.san-go-xuong-ca]
-        title = "Sàn Gỗ Công Nghiệp"
+        title = "Sàn Gỗ Xương Cá"
         layout = "card"
         sort = "weight"
-        reverse = true
         background = ""
         color = "body"
         style = "border-0 shadow card-zoom card-body-margin"
@@ -153,7 +151,6 @@
         title = "Dự Án Đã Thi Công"
         layout = "card"
         sort = "date"
-        reverse = true
         background = ""
         color = "body-tertiary"
         style = "border-0 shadow card-zoom card-body-margin"
@@ -163,6 +160,20 @@
         footer = "none"
         orientation = "stacked"
         homepage = 6
+[sections.tu-van]
+    title = "Tư Vấn"
+    layout = "card"
+    sort = "date"
+    background = ""
+    color = "body-tertiary"
+    style = "border-0 shadow card-zoom card-body-margin"
+    cols = 3
+    padding = "3"
+    header = "full"
+    footer = "none"
+    orientation = "stacked"
+    homepage = 6
+
 # toml-docs-end sections
 
 [favicon]
@@ -184,10 +195,10 @@
     darkModeShade = "20%"
     darkModeTint = "40%"
 # toml-docs-start font
-    themeFont = "forma-djr-micro"
+    themeFont = "Forma DJR Micro"
     themeFontPath = "/fonts" # local path
-    themeFontPreload = "/fonts/FormaDJRCyrillicMicro-Regular.woff2"
-    fontSizeBase = "1.1rem" # assumes the browser default, typically '16px'
+    themeFontPreload = "/fonts/FormaDJRMicro-Regular.woff"
+    fontSizeBase = "1.0625rem" 
 # toml-docs-end font
 # toml-docs-start build
     purge = false
@@ -202,10 +213,10 @@
     github = "https://github.com/"
     section = "blog"
     [schema.author]
-        name = "Mark Dumay"
-        # twitter = "https://twitter.com/markdumay"
+        name = "Khoi Le"
+         twitter = "https://twitter.com/"
         linkedin = "https://www.linkedin.com/in/"
-        github = "https://github.com/markdumay"
+        github = "https://github.com/"
     [schema.logo]
         url = "img/logo512x512.png"
         width = 512

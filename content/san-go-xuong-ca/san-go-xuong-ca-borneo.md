@@ -34,7 +34,7 @@ Lớp vân gỗ trang trí là lớp quyết định yếu tố thẩm mỹ củ
 
 ### Lớp cốt lõi công nghiệp
 
-Lớp cốt lõi là lớp chính của sàn gỗ xương cá Borneo, giúp tạo nên độ bền và độ chắc cho sản phẩm. Lớp này được làm từ mùn gỗ nhỏ tự nhiên và các phụ gia, sau đó trải qua quy trình ép và xử lý đặc biệt để tăng độ bền và khả năng chịu lực. Nhờ vậy, sàn gỗ xương cá Borneo có thể chịu được các tác động mạnh và giữ được tính ổn định trong quá trình sử dụng.
+Lớp cốt lõi là lớp chính của sàn gỗ xương cá Borneo, giúp tạo nên độ bền và độ chắc cho sản phẩm. Lớp này được làm từ mùn gỗ nhỏ tự nhiên và các phụ gia, sau đó trải qua quy trình ép và xử lý đặc biệt để tăng độ bền và khả năng chịu lực. Nhờ vậy, [Sàn gỗ lát xương cá](/san-go-xuong-ca/) Borneo có thể chịu được các tác động mạnh và giữ được tính ổn định trong quá trình sử dụng.
 
 ### Lớp đế lót
 

@@ -26,7 +26,7 @@ noCover: true
 ### Ưu điểm
 
 - **Chống nước, mối mọt, và cong vênh**  
-  Sàn gỗ xương cá Bakar Will sở hữu cốt HDF siêu chịu nước đạt chuẩn E1, giúp chống nước lên đến 24 tiếng. Điều này làm cho sản phẩm rất phù hợp với khí hậu nóng ẩm của Việt Nam, nơi mà các vấn đề về cong vênh và mối mọt thường xuyên xảy ra. Đặc biệt, quy trình xử lý kỹ thuật giúp sản phẩm chống lại mối mọt một cách hiệu quả, đảm bảo độ bền lâu dài.
+  [Sàn xương cá](/san-go-xuong-ca/) Bakar Will sở hữu cốt HDF siêu chịu nước đạt chuẩn E1, giúp chống nước lên đến 24 tiếng. Điều này làm cho sản phẩm rất phù hợp với khí hậu nóng ẩm của Việt Nam, nơi mà các vấn đề về cong vênh và mối mọt thường xuyên xảy ra. Đặc biệt, quy trình xử lý kỹ thuật giúp sản phẩm chống lại mối mọt một cách hiệu quả, đảm bảo độ bền lâu dài.
 
 - **Bề mặt vân gỗ tự nhiên**  
   Bakar Will nổi bật với bề mặt vân gỗ sắc nét và sang trọng, nhờ vào công nghệ in 3D sống động và tinh tế. Sàn gỗ mang đến vẻ đẹp tự nhiên, chân thực, giúp không gian nhà trở nên ấm áp và tinh tế hơn.

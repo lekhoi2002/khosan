@@ -7,8 +7,8 @@ meta:
   title: Kho Ván Sàn Gỗ Munchen
   description: Sàn gỗ Munchen - Đẳng cấp Đức cho ngôi nhà Việt. Chống ẩm ưu việt, bền đẹp lâu dài. Tạo không gian sống sang trọng, tinh tế.
 noCover: true
+weight: 28
 ---
-
 ## Thông SỐ Kỹ Thuật Sàn Gỗ Munchen
 | Thuộc tính     | Thông số                |
 |----------------|-----------------------|
@@ -18,9 +18,7 @@ noCover: true
 | Xuất xứ        | Made In Malaysia      |
 | Bảo hành       | 30 Năm                |
 | Đặc tính       |  chịu nước, chống mối mọt |
-
 ## Đặc tính của sàn gỗ Munchen 12mm
-
 - **Độ cứng bề mặt:** AC Max, đảm bảo khả năng chịu mài mòn cao.
 - **Tiêu chuẩn thân thiện sức khỏe:** Emin, an toàn cho người sử dụng.
 - **Bề mặt:** Sần theo vân gỗ tự nhiên, chống trầy xước và bay màu theo thời gian.
@@ -29,14 +27,26 @@ noCover: true
 - **Cấu tạo:** Cốt HDF siêu chịu nước, tỷ trọng cao, bền bỉ trong điều kiện môi trường ẩm ướt.
 - **Xuất xứ:** Made in Malaysia, đảm bảo chất lượng tiêu chuẩn quốc tế.
 #### Cam Kết:
-
 1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
 2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
 3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
 4. Bảo hành sản phẩm trong vòng 10 năm đầu 
 5. Bảo trì sản phẩm trọn đời
-
 #### Kho Ván Sàn Gỗ
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
+## Nội Dung Hữu Ích:
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+{{< /card-group >}}
+
+### Có Thể Bạn Quan Tâm
+
+   [Sàn gỗ giá rẻ](/san-go-cong-nghiep/san-go-gia-re/)  
+   [Sàn gỗ chống thấm nước](/san-go-cong-nghiep/san-go-chiu-nuoc/)  
+   [Sàn gỗ Malaysia cao cấp](/san-go-cong-nghiep/kho-san-go-malaysia/)  
+   [Sàn gỗ Đức chính hãng](/san-go-cong-nghiep/san-go-duc-nhap-khau/)  
+   [Sàn gỗ Made in Thailand](/san-go-cong-nghiep/san-go-thai-lan/)  
+   [Sàn gỗ công nghiệp Việt Nam](/san-go-cong-nghiep/san-go-viet-nam/)

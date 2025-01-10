@@ -24,3 +24,5 @@ noCover: true
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
+
+[Sàn gỗ lắp kiểu xương cá](/san-go-xuong-ca/)

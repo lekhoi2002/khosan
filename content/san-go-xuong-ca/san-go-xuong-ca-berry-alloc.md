@@ -57,6 +57,8 @@ noCover: true
 | Berry Alloc xương cá 12mm | Mặt sần sâu | AC5 | 1.200.000đ/ m2 |
 | Berry Alloc Hèm nhôm 12mm | HÈM NHÔM | AC6 | 1.700.000đ/ m2 |
 
+[Sàn gỗ lát xương cá](/san-go-xuong-ca/)
+
 ## Mã màu sàn gỗ berry-alloc
 
 {{< gallery "xuong-ca/berry-alloc" >}}
