@@ -31,34 +31,20 @@ Sàn gỗ Thái Emas là một trong những thương hiệu hàng đầu tro
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
-<<<<<<< HEAD
 ## Nội Dung Hữu Ích:
 {{< card-group cols="2" gutter="3" >}}
     {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
     {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
 {{< /card-group >}}
-
 ### Có Thể Bạn Quan Tâm
-
    [Sàn gỗ giá rẻ](/san-go-cong-nghiep/san-go-gia-re/)  
    [Sàn gỗ không thấm nước](/san-go-cong-nghiep/san-go-chiu-nuoc/)  
    [Sàn gỗ nhập khẩu Malaysia](/san-go-cong-nghiep/kho-san-go-malaysia/)  
    [Sàn gỗ Đức nhập khẩu](/san-go-cong-nghiep/san-go-duc-nhap-khau/)  
    [Sàn gỗ Made in Thailand](/san-go-cong-nghiep/san-go-thai-lan/)  
    [Sàn gỗ công nghiệp Việt Nam](/san-go-cong-nghiep/san-go-viet-nam/)
-=======
-
 ## Nội Dung Hữu Ích:
-
 {{< card-group cols="2" gutter="3" >}}
     {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
     {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-
-    {{< card path="/san-go-cong-nghiep/san-go-gia-re/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-chiu-nuoc/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-duc-nhap-khau/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/kho-san-go-malaysia/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-viet-nam/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-thai-lan/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
 {{< /card-group >}}
->>>>>>> 728888b8e007d47c52ef92354da195a82d11c73f
