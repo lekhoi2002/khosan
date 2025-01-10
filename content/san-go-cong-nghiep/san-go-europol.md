@@ -40,8 +40,3 @@ weight: 8
    [Sàn gỗ Đức cao cấp](/san-go-cong-nghiep/san-go-duc-nhap-khau/)  
    [Sàn gỗ Thái Lan chính hãng](/san-go-cong-nghiep/san-go-thai-lan/)  
    [Sàn gỗ Việt Nam chất lượng cao](/san-go-cong-nghiep/san-go-viet-nam/)
-## Nội Dung Hữu Ích:
-{{< card-group cols="2" gutter="3" >}}
-    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-{{< /card-group >}}

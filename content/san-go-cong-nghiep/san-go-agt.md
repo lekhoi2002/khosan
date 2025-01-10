@@ -36,7 +36,7 @@ Sàn gỗ AGT mang đến nhiều ưu điểm nổi bật, đáp ứng đầy đ
 - **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
 - **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
 - **Hotline/Zalo**: 0966171436
-<<<<<<< HEAD
+
 ## Nội Dung Hữu Ích:
 {{< card-group cols="2" gutter="3" >}}
     {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
