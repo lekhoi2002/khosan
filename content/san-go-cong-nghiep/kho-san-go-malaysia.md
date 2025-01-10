@@ -243,21 +243,3 @@ Sàn gỗ Malaysia là sự lựa chọn hoàn hảo cho những ai đang tìm k
 =======
 
 
-## Kết Luận
-
-Sàn gỗ Malaysia là sự lựa chọn hoàn hảo cho những ai đang tìm kiếm vật liệu lát sàn chất lượng cao, độ bền tốt và mẫu mã đa dạng. Hy vọng bài viết này đã cung cấp cho bạn những thông tin hữu ích về sàn gỗ Malaysia. Nếu bạn có bất kỳ câu hỏi nào, hãy để lại bình luận bên dưới hoặc liên hệ với chúng tôi để được tư vấn chi tiết.
-
-## Nội Dung Hữu Ích:
-
-{{< card-group cols="2" gutter="3" >}}
-    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-
-    {{< card path="/san-go-cong-nghiep/san-go-gia-re/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-chiu-nuoc/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-duc-nhap-khau/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/kho-san-go-malaysia/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-viet-nam/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-    {{< card path="/san-go-cong-nghiep/san-go-thai-lan/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
-{{< /card-group >}}
->>>>>>> 728888b8e007d47c52ef92354da195a82d11c73f
