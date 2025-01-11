@@ -34,7 +34,9 @@ Sàn gỗ Malaysia sở hữu nhiều ưu điểm vượt trội so với các l
 - Lý tưởng cho cả không gian gia đình và khu vực công cộng.
 - Đạt tiêu chuẩn độ mài mòn cao AC3 và AC4.
 - Phù hợp cho các địa điểm có mật độ di chuyển cao như trường học, nhà thi đấu, công sở, và bệnh viện.
+
 ### An Toàn Với Sức Khỏe Và Môi Trường
+
 - Đạt tiêu chuẩn châu Âu E1 về khí thải, đảm bảo an toàn cho người sử dụng.
 - Mức độ phát thải được kiểm soát chặt chẽ, không gây hại cho sức khỏe.
 ### Khả Năng Chịu Nhiệt Tốt
@@ -51,13 +53,17 @@ Sàn gỗ Malaysia sở hữu nhiều ưu điểm vượt trội so với các l
 - Khả năng chịu va đập tốt, đảm bảo độ bền lâu dài.
 - An toàn cho các gia đình có vật nuôi.
 ### Tuổi Thọ Và Bảo Hành Cao
+
 - Tuổi thọ trung bình trên 15 năm, đảm bảo giá trị sử dụng lâu dài.
 - Chế độ bảo hành lên đến 25 năm, thể hiện sự tin tưởng của nhà sản xuất vào chất lượng sản phẩm.
+
 ### Tiết Kiệm Chi Phí
 - Mặc dù có giá thành ban đầu cao hơn, nhưng xét về lâu dài, sàn gỗ Malaysia tiết kiệm hơn so với các vật liệu sàn truyền thống khác nhờ độ bền cao và chi phí bảo trì thấp.
 ## Nhược Điểm Của Sàn Gỗ Malaysia
+
 Bên cạnh những ưu điểm nổi bật, sàn gỗ Malaysia cũng có một số nhược điểm cần lưu ý:
 ### Khả Năng Chống Nước Có Hạn
+
 - Mặc dù có khả năng chống ẩm tốt, nhưng khả năng chống nước lâu dài vẫn có giới hạn.
 - So với sàn gỗ Đức, khả năng chống nước của sàn Malaysia kém hơn một chút.
 - Trong điều kiện khắc nghiệt, vẫn có thể xảy ra hiện tượng co ngót.

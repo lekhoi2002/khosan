@@ -86,21 +86,13 @@
 [[social]]
   name = "Pinterest"
   pre = "fab fa-pinterest"
-<<<<<<< HEAD
   url = "https://www.pinterest.com/khovansangocom/"
-=======
-  url = "https://pinterest.com"
->>>>>>> 728888b8e007d47c52ef92354da195a82d11c73f
   weight = 40
 
 [[social]]
   name = "Facebook"
   pre = "fab fa-facebook"
-<<<<<<< HEAD
   url = "https://www.facebook.com/khovansangonhapkhau/"
-=======
-  url = "https://facebook.com"
->>>>>>> 728888b8e007d47c52ef92354da195a82d11c73f
   weight = 50
 
 [[social]]
