@@ -3,6 +3,7 @@ title: Chính sách hoàn tiền trả hàng
 date: 2024-09-12T21:28:09+07:00
 draft: false
 noCover: true
+thumbnail: /img/chinh-sach/chinh-sach-hoan-tien.webp
 ---
 # Quy Trình Đổi Trả Sản Phẩm
 

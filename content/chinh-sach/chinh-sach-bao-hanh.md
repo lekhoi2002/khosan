@@ -3,6 +3,7 @@ title: Chinh Sach Bao Hanh
 date: 2024-09-12T21:28:09+07:00
 draft: false
 noCover: true
+thumbnail: /img/chinh-sach/chinh-sach-bao-hanh.webp
 ---
 # Chính Sách Bảo Hành Sản Phẩm
 

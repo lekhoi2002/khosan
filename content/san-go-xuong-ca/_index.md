@@ -2,8 +2,8 @@
 author: Khôi Lê
 title: Sàn Gỗ Xương Cá
 meta:
-  title: "Kho Sàn Gỗ Xương Cá - Đa Dạng Mẫu Mã, Giá Rẻ Tại Hà Nội"
-  description: "Khám phá kho sàn gỗ xương cá công nghiệp cao cấp với mẫu mã đa dạng, giá rẻ, bền đẹp. Hướng dẫn chi tiết về ưu nhược điểm, phân loại, báo giá và cách chọn sàn gỗ xương cá phù hợp cho ngôi nhà của bạn."
+  title: Kho Sàn Gỗ Xương Cá - Đa Dạng Mẫu Mã, Giá Rẻ Tại Hà Nội
+  description: Khám phá kho sàn gỗ xương cá công nghiệp cao cấp với mẫu mã đa dạng, giá rẻ, bền đẹp. Hướng dẫn chi tiết về ưu nhược điểm, phân loại, báo giá và cách chọn sàn gỗ xương cá phù hợp cho ngôi nhà của bạn.
 nested: true
 date: 2024-11-19T15:37:36.416Z
 lastmod: 2024-12-20T07:35:34.309Z
@@ -12,6 +12,7 @@ keywords:
   - sàn gỗ công nghiệp xương cá
   - sàn gỗ xương cá
   - sàn gỗ xương cá giá rẻ
+thumbnail: /img/xuong-ca/san-go-xuong-ca.webp
 ---
 
 ## Sàn Gỗ Xương Cá Là Gì?

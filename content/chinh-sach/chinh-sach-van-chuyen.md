@@ -3,6 +3,7 @@ title: Chính Sách Vận Chuyển
 date: 2024-09-12T21:28:10+07:00
 noCover: true
 draft: false
+thumbnail: /img/chinh-sach/chinh-sach-van-chuyen.webp
 ---
 # Chính Sách Vận Chuyển Sản Phẩm
 

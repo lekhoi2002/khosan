@@ -81,10 +81,6 @@
     {
       "title": "gallery",
       "path": "[[workspace]]/content/gallery"
-    },
-    {
-      "title": "kien-thuc",
-      "path": "[[workspace]]/content/tu-van"
     }
   ]
 }
