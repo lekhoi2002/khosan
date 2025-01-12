@@ -56,7 +56,7 @@ Sàn gỗ công nghiệp là loại vật liệu lát sàn được sản xuất
 | Độ ổn định | Cao | Trung bình |
 | Độ bóng | Cao | Có thể điều chỉnh |
 
-![sàn gỗ công nghiệp có màu sắc đa dạng hơn sàn tự nhiên](/img/cong-nghiep/san-go-cong-nghiep-mau-sac-da-dang.webp)
+![Sàn gỗ công nghiệp có màu sắc đa dạng hơn sàn tự nhiên](/img/cong-nghiep/san-go-cong-nghiep-mau-sac-da-dang.webp "Sàn gỗ công nghiệp có màu sắc đa dạng hơn sàn tự nhiên")
 ## Phân Loại Sàn Gỗ Công Nghiệp
 
 Sàn gỗ công nghiệp được phân loại dựa trên nhiều tiêu chí khác nhau:
@@ -93,6 +93,7 @@ Sàn gỗ công nghiệp được phân loại dựa trên nhiều tiêu chí kh
 * **Phòng khách:** Sàn gỗ 12mm, màu sắc tươi sáng, vân gỗ sang trọng.
 * **Phòng ngủ:** Sàn gỗ 8mm, màu sắc ấm áp, vân gỗ nhẹ nhàng.
 * **Phòng bếp:** Sàn gỗ chịu nước cao cấp, bề mặt chống trơn trượt.
+![sàn gỗ công nghiệp lát phòng khách](/img/cong-nghiep/san-go-lat-phong-khach-dep.webp)
 
 
 ## Báo Giá Sàn Gỗ Công Nghiệp 2025
