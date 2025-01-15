@@ -1,0 +1,59 @@
+---
+title: Sàn Gỗ Charm wood
+date: 2024-10-03T15:28:09+07:00  
+lastmod: 2024-10-13T05:18:17.373Z
+thumbnail: /img/thumbnail/san-go-charmwood.png
+meta:
+  title: Kho Ván Sàn Gỗ Charm wood
+  description: Sàn gỗ Charmwood - Vẻ đẹp quyến rũ, chất lượng vượt trội. Chống thấm nước tốt, dễ lau chùi. Nâng tầm đẳng cấp cho mọi công trình.
+noCover: true
+weight: 20
+---
+## Thông Số Kỹ Thuật Sàn Gỗ Charm wood
+| **Thông số**            | **Chi tiết**                                    |
+|-----------------------------------|-------------------------------------------------|
+| **Xuất xứ**                       | Việt Nam                                       |
+| **Nhà máy**                       | Charmwood Laminate Flooring                    |
+| **Loại gỗ**                       | Gỗ công nghiệp tiêu chuẩn HDF cốt xanh chịu nước tốt |
+| **Bảo hành**                      | 15 - 20 năm                                    |
+| **Chỉ tiêu chất lượng sản phẩm**  | Class 32, AC4, E1, Green HDF                   |
+| **Quy cách**                      | 8mm và 12mm                                    |
+## Ưu điểm của sàn gỗ Charm Wood
+Sàn gỗ Charm Wood mang đến nhiều ưu điểm vượt trội, đáp ứng mọi nhu cầu của khách hàng từ thẩm mỹ đến chất lượng.
+1. **Thương hiệu tiên phong**: Charm Wood là thương hiệu sàn gỗ xương cá đầu tiên, mở đầu xu hướng trong lĩnh vực sàn gỗ với những thiết kế độc đáo và chất lượng hàng đầu.
+2. **Thiết kế đa dạng và hấp dẫn**: Với 20 màu vân gỗ Châu Âu và kỹ thuật tạo vân Omnipore, sàn gỗ Charm Wood dễ dàng phù hợp với mọi không gian và phong cách nội thất, từ cổ điển đến hiện đại.
+3. **An toàn và thân thiện với môi trường**: Đạt các tiêu chuẩn khắt khe như PEFC và Blauer Engel, Charm Wood có khí thải Formaldehyde cực thấp, đảm bảo an toàn cho sức khỏe người dùng và đạt chuẩn Elogical One (E1) của Châu Âu.
+4. **Tính năng ưu việt**: Charm Wood được trang bị công nghệ chống trơn trượt R10, lớp laminate chống tia UV, chống tĩnh điện và ngăn nhiệt thẩm thấu, giúp sàn luôn bền đẹp và an toàn khi sử dụng.
+5. **Độ bền cao**: Với chỉ số chống mài mòn AC4, cấp độ sử dụng Utility Class 32, và chỉ số chống cháy B1, va đập IC2, sàn gỗ Charm Wood có độ bền cao và được bảo hành lên đến 15 năm, đáp ứng tốt các yêu cầu khắt khe về chất lượng.
+6. **Khả năng chống nước vượt trội**: Sàn có khả năng chịu nước trong 2 ngày và được bảo hành ngập nước 12 tháng, cùng với chế độ bảo hành mối mọt lên đến 20 năm, mang đến sự yên tâm tuyệt đối cho người dùng.
+7. **Giá cả cạnh tranh**: Dù có chất lượng tương đương với các dòng sàn gỗ nhập khẩu, Charm Wood lại có giá thành hợp lý, phù hợp với đại đa số người tiêu dùng, mang lại sự lựa chọn tuyệt vời giữa chất lượng và chi phí.
+## Bảng Báo Giá Sàn Gỗ Charm wood
+| **Tên sản phẩm**                   | **Đơn giá (vnđ/m²)** |
+|------------------------------------|-----------------------|
+| Sàn gỗ Charmwood 8mm bản lớn       | 240.000               |
+| Sàn gỗ Charmwood 8mm bản nhỏ       | 240.000               |
+| Sàn gỗ Charmwood 12mm              | 325.000               |
+## Mã màu sàn gỗ charm-wood
+{{< gallery "cong-nghiep/charm-wood" >}}
+#### Cam Kết:
+1. Cung cấp sản phẩm đúng nguồn gốc xuất xứ
+2. Thi công chuyên nghiệp với đội ngũ thợ lành nghề hơn 10 năm kinh nghiệm
+3. Công trình hoàn thiện theo đúng tiến độ yêu cầu
+4. Bảo hành sản phẩm trong vòng 10 năm đầu 
+5. Bảo trì sản phẩm trọn đời
+#### Kho Ván Sàn Gỗ
+- **VP & Kho1**: DK29-29D, T15, Tân Triều, Hà Đông, Hà Nội  
+- **Kho2**: K6 Ngõ 300, Nguyễn Xiển, Thanh Xuân, Hà Nội  
+- **Hotline/Zalo**: 0966171436
+## Nội Dung Hữu Ích:
+{{< card-group cols="2" gutter="3" >}}
+    {{< card path="/tu-van/kinh-nghiem-chon-mua-san-go/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+    {{< card path="/tu-van/huong-dan-phoi-mau-san-go-voi-noi-that/" header="full" footer="none" orientation="stacked" class="col-sm-12 col-lg-12 mx-auto shadow" />}}
+{{< /card-group >}}
+### Có Thể Bạn Quan Tâm
+   [Sàn gỗ giá rẻ](/san-go-cong-nghiep/san-go-gia-re/)  
+   [Sàn gỗ không thấm nước](/san-go-cong-nghiep/san-go-chiu-nuoc/)  
+   [Sàn gỗ công nghiệp Malaysia](/san-go-cong-nghiep/kho-san-go-malaysia/)  
+   [Sàn gỗ công nghiệp Đức](/san-go-cong-nghiep/san-go-duc-nhap-khau/)  
+   [Sàn gỗ Made in Thailand](/san-go-cong-nghiep/san-go-thai-lan/)  
+   [Sàn gỗ Made in Vietnam](/san-go-cong-nghiep/san-go-viet-nam/)
