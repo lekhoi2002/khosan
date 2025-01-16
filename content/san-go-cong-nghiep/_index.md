@@ -36,6 +36,7 @@ Sàn gỗ công nghiệp là loại vật liệu lát sàn được sản xuất
 * **Thân thiện với môi trường:** Sử dụng nguồn nguyên liệu gỗ tái tạo.
 * **Chống cháy lan:**  Hạn chế sự lây lan của đám cháy.
 * **Không bị bạc màu:**  Giữ được vẻ đẹp lâu dài.
+
 ![sàn công nghiệp Giữ được vẻ đẹp lâu dài](/img/cong-nghiep/san-cong-nghiep-khong-bi-bac-mau.webp "sàn công nghiệp không bị bạc màu giữ được vẻ đẹp lâu dài")
 
 **Nhược điểm:**

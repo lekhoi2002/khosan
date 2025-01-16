@@ -74,37 +74,6 @@ Lớp bề mặt của sàn gỗ xương cá thường đạt chuẩn AC4/Class 
 -   **Quy trình sản xuất chuẩn:** Theo quy chuẩn rõ ràng của đơn vị sản xuất, đảm bảo chất lượng đồng đều.
 -   **Chứng nhận chất lượng:** Đầy đủ giấy tờ chứng nhận cho sản phẩm, đạt các tiêu chuẩn quốc tế như ISO, E1,...
 
-## Bảng Giá Sàn Gỗ Xương Cá
-
-Dưới đây là bảng giá tham khảo các dòng sản phẩm sàn gỗ xương cá phổ biến trên thị trường (cập nhật mới nhất 2024):
-
-| Dòng sản phẩm | Kích Thước (mm)      | Đơn giá (VNĐ/m2) |
-| :-------------- | :------------------- | :---------------- |
-| Ebisu          | 600 \* 100 \* 12     | 290.000           |
-| Zicos          | 808 \* 129 \* 12     | 360.000           |
-| Safa           | 600 \* 115 \* 12     | 370.000           |
-| Queenmark      | 606 \* 96 \* 12      | 380.000           |
-| Bakar wil      | 606 \* 96 \* 12      | 380.000           |
-| Charm          | 606 \* 96 \* 12      | 380.000           |
-| Povar          | 606 \* 96 \* 12      | 380.000           |
-| Etiha          | 606 \* 96 \* 12      | 390.000           |
-| Jakado         | 606 \* 110 \* 12    | 380.000           |
-| Mayer          | 606 \* 94 \* 12      | 685.000           |
-| Pioner         | 606 \* 96 \* 12      | 390.000           |
-| Baniva         | 606 \* 96 \* 12      | 410.000           |
-| Cadino         | 606 \* 96 \* 12      | 390.000           |
-| Chypong        | 606 \* 96 \* 12      | 410.000           |
-| Fotuner        | 606 \* 96 \* 12      | 460.000           |
-| Urbans         | 606 \* 96 \* 12      | 600.000           |
-| Mayer plus      | 606 \* 90 \* 12      | 750.000           |
-| Morser         | 606 \* 90 \* 12      | 390.000           |
-
-**Lưu ý:**
-
-*   Bảng giá trên chỉ mang tính chất tham khảo, giá thực tế có thể thay đổi tùy theo thời điểm, nhà cung cấp, chương trình khuyến mãi và khu vực.
-*   Giá trên chưa bao gồm chi phí thi công, phụ kiện và thuế VAT.
-*   Nên liên hệ trực tiếp với các nhà cung cấp uy tín để có báo giá chính xác nhất.
-
 ## Các Loại Sàn Gỗ Xương Cá Phổ Biến
 
 ### Phân loại theo kiểu lắp đặt
