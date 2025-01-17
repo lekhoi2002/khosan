@@ -7,16 +7,16 @@
     Access-Control-Allow-Origin = '*'
     Content-Security-Policy = """
         base-uri 'self'; \
-        connect-src 'self' *.google-analytics.com *.analytics.google.com *.googletagmanager.com https://cloudflareinsights.com; \
+        connect-src 'self' *.google-analytics.com *.analytics.google.com *.googletagmanager.com https://cloudflareinsights.com *.facebook.com connect.facebook.net; \
         default-src 'none'; \
         font-src 'self' fonts.gstatic.com; \
         form-action 'self'; \
-        frame-src player.cloudinary.com www.youtube-nocookie.com www.youtube.com player.vimeo.com; \
-        img-src 'self' *.google-analytics.com *.googletagmanager.com data: *.imgix.net *.imagekit.io *.cloudinary.com i.ytimg.com tile.openstreetmap.org i.vimeocdn.com; \
+        frame-src player.cloudinary.com www.youtube-nocookie.com www.youtube.com player.vimeo.com *.facebook.com; \
+        img-src 'self' *.google-analytics.com *.googletagmanager.com data: *.imgix.net *.imagekit.io *.cloudinary.com i.ytimg.com tile.openstreetmap.org i.vimeocdn.com *.facebook.com; \
         manifest-src 'self'; \
         media-src 'self'; \
         object-src 'none'; \
-        script-src 'self' *.google-analytics.com *.googletagmanager.com player.vimeo.com https://static.cloudflareinsights.com; \
+        script-src 'self' *.google-analytics.com *.googletagmanager.com player.vimeo.com https://static.cloudflareinsights.com connect.facebook.net; \
         style-src 'self' www.youtube.com; \
         """
     Permissions-Policy = 'geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(), payment=() '
@@ -26,4 +26,3 @@
     X-Frame-Options = 'SAMEORIGIN'
     X-XSS-Protection = '1; mode=block'
     cache-control = 'max-age=0, no-cache, no-store, must-revalidate '
-

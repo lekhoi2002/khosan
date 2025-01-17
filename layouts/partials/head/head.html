@@ -33,4 +33,11 @@
     {{ if gt (len .Site.Languages) 1}}
     <meta name="lang" content="{{ .Site.Language }}">
     {{ end }}
+
+    <!-- Facebook Pixel Code -->
+    <script async src="{{ "js/fb-pixel.js" | relURL }}"></script>
+    <noscript><img height="1" width="1" style="display:none"
+    src="https://www.facebook.com/tr?id=1121750166184874&ev=PageView&noscript=1"
+    /></noscript>
+    <!-- End Meta Pixel Code -->
 {{ end }}
