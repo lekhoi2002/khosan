@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Smartwood – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa Smartwood
 meta:
   title: Sàn Nhựa Smartwood – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa Smartwood mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Smartwood hèm khóa và ưu điểm nổi bật.

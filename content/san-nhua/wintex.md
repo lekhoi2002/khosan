@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Wintex – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa Wintex
 meta:
   title: Sàn Nhựa Wintex – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa Wintex mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Wintex có keo sẵn và ưu điểm nổi bật.

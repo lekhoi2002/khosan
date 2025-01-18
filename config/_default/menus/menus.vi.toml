@@ -14,63 +14,68 @@
   weight = 30
 
 [[main]]
-  name = "Chủng Loại"
+  name = "Sàn Nhựa"
+  pageRef = "/san-nhua/"
   weight = 40
+
+[[main]]
+  name = "Chủng Loại"
+  weight = 50
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Gỗ Đức"
   pageRef = "san-go-cong-nghiep/san-go-duc-nhap-khau"
-  weight = 41
+  weight = 51
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Malaysia"
   pageRef = "san-go-cong-nghiep/kho-san-go-malaysia"
-  weight = 42
+  weight = 52
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Thái Lan"
   pageRef = "san-go-cong-nghiep/san-go-thai-lan"
-  weight = 43
+  weight = 53
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Việt Nam"
   pageRef = "san-go-cong-nghiep/san-go-viet-nam"
-  weight =44
+  weight = 54
   
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Gỗ Chịu Nước"
   pageRef = "san-go-cong-nghiep/san-go-chiu-nuoc"
-  weight =45
+  weight = 55
 
 [[main]]
   parent = "Chủng Loại"
   name = "Sàn Gỗ Giá Rẻ"
   pageRef = "san-go-cong-nghiep/san-go-gia-re"
-  weight =46
+  weight = 56
 
 [[main]]
   name = "Phụ Kiện"
   pageRef = "/phu-kien/"
-  weight = 50
+  weight = 60
 
 [[main]]
   name = "Tư Vấn"
   pageRef = "/tu-van/"
-  weight = 60
+  weight = 70
 
 [[main]]
   name = "Dự Án"
   pageRef = "/gallery/"
-  weight = 70
+  weight = 80
 
 [[main]]
   name = "Liên Hệ"
   pageRef = "/lien-he/"
-  weight = 80
+  weight = 90
 
 [[social]]
   name = "LinkedIn"

@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Glotex – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa Glotex
 meta:
   title: Sàn Nhựa Glotex – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa Glotex mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Glotex hèm khóa, xương cá và các ưu điểm nổi bật.

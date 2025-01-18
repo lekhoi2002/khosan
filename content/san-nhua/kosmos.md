@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Kosmos – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa Kosmos
 meta:
   title: Sàn Nhựa Kosmos – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa Kosmos mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Kosmos hèm khóa và ưu điểm nổi bật.

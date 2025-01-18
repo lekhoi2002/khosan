@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Msfloor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa Msfloor
 meta:
   title: Sàn Nhựa Msfloor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa Msfloor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Msfloor hèm khóa, có keo sẵn và ưu điểm nổi bật.

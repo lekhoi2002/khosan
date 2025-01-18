@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa MaxFloor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa MaxFloor
 meta:
   title: Sàn Nhựa MaxFloor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa MaxFloor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn MaxFloor có keo sẵn, hèm khóa, đế cao su cùng với các ưu điểm nổi bật.

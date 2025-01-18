@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Magic Floor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa Magic Floor
 meta:
   title: Sàn Nhựa Magic Floor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa Magic Floor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn Magic Floor hèm khóa và ưu điểm nổi bật.

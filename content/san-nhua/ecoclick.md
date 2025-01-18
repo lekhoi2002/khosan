@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa EcoClick – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa EcoClick
 meta:
   title: Sàn Nhựa EcoClick – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa EcoClick mới nhất 2024. Tìm hiểu chi tiết về các loại sàn EcoClick hèm khóa và ưu điểm nổi bật.

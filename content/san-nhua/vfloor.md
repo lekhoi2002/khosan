@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa VFloor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
+title: Sàn Nhựa VFloor
 meta:
   title: Sàn Nhựa VFloor – Bảng Giá Mới Nhất 2024 & Các Dòng Sản Phẩm Nổi Bật
   description: Cập nhật bảng giá sàn nhựa VFloor mới nhất 2024. Tìm hiểu chi tiết về các loại sàn VFloor hèm khóa Luxury, Stone, Herringbone cùng với các ưu điểm nổi bật.

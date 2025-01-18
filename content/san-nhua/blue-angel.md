@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Blue Angel – Giải Pháp Hoàn Hảo Cho Không Gian Sống Hiện Đại
+title: Sàn Nhựa Blue Angel
 meta:
   title: Sàn Nhựa Blue Angel – Giải Pháp Hoàn Hảo Cho Không Gian Sống Hiện Đại
   description: Tìm hiểu về sàn nhựa Blue Angel với thiết kế vân gỗ tự nhiên, chống nước, chống trầy xước. Cập nhật bảng giá sàn Blue Angel 4mm và 6mm mới nhất 2024.
