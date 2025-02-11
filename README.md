@@ -75,4 +75,3 @@ You can now run `npm run start` to start a local development server.
 [nodejs]: https://nodejs.org
 [repository]: https://github.com/gethinode/hinode.git
 [repository_template]: https://github.com/gethinode/template.git
-# khosan
