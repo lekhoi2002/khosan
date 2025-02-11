@@ -20,11 +20,6 @@
 # toml-docs-end main
 # toml-docs-start videos
 [videos]
-    [videos.cloudinary]
-        host = "cloudinary"
-        account = "demo"
-    [videos.vimeo]
-        host = "vimeo"
     [videos.youtube]
         host = "youtube"
 # toml-docs-end videos
@@ -39,10 +34,6 @@
 # toml-docs-end debugging
 
 # toml-docs-start docs
-[docs]
-    github = "https://github.com//hinode"
-    release = "https://github.com//hinode/releases/tag/"
-    checkVersion = false
 # toml-docs-end docs
 
 # toml-docs-start home
@@ -188,8 +179,8 @@
     info = "#0dcaf0"
     warning = "#ffc107"
     danger = "#dc3545"
-    light = "#f8f9fa"
-    dark = "#212529"
+    light = "#ffffff"
+    dark = "rgba(0, 7, 12, 0.95)"
 # toml-docs-end theme-colors
     themeOpacity = "10"
     darkModeShade = "20%"
@@ -232,12 +223,6 @@
 
 [links]
     hinode = "https://khovansango.com"
-
-# toml-docs-start headers
-[headers]
-  [headers.netlify]
-    source = "netlify.toml"
-# toml-docs-end headers
 
 # toml-docs-end csp
 

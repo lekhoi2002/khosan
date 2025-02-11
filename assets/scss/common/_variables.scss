@@ -15,8 +15,7 @@ $font-weight-lighter:           lighter !default;
 $font-weight-light:             200 !default;
 $font-weight-normal:            400 !default;
 $font-weight-bold:              500 !default;
-$font-weight-bolder:            bolder !default;
-
+$font-weight-bolder:            500 !default;
 strong {
     font-weight:                500 if($enable-important-utilities, !important, null);
 }
@@ -44,3 +43,5 @@ $dropdown-transition: opacity .15s ease-in-out !default;
 $dropdown-horizontal-margin-top: calc((-1.5 * 1rem) - 2px);
 $dropdown-horizontal-padding-y: calc(1rem + 2px);
 // scss-docs-end horizontal-nav
+
+
