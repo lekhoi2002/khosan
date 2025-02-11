@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá BANIVA - Sang Trọng & Đẳng Cấp
+title: Sàn Gỗ Xương Cá BANIVA
 meta:
   title: Sàn Gỗ Xương Cá BANIVA - Chất Lượng Cao, Chống Trầy Xước
   description: Sàn gỗ xương cá Baniva - Đẳng cấp, tinh tế, chất lượng vượt trội. Đa dạng màu sắc, chống trầy xước, tạo không gian sang trọng và ấm cúng.

@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá Mega Plus - Chất Lượng Cao, Đẳng Cấp Sang Trọng
+title: Sàn Gỗ Xương Cá Mega Plus
 meta:
   title: Sàn Gỗ Xương Cá Mega Plus - Bền Đẹp, Chịu Lực, Chống Trầy Xước
   description: Sàn gỗ xương cá Mega Plus - Cốt xanh HDF Malaysia, chống nước 240h, chịu lực tốt. Giải pháp hoàn hảo cho không gian cao cấp.

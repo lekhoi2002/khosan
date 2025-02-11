@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá Fortune - Đẳng Cấp Châu Âu
+title: Sàn Gỗ Xương Cá Fortune
 date: 2024-08-30T21:50:14+07:00
 draft: false
 lastmod: 2025-02-07T13:44:47.101Z

@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá CHARM - Chống Trơn, An Toàn, Sang Trọng
+title: Sàn Gỗ Xương Cá CHARM
 meta:
   title: Sàn Gỗ Xương Cá CHARM - Bền Bỉ, Chống Nước Tốt
   description: Sàn gỗ xương cá Charm - Vân gỗ Châu Âu sang trọng, chống trơn trượt, bảo hành ngập nước 12 tháng. An toàn cho gia đình, bền đẹp theo thời gian.

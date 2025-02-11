@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá - Giải Pháp Sang Trọng Cho Không Gian Hiện Đại
+title: Sàn Gỗ Xương Cá
 meta:
   title: Kho Sàn Gỗ Xương Cá - Mẫu Mã Đa Dạng, Giá Rẻ Tại Hà Nội
   description: Khám phá kho sàn gỗ xương cá công nghiệp cao cấp với mẫu mã đa dạng, giá rẻ, bền đẹp. Hướng dẫn chi tiết về ưu điểm, phân loại, báo giá và cách chọn sàn gỗ xương cá phù hợp.

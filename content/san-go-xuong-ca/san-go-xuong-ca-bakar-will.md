@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá Bakar Will - Sang Trọng & Bền Bỉ
+title: Sàn Gỗ Xương Cá Bakar Will
 date: 2024-08-30T21:50:14+07:00
 draft: false
 thumbnail: /img/thumbnail/san-go-xuong-ca-bakar-will.jpg

@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá Europol - Vẻ Đẹp Hoàn Hảo
+title: Sàn Gỗ Xương Cá Europol
 meta:
   title: Sàn Gỗ Xương Cá Europol - Đẳng Cấp Châu Âu
   description: "Sàn gỗ xương cá Europol - Công nghệ tiên tiến, chống cháy, chống trầy xước. Lựa chọn hoàn hảo cho không gian sang trọng, bền bỉ theo thời gian."

@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá JAWA - Sang Trọng & Bền Bỉ
+title: Sàn Gỗ Xương Cá JAWA
 meta:
   title: Sàn Gỗ Xương Cá JAWA - Vẻ Đẹp Tự Nhiên, Chống Mối Mọt
   description: Sàn gỗ xương cá Jawa - Gỗ công nghiệp HDF xanh nhập khẩu Indonesia. Chống mối mọt, không cong vênh, bảo hành 10 năm.

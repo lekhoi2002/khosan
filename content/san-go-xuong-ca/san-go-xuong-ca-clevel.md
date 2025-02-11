@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá Clevel - Sang Trọng & Bền Bỉ
+title: Sàn Gỗ Xương Cá Clevel
 date: 2024-08-30T21:50:14+07:00
 draft: false
 categories:

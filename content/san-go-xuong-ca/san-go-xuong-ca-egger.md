@@ -1,5 +1,5 @@
 ---
-title: Sàn Gỗ Xương Cá EGGER - Chất Lượng Châu Âu, Bền Đẹp Vượt Thời Gian
+title: Sàn Gỗ Xương Cá EGGER
 meta:
   title: Sàn Gỗ Xương Cá EGGER - Cao Cấp, Chống Ẩm, Thiết Kế Sang Trọng
   description: Sàn gỗ xương cá Egger - Chất lượng Châu Âu, chống ẩm, chống trầy xước. Thiết kế vân gỗ xương cá hiện đại, phù hợp với mọi không gian.
