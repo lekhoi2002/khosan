@@ -3,11 +3,11 @@ title: Sàn Gỗ Xương Cá Morser
 date: 2024-08-30T21:50:14+07:00
 draft: false
 noCover: true
-lastmod: 2024-10-13T05:40:46.010Z
+lastmod: 2025-02-12T08:28:37.843Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-morser.jpg
 meta:
   title: Sàn Gỗ Xương Cá Morser - Lựa Chọn Hoàn Hảo
-  description: "Sàn gỗ xương cá Morser - Thiết kế sang trọng, cốt gỗ xanh bền bỉ, chống trơn trượt, an toàn. Lựa chọn lý tưởng cho không gian sống hiện đại."
+  description: Sàn gỗ xương cá Morser - Thiết kế sang trọng, cốt gỗ xanh bền bỉ, chống trơn trượt, an toàn. Lựa chọn lý tưởng cho không gian sống hiện đại.
 ---
 
 ## **Sàn Gỗ Xương Cá Morser - Sang Trọng & Hiện Đại**

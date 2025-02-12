@@ -5,7 +5,7 @@ meta:
   description: Sàn gỗ xương cá Charm - Vân gỗ Châu Âu sang trọng, chống trơn trượt, bảo hành ngập nước 12 tháng. An toàn cho gia đình, bền đẹp theo thời gian.
 date: 2024-08-30T21:50:14+07:00
 draft: false
-lastmod: 2025-02-07T13:45:55.589Z
+lastmod: 2025-02-12T08:29:10.797Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-charm.jpg
 noCover: true
 ---

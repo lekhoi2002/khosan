@@ -5,7 +5,7 @@ date: 2024-08-30T21:50:14+07:00
 draft: false
 categories:
   - san-go
-lastmod: 2025-02-07T13:42:16.763Z
+lastmod: 2025-02-12T08:29:12.918Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-cadino.jpg
 keywords:
   - sàn gỗ xương cá cadino

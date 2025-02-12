@@ -3,19 +3,19 @@ author: null
 title: Sàn Gỗ Xương Cá EBISU
 date: 2024-08-30T21:50:14+07:00
 draft: false
-lastmod: 2025-02-07T13:42:56.983Z
+lastmod: 2025-02-12T08:29:08.268Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-ebisu.jpg
 meta:
-  title: Sàn Gỗ Xương Cá EBISU - Đẳng Cấp Nhật Bản, Chống Trầy, Chống Nước
-  description: Sàn gỗ xương cá Ebisu - Nhập khẩu Nhật Bản, bề mặt chống trầy AC4, khả năng chịu nước tốt, mang đến không gian sang trọng và tinh tế.
+   title: Sàn Gỗ Xương Cá EBISU - Đẳng Cấp Nhật Bản, Chống Trầy, Chống Nước
+   description: Sàn gỗ xương cá Ebisu - Nhập khẩu Nhật Bản, bề mặt chống trầy AC4, khả năng chịu nước tốt, mang đến không gian sang trọng và tinh tế.
 noCover: true
 weight: 18
 keywords:
-  - sàn gỗ xương cá Ebisu
-  - sàn gỗ Ebisu chính hãng
-  - sàn gỗ xương cá Nhật Bản
-  - sàn gỗ công nghiệp Ebisu
-  - sàn gỗ xương cá cao cấp
+   - sàn gỗ xương cá Ebisu
+   - sàn gỗ Ebisu chính hãng
+   - sàn gỗ xương cá Nhật Bản
+   - sàn gỗ công nghiệp Ebisu
+   - sàn gỗ xương cá cao cấp
 ---
 
 Bạn đang tìm kiếm **sàn gỗ xương cá cao cấp** với **độ bền cao, khả năng chống nước và chống trầy xước vượt trội**? **Sàn gỗ xương cá EBISU** đến từ Nhật Bản là lựa chọn hoàn hảo, mang lại sự sang trọng, đẳng cấp và chất lượng bền vững theo thời gian. Hãy cùng **Kho Sàn Gỗ Nhập Khẩu** khám phá chi tiết về dòng sản phẩm này!

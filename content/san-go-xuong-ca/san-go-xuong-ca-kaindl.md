@@ -3,11 +3,11 @@ title: Sàn Gỗ Xương Cá Kaindl
 date: 2024-08-30T21:50:14+07:00
 draft: false
 noCover: true
-lastmod: 2024-10-13T05:42:55.595Z
+lastmod: 2025-02-12T08:28:52.351Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-kaindl.jpg
 meta:
   title: Sàn Gỗ Xương Cá Kaindl - Chất Lượng Từ Áo
-  description: "Sàn gỗ xương cá Kaindl - Độ bền cao, chống trầy xước, thiết kế sang trọng. Lựa chọn hoàn hảo cho không gian đẳng cấp và hiện đại."
+  description: Sàn gỗ xương cá Kaindl - Độ bền cao, chống trầy xước, thiết kế sang trọng. Lựa chọn hoàn hảo cho không gian đẳng cấp và hiện đại.
 ---
 
 Sàn gỗ xương cá Kaindl là dòng sản phẩm cao cấp đến từ Áo, nổi bật với độ bền vượt trội, khả năng chống trầy xước tuyệt vời và thiết kế tinh tế. Đây là sự lựa chọn hoàn hảo cho những không gian sang trọng và hiện đại.

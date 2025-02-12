@@ -3,19 +3,19 @@ author: null
 title: Sàn Gỗ Xương Cá Berry Alloc
 date: 2024-08-30T21:50:14+07:00
 draft: false
-lastmod: 2024-10-13T05:47:29.156Z
+lastmod: 2025-02-12T08:29:15.906Z
 thumbnail: /img/thumbnail/san-go-xuong-ca-berry-alloc.jpg
 meta:
-  title: Kho Ván Sàn Gỗ Xương Cá Berry Alloc - Nhập Khẩu Bỉ, Đẳng Cấp Châu Âu
-  description: Sàn gỗ xương cá Berry Alloc - Chống nước, chống trầy, cốt HDF siêu bền. Lựa chọn lý tưởng cho không gian sang trọng, hiện đại.
+   title: Kho Ván Sàn Gỗ Xương Cá Berry Alloc - Nhập Khẩu Bỉ, Đẳng Cấp Châu Âu
+   description: Sàn gỗ xương cá Berry Alloc - Chống nước, chống trầy, cốt HDF siêu bền. Lựa chọn lý tưởng cho không gian sang trọng, hiện đại.
 noCover: true
 weight: 15
 keywords:
-  - sàn gỗ xương cá Berry Alloc
-  - sàn gỗ Berry Alloc chính hãng
-  - sàn gỗ Berry Alloc chịu nước
-  - sàn gỗ xương cá cao cấp
-  - sàn gỗ Bỉ Berry Alloc
+   - sàn gỗ xương cá Berry Alloc
+   - sàn gỗ Berry Alloc chính hãng
+   - sàn gỗ Berry Alloc chịu nước
+   - sàn gỗ xương cá cao cấp
+   - sàn gỗ Bỉ Berry Alloc
 ---
 
 # 🔥 Sàn Gỗ Xương Cá Berry Alloc - Đẳng Cấp Châu Âu, Chống Nước, Độ Bền Vượt Trội
