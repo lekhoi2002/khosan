@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Kosmos - Chống Nước, Bền Đẹp, Dễ Lắp Đặt
+title: Sàn Nhựa Kosmos
 meta:
   title: Sàn Nhựa Kosmos - Giá Tốt, Chống Nước, Hèm Khóa Tiện Lợi
   description: Cập nhật bảng giá sàn nhựa Kosmos mới nhất 2024. Chống nước, chống trầy, thiết kế vân gỗ đẹp tự nhiên, phù hợp với mọi không gian nội thất.

@@ -1,6 +1,6 @@
 ---
 author: Khoi Le
-title: Sàn Nhựa Blue Angel - Giải Pháp Sàn Hoàn Hảo
+title: Sàn Nhựa Blue Angel
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2025-02-07T14:30:35.132Z

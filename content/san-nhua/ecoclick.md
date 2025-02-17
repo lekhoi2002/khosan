@@ -1,6 +1,5 @@
 ---
-author: Khoi Le
-title: Sàn Nhựa EcoClick - Hèm Khóa Cao Cấp, Bền Đẹp
+title: Sàn Nhựa EcoClick
 meta:
   title: Sàn Nhựa EcoClick - Giá Tốt, Chống Nước, Dễ Lắp Đặt
   description: Cập nhật bảng giá sàn nhựa EcoClick mới nhất 2024. Chống nước, chống trầy, hệ thống hèm khóa tiện lợi, phù hợp với mọi không gian nội thất.
