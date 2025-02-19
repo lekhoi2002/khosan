@@ -14,35 +14,56 @@ thumbnail: /img/xuong-ca/san-go-xuong-ca.webp
 nested: true
 ---
 
-**Sàn gỗ xương cá** là sự lựa chọn phổ biến trong thiết kế nội thất, mang lại vẻ đẹp **sang trọng, tinh tế** và tạo điểm nhấn ấn tượng cho không gian. Không chỉ có tính thẩm mỹ cao, **sàn gỗ xương cá** còn có nhiều ưu điểm nổi bật về độ bền, khả năng chịu lực và đa dạng kiểu dáng.
+[Sàn gỗ xương cá](/san-go-xuong-ca/) là một loại sàn gỗ công nghiệp được thiết kế đặc biệt để lát theo kiểu chéo xương cá, một phong cách cổ điển từ phương Tây. Kiểu lát này đã xuất hiện từ lâu trong các công trình sử dụng sàn gỗ tự nhiên, nhưng đến năm 2018, nó mới trở thành xu hướng phổ biến cho sàn gỗ công nghiệp.
 
-## Sàn Gỗ Xương Cá Là Gì? - Đặc Điểm & Cấu Trúc
-[Sàn gỗ xương cá](https://khovansango.com/san-go-xuong-ca/) là kiểu lát sàn đặc biệt, trong đó các thanh gỗ được sắp xếp **vuông góc 90 độ hoặc theo kiểu Chevron**. Cách lát này giúp không gian trở nên **đẳng cấp, sang trọng và độc đáo hơn**.
+## 2. Đặc điểm cấu tạo và vật liệu
 
-**Cấu tạo sàn gỗ xương cá** gồm 4 lớp chính:
-1. **Lớp đáy**: Chống ẩm, chống cong vênh.
-2. **Lớp lõi gỗ HDF**: Cốt xanh nhập khẩu, chịu lực tốt.
-3. **Lớp vân gỗ**: Công nghệ in hiện đại, vân gỗ sắc nét.
-4. **Lớp bảo vệ bề mặt**: Chống trầy xước, đạt tiêu chuẩn **AC4 - AC5**.
+### **Cấu tạo**
+Sàn gỗ xương cá có cấu tạo tương tự như các loại sàn gỗ công nghiệp truyền thống, bao gồm 4 lớp chính và hệ thống hèm khóa:
 
-## Ưu Điểm Của Sàn Gỗ Xương Cá
-### 1. Sang Trọng & Độc Đáo
-- **Tạo điểm nhấn ấn tượng** trong nội thất.
-- Kiểu lát **Herringbone hoặc Chevron** giúp không gian trở nên tinh tế.
+- **Lớp bề mặt**: Được làm từ nhựa tổng hợp và oxit nhôm, giúp chống trầy xước, trơn trượt và phai màu.
+- **Lớp tạo vân gỗ**: Mô phỏng tinh tế vân gỗ tự nhiên, mang lại tính thẩm mỹ cao.
+- **Lớp cốt gỗ HDF**: Là lớp bột gỗ tự nhiên kết hợp với nguyên liệu thô, được nén dưới nhiệt độ và áp suất cao, tạo độ chắc chắn và bền bỉ. 
+- **Lớp cân bằng**: Được làm từ nhựa tổng hợp và bột gỗ, giúp ngăn ẩm, chống cong vênh và co ngót.
+- **Hèm khóa**: Các cạnh gỗ được xẻ rãnh và phủ lớp dầu hoặc nến để liên kết chặt chẽ với nhau, tăng khả năng chống ẩm và nước.
 
-### 2. Chất Lượng Vượt Trội - Độ Bền Cao
-- **Chống nước, chống trầy xước** với lớp bảo vệ đặc biệt.
-- **Lõi HDF mật độ cao**, giúp sàn chịu lực tốt, không cong vênh.
-- **Độ bền lên đến 25 năm**, tiết kiệm chi phí bảo trì.
+### **Vật liệu**
+Sàn gỗ xương cá thường được sản xuất theo quy cách riêng, với kích thước:
+- **Chiều dài**: Dưới 90cm  
+- **Chiều rộng**: Dưới 10cm  
 
-### 3. Ứng Dụng Đa Dạng
-- Phù hợp với **phòng khách, phòng ngủ, văn phòng, showroom**.
-- Dễ dàng kết hợp với nhiều phong cách nội thất.
+Điều này giúp việc thi công lắp đặt dễ dàng hơn và tăng tính thẩm mỹ. Đặc biệt, ván sàn xương cá có thiết kế hèm khóa riêng với thanh trái và thanh phải ghép lại thành một cặp.
 
-### 4. Lắp Đặt Dễ Dàng
-- **Hèm khóa thông minh**, không cần keo dán.
-- Lắp đặt nhanh chóng, tiết kiệm thời gian và chi phí.
+---
 
+## 3. Ưu điểm nổi bật
+
+### **Tính thẩm mỹ**
+- Kiểu lắp đặt xương cá tạo điểm nhấn độc đáo cho không gian nội thất, thể hiện cá tính và đẳng cấp của gia chủ.
+
+### **Độ bền và ổn định**
+- Cấu trúc lát so le giúp các thanh gỗ liên kết chặt chẽ, tạo bề mặt sàn chắc chắn, hạn chế xê dịch.
+
+### **Khả năng chống chịu nước và ẩm**
+- Sản phẩm có độ chịu nước tốt, không bị phồng rộp hay cong vênh ngay cả trong môi trường có độ ẩm cao.
+
+### **Chống trầy xước**
+- Đạt tiêu chuẩn chống mài mòn tối thiểu **AC4**, giúp hạn chế trầy xước khi tiếp xúc với vật cứng.
+
+### **Chống mối mọt và chịu lực tốt**
+- Sàn gỗ xương cá có khả năng chống mối mọt, chịu lực tốt, đảm bảo độ bền lâu dài.
+
+### **Dễ dàng lựa chọn**
+- Sàn gỗ công nghiệp xương cá **trong nước** có nhiều màu sắc, phù hợp với nhiều phong cách thiết kế.  
+- Sàn gỗ công nghiệp xương cá **nhập khẩu** có cốt gỗ cứng, mật độ ép cao, khả năng chịu nước tốt và độ ổn định cao.
+
+---
+
+Sàn gỗ xương cá không chỉ mang lại sự sang trọng và đẳng cấp mà còn đảm bảo chất lượng và độ bền vượt trội, trở thành lựa chọn hàng đầu cho các không gian hiện đại.
+
+---
+
+Sàn gỗ xương cá không chỉ mang lại sự sang trọng và đẳng cấp mà còn đảm bảo chất lượng và độ bền vượt trội, trở thành lựa chọn hàng đầu cho các không gian hiện đại.
 ## Phân Loại Sàn Gỗ Xương Cá
 ### 1. Theo Kiểu Lát
 - **Herringbone**: Xếp ván theo góc 90 độ.
