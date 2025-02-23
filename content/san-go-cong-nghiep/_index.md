@@ -15,14 +15,22 @@ Bạn đang tìm kiếm một loại vật liệu lát sàn vừa đẹp, bền 
 
 ---
 
-## ✅ Sàn Gỗ Công Nghiệp Là Gì?
+## Sàn Gỗ Công Nghiệp Là Gì?
 
-**Sàn gỗ công nghiệp** là vật liệu lát sàn được sản xuất từ gỗ tự nhiên, trải qua quá trình xử lý và ép dưới áp suất cao để tạo độ bền. Cấu tạo gồm 4 lớp giúp sản phẩm này có khả năng chống nước, chống trầy xước và giữ màu lâu dài:
+Sàn gỗ công nghiệp là vật liệu lát sàn hiện đại được sản xuất từ bột gỗ tự nhiên kết hợp với keo và các chất phụ gia, ép dưới áp suất cao để tạo thành những tấm ván chắc chắn, thay thế hiệu quả cho gỗ tự nhiên. Với cấu tạo đặc biệt và tiêu chuẩn chất lượng cao, loại sàn này không chỉ mang lại vẻ đẹp thẩm mỹ mà còn đáp ứng tốt nhu cầu sử dụng trong nhiều không gian khác nhau.
 
-- **Lớp bề mặt:** Chống trầy, chống thấm và bảo vệ sàn.
-- **Lớp vân gỗ:** Tái hiện chân thực vẻ đẹp của gỗ tự nhiên.
-- **Lớp lõi HDF:** Cốt gỗ mật độ cao, tăng độ chịu lực.
-- **Lớp đế cân bằng:** Giúp sàn không cong vênh, ổn định theo thời gian.
+
+## Cấu Tạo Chi Tiết Sàn CônG Nghiệp
+
+Sàn gỗ công nghiệp thường bao gồm 4 lớp chính, mỗi lớp có một chức năng riêng biệt:
+
+- **Lớp phủ bề mặt (Overlay layer):** Đây là lớp ngoài cùng, được làm từ nhựa tổng hợp như Melamine resin hoặc oxit nhôm, giúp sàn chống trầy xước, chống thấm nước và tạo độ bóng thẩm mỹ. Các loại lớp phủ phổ biến như Melamine resin được sử dụng rộng rãi nhờ độ bền cao và khả năng bảo vệ bề mặt hiệu quả.
+- **Lớp vân gỗ (Decorative layer):** Lớp này sử dụng giấy trang trí in họa tiết vân gỗ tự nhiên bằng công nghệ in 3D tiên tiến, mang đến sự đa dạng về mẫu mã. Từ vân sồi, óc chó, teak đến các họa tiết giả đá, người dùng có thể dễ dàng chọn lựa theo sở thích và phong cách nội thất.
+- **Lớp cốt gỗ HDF/MDF:**
+  - **HDF (High-Density Fiberboard):** Là lớp lõi chính với tỷ trọng cao (850-950 kg/m³), HDF có ưu điểm chịu lực tốt, chống ẩm hiệu quả và độ bền cao. Tuy nhiên, nhược điểm là giá thành cao hơn so với MDF. Đây là lựa chọn phổ biến cho sàn gỗ công nghiệp tại Việt Nam nhờ khả năng thích nghi với khí hậu ẩm.
+  - **MDF (Medium-Density Fiberboard):** Với tỷ trọng thấp hơn (650-800 kg/m³), MDF có ưu điểm giá rẻ, dễ gia công nhưng chịu lực và chống ẩm kém hơn, do đó ít được sử dụng trong sản xuất sàn gỗ công nghiệp chất lượng cao.
+  - **So sánh HDF và MDF:** HDF vượt trội hơn về độ bền, chịu nước và khả năng chịu lực, phù hợp với các công trình yêu cầu chất lượng cao, trong khi MDF chỉ nên dùng ở nơi khô ráo và ít chịu tải trọng.
+- **Lớp đế (Backing layer):** Được làm từ nhựa tổng hợp hoặc bột gỗ ép, lớp này đóng vai trò cân bằng cấu trúc sàn, chống cong vênh và ngăn hơi ẩm từ dưới nền xâm nhập. Nó đảm bảo sàn luôn ổn định trong điều kiện sử dụng lâu dài.
 
 ![Sàn công nghiệp giữ được vẻ đẹp lâu dài](/img/cong-nghiep/san-cong-nghiep-khong-bi-bac-mau.webp "Sàn công nghiệp giữ được vẻ đẹp lâu dài")
 
