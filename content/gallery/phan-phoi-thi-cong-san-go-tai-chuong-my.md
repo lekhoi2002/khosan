@@ -1,9 +1,6 @@
 ---
 author: Khoi Le
 title: Phân Phối Và Thi Công Sàn Gỗ Nhập Khẩu Tại Chương Mỹ
-meta:
-  title: Phân Phối Và Thi Công Sàn Gỗ Nhập Khẩu Tại Chương Mỹ - Dịch Vụ Tận Nhà Uy Tín
-  description: Kho ván sàn gỗ nhập khẩu Chương Mỹ - Chuyên cung cấp, tư vấn và thi công sàn gỗ công nghiệp chất lượng cao. Dịch vụ tận nhà chuyên nghiệp, giá thành hợp lý.
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2024-12-13T05:41:04.844Z
@@ -11,6 +8,9 @@ thumbnail: /img/thumbnail/san-go-tai-chuong-my.jpg
 keywords:
   - sàn gỗ Chương Mỹ
   - thi công sàn gỗ Chương Mỹ
+meta:
+  title: Phân Phối Và Thi Công Sàn Gỗ Nhập Khẩu Tại Chương Mỹ - Dịch Vụ Tận Nhà Uy Tín
+  description: Kho ván sàn gỗ nhập khẩu Chương Mỹ - Chuyên cung cấp, tư vấn và thi công sàn gỗ công nghiệp chất lượng cao. Dịch vụ tận nhà chuyên nghiệp, giá thành hợp lý.
 ---
 
 # Phân Phối Và Thi Công Sàn Gỗ Nhập Khẩu Tại Chương Mỹ

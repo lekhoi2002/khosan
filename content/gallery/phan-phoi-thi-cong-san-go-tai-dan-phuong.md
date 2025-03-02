@@ -1,9 +1,6 @@
 ---
 author: Khoi Le
 title: Phân Phối Và Thi Công Sàn Gỗ Tại Đan Phượng
-meta:
-  title: Phân Phối Và Thi Công Sàn Gỗ Tại Đan Phượng - Dịch Vụ Uy Tín, Chất Lượng
-  description: Kho ván sàn gỗ Đan Phượng - Chuyên cung cấp, tư vấn và thi công sàn gỗ công nghiệp chất lượng cao. Dịch vụ uy tín, giá thành hợp lý.
 date: 2024-12-12T04:45:02.291Z
 draft: false
 lastmod: 2024-12-12T04:19:47.677Z
@@ -12,6 +9,9 @@ keywords:
   - sàn gỗ Đan Phượng
   - thi công sàn gỗ tại Đan Phượng
   - lắp đặt sàn gỗ tại Đan Phượng
+meta:
+  title: Phân Phối Và Thi Công Sàn Gỗ Tại Đan Phượng - Dịch Vụ Uy Tín, Chất Lượng
+  description: Kho ván sàn gỗ Đan Phượng - Chuyên cung cấp, tư vấn và thi công sàn gỗ công nghiệp chất lượng cao. Dịch vụ uy tín, giá thành hợp lý.
 ---
 
 
