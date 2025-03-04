@@ -13,9 +13,13 @@
 @import "common/variables-dark.scss";
 
 // Import Hinode theme styles
+@import "components/abbr.scss";
+@import "components/alert.scss";
+@import "components/blockquote.scss";
 @import "components/breadcrumb.scss";
 @import "components/button.scss";
 @import "components/card.scss";
+@import "components/carousel.scss";
 @import "components/clipboard.scss";
 @import "components/command.scss";
 @import "components/feature.scss";
@@ -25,9 +29,11 @@
 @import "components/img.scss";
 @import "components/pagination.scss";
 @import "components/persona.scss";
+@import "components/popover.scss";
 @import "components/sidebar.scss";
 @import "components/syntax.scss";
 @import "components/table.scss";
+@import "components/timeline.scss";
 @import "components/toc.scss";
 @import "components/video.scss";
 @import "common/animation.scss";

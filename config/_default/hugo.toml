@@ -63,6 +63,7 @@ home = ["HTML", "RSS", "REDIR", "netlify", "server"]
   
 [taxonomies]
   tag = 'tags'
+  series = 'series'
 
 [pagination]
   pagerSize = 15

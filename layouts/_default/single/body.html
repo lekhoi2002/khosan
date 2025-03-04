@@ -3,3 +3,10 @@
 {{ end }}
 
 {{ partial "utilities/ProcessContent" (dict "page" .Page "raw" .RawContent) }}
+
+{{/* Thêm series vào cuối bài viết */}}
+{{ if .Params.series }}
+<div class="series-container mt-5">
+    {{ partial "series/series.html" . }}
+</div>
+{{ end }}

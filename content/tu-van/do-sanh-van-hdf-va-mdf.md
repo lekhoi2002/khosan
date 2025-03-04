@@ -3,7 +3,7 @@ author: null
 title: So Sánh Ván gỗ MDF và HDF
 meta:
   title: Ván gỗ MDF và HDF- Loại nào tốt hơn? So sánh chi tiết
-description: 
+  description: 
 date: 2024-08-30T21:52:52+07:00
 draft: false
 thumbnail: /img/tu-van/HDF-Vs-MDF-Board.webp
