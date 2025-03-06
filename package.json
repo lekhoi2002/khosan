@@ -68,12 +68,13 @@
     "url": "https://github.com/gethinode/hinode/issues"
   },
   "homepage": "https://gethinode.com",
-  "dependencies": {
+"dependencies": {
     "@fullhuman/postcss-purgecss": "7.0.2",
     "autoprefixer": "10.4.20",
     "cssnano": "7.0.6",
     "cssnano-preset-advanced": "7.0.6",
     "hugo-bin": "0.139.0",
+    "postcss": "8.5.1", 
     "purgecss-whitelister": "2.4.0"
   },
   "devDependencies": {
