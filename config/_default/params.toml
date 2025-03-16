@@ -180,16 +180,16 @@
     warning = "#ffc107"
     danger = "#dc3545"
     light = "#ffffff"
-    dark = "rgba(0, 7, 12, 0.95)"
+    dark = "#333333"
 # toml-docs-end theme-colors
     themeOpacity = "10"
     darkModeShade = "20%"
     darkModeTint = "40%"
 # toml-docs-start font
-    themeFont = "Inter"
+    themeFont = "Montserrat"
     themeFontPath = "/fonts" # local path
-    themeFontPreload = "/fonts/inter-vietnamese-variable.woff2"
-    fontSizeBase = "1rem" 
+    themeFontPreload = "/fonts/montserrat.woff2"
+    fontSizeBase = "1.025rem" 
 # toml-docs-end font
 # toml-docs-start build
     purge = false
