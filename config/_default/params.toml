@@ -186,9 +186,10 @@
     darkModeShade = "20%"
     darkModeTint = "40%"
 # toml-docs-start font
-    themeFont = "Forma DJR Micro"
+    themeFont = "Inter"
     themeFontPath = "/fonts" # local path
-    fontSizeBase = "1.0625rem" 
+    themeFontPreload = "/fonts/inter-vietnamese-variable.woff2"
+    fontSizeBase = "1rem" 
 # toml-docs-end font
 # toml-docs-start build
     purge = false
