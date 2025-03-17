@@ -188,7 +188,7 @@
 # toml-docs-start font
     themeFont = "Montserrat"
     themeFontPath = "/fonts" # local path
-    themeFontPreload = "/fonts/montserrat.woff2"
+    themeFontPreload = "/fonts/robotoflex.woff2"
     fontSizeBase = "1.025rem" 
 # toml-docs-end font
 # toml-docs-start build
