@@ -14,7 +14,6 @@ const purgecss = purgeCSSPlugin({
   dynamicAttributes: ['data-bs-theme', 'data-bs-theme-animate'],
   safelist: ['was-validated',
     ...whitelister([
-      './assets/scss/components/_clipboard.scss',
       './assets/scss/components/_command.scss',
       './assets/scss/components/_nav.scss',
       './assets/scss/components/_navbar.scss',
@@ -27,10 +26,6 @@ const purgecss = purgeCSSPlugin({
       './assets/scss/theme/fonts.scss',
       './assets/scss/theme/theme.scss',
       './_vendor/github.com/gethinode/mod-cookieyes/v2/assets/scss/cookieyes.scss',
-      './_vendor/github.com/gethinode/mod-flexsearch/v2/assets/scss/modules/flexsearch/flexsearch.scss',
-      './_vendor/github.com/gethinode/mod-katex/dist/katex.scss',
-      './_vendor/github.com/gethinode/mod-leaflet/dist/leaflet.scss',
-      './_vendor/github.com/gethinode/mod-simple-datatables/dist/simple-datatables.scss',
       './_vendor/github.com/twbs/bootstrap/scss/_carousel.scss',
       './_vendor/github.com/twbs/bootstrap/scss/_dropdown.scss',
       './_vendor/github.com/twbs/bootstrap/scss/_modal.scss',
