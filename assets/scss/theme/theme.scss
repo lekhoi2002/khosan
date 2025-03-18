@@ -201,3 +201,15 @@ a {
 p {
     margin-bottom: 1.5rem;
 }
+
+  /* tuỳ chỉnh svg */
+.svg-inline--fa, .icon {
+    width: 1em; /* Kích thước mặc định bằng với font-size của text */
+    height: 1em;
+    vertical-align: middle; /* Căn giữa theo dòng text */
+  }
+
+.fa-sm {
+  width: 0.875em;
+  height: 0.875em;
+}
