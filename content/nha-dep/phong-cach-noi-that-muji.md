@@ -100,7 +100,6 @@ Các vật liệu trong phong cách nội thất Muji đều là những vật l
 **Trả lời**: Hoàn toàn có thể. Phong cách Muji tối ưu hóa không gian nhỏ hẹp nhờ đồ nội thất gọn gàng, đa năng.  
 
 ---
-
 ## 📢 **6. Kết Luận**  
 Phong cách nội thất Muji mang đến không gian sống tối giản, tinh tế, gần gũi thiên nhiên. Bằng cách sử dụng đồ nội thất đơn giản, chất liệu tự nhiên, màu sắc nhẹ nhàng, bạn có thể biến ngôi nhà thành một tổ ấm lý tưởng.  
   

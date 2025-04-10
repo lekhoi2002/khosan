@@ -6,7 +6,7 @@ meta:
     description: Tìm hiểu về tiêu chuẩn E0, E1, E2 của sàn gỗ là gì, ý nghĩa của chúng và loại sàn gỗ nào an toàn, thân thiện với sức khỏe. Xem ngay chi tiết!
 date: 2024-08-30T21:52:51+07:00
 draft: false
-lastmod: 2024-12-15T06:21:31.768Z
+lastmod: 2025-04-10T04:45:14.692Z
 thumbnail: /img/tu-van/e0.webp
 keywords:
     - tiêu chuẩn e0 của sàn gỗ
@@ -14,7 +14,6 @@ keywords:
     - tiêu chuẩn e2 của sàn gỗ
     - sàn gỗ đạt tiêu chuẩn e0
     - sàn gỗ an toàn cho sức khỏe
-noCover: true
 ---
 
 ## Tiêu chuẩn E0, E1, E2 là gì? 

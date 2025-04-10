@@ -16,10 +16,6 @@ keywords:
   - mua sàn gỗ malaysia ở đâu
 weight: 2
 ---
-Dưới đây là nội dung đã chỉnh sửa theo yêu cầu của bạn:  
-- **Xóa định dạng bold trong các thẻ title / heading**  
-- **Xóa các icon trong các thẻ title / heading**  
-- **Giữ nguyên mọi thứ còn lại**  
 
 ---
 
